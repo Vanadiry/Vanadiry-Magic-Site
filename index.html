@@ -256,8 +256,8 @@ Qu...</p></div><div class="meta cap"><span class="cap" id="post-meta">发布于&
 <!-- optional -->
 
   <script>
-  function loadUtterances() {
-    const els = document.querySelectorAll("#comments #utterances");
+  function loadBeaudar() {
+    const els = document.querySelectorAll("#comments #beaudar");
     if (els.length === 0) return;
     els.forEach((el, i) => {
       try {
@@ -266,7 +266,7 @@ Qu...</p></div><div class="meta cap"><span class="cap" id="post-meta">发布于&
         console.log(error);
       }
       var script = document.createElement('script');
-      script.src = 'https://utteranc.es/client.js';
+      script.src = 'https://beaudar.lipk.org/client.js';
       script.async = true;
       for (let key of Object.keys(el.attributes)) {
         let attr = el.attributes[key];
@@ -278,7 +278,7 @@ Qu...</p></div><div class="meta cap"><span class="cap" id="post-meta">发布于&
     });
   }
   window.addEventListener('DOMContentLoaded', (event) => {
-      loadUtterances();
+      loadBeaudar();
   });
 </script>
 
