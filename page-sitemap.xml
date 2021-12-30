@@ -10,8 +10,8 @@
     
     
     <url>
-        <loc>https://blog.vanadiry.com/about/</loc>
-        <lastmod>2021-12-29T16:41:55.874Z</lastmod>
+        <loc>https://blog.vanadiry.com/like/</loc>
+        <lastmod>2021-12-30T15:46:38.481Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -20,7 +20,7 @@
     
     <url>
         <loc>https://blog.vanadiry.com/wiki/mmsgame/</loc>
-        <lastmod>2021-12-26T16:06:50.620Z</lastmod>
+        <lastmod>2021-12-30T15:44:51.157Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -29,7 +29,7 @@
     
     <url>
         <loc>https://blog.vanadiry.com/wiki/hardcore/</loc>
-        <lastmod>2021-12-26T15:42:07.801Z</lastmod>
+        <lastmod>2021-12-30T15:44:46.584Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -37,8 +37,26 @@
     
     
     <url>
-        <loc>https://blog.vanadiry.com/like/</loc>
-        <lastmod>2021-12-26T14:49:54.442Z</lastmod>
+        <loc>https://blog.vanadiry.com/about/</loc>
+        <lastmod>2021-12-30T15:42:56.454Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://blog.vanadiry.com/update/</loc>
+        <lastmod>2021-12-30T15:42:29.621Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://blog.vanadiry.com/line/</loc>
+        <lastmod>2021-12-30T15:15:48.084Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>

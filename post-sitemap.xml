@@ -9,8 +9,32 @@
 
 
     <url>
-        <loc>https://blog.vanadiry.com/2021/01/01/dreamabout/</loc>
-        <lastmod>2021-12-29T13:31:20.479Z</lastmod>
+        <loc>https://blog.vanadiry.com/2021/06/28/video20210628/</loc>
+        <lastmod>2021-12-30T15:48:39.190Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.vanadiry.com/2021/12/30/dream20211230/</loc>
+        <lastmod>2021-12-30T15:10:17.267Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.vanadiry.com/2021/12/27/day002/</loc>
+        <lastmod>2021-12-30T15:07:06.387Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.vanadiry.com/2021/12/17/day001/</loc>
+        <lastmod>2021-12-30T15:07:01.908Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -18,7 +42,7 @@
 
     <url>
         <loc>https://blog.vanadiry.com/2021/12/29/dream20211229/</loc>
-        <lastmod>2021-12-29T13:30:16.773Z</lastmod>
+        <lastmod>2021-12-30T15:06:40.493Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -26,15 +50,71 @@
 
     <url>
         <loc>https://blog.vanadiry.com/2021/12/17/dream20211217/</loc>
-        <lastmod>2021-12-29T13:23:33.723Z</lastmod>
+        <lastmod>2021-12-30T15:06:34.286Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://blog.vanadiry.com/2021/12/27/day001/</loc>
-        <lastmod>2021-12-27T14:05:55.650Z</lastmod>
+        <loc>https://blog.vanadiry.com/2021/12/15/dream20211215/</loc>
+        <lastmod>2021-12-30T15:06:30.656Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.vanadiry.com/2021/12/14/dream20211214/</loc>
+        <lastmod>2021-12-30T15:06:28.229Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.vanadiry.com/2021/12/09/dream20211209/</loc>
+        <lastmod>2021-12-30T15:06:26.034Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.vanadiry.com/2021/12/07/dream20211207/</loc>
+        <lastmod>2021-12-30T15:06:23.635Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.vanadiry.com/2021/12/04/dream20211204/</loc>
+        <lastmod>2021-12-30T15:06:18.915Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.vanadiry.com/2021/12/02/dream20211202/</loc>
+        <lastmod>2021-12-30T15:06:16.159Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.vanadiry.com/2021/12/01/dream20211201/</loc>
+        <lastmod>2021-12-30T15:06:11.536Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.vanadiry.com/2021/01/01/dreamabout/</loc>
+        <lastmod>2021-12-29T13:31:20.479Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -49,80 +129,8 @@
     </url>
 
     <url>
-        <loc>https://blog.vanadiry.com/2021/06/28/video20210628/</loc>
-        <lastmod>2021-12-27T13:53:47.622Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://blog.vanadiry.com/2020/11/12/video20201112/</loc>
         <lastmod>2021-12-27T13:47:18.977Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.vanadiry.com/2021/12/15/dream20211215/</loc>
-        <lastmod>2021-12-27T13:47:10.025Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.vanadiry.com/2021/12/14/dream20211214/</loc>
-        <lastmod>2021-12-27T13:46:26.102Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.vanadiry.com/2021/12/07/dream20211207/</loc>
-        <lastmod>2021-12-27T13:46:05.236Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.vanadiry.com/2021/12/04/dream20211204/</loc>
-        <lastmod>2021-12-27T13:45:54.471Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.vanadiry.com/2021/12/17/daytruedream/</loc>
-        <lastmod>2021-12-27T13:44:27.238Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.vanadiry.com/2021/12/09/dream20211209/</loc>
-        <lastmod>2021-12-27T13:31:53.025Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.vanadiry.com/2021/12/02/dream20211202/</loc>
-        <lastmod>2021-12-27T13:27:13.245Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.vanadiry.com/2021/12/01/dream20211201/</loc>
-        <lastmod>2021-12-27T13:27:02.180Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
