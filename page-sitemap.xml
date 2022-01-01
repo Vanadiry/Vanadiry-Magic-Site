@@ -10,6 +10,15 @@
     
     
     <url>
+        <loc>https://blog.vanadiry.com/update/</loc>
+        <lastmod>2022-01-01T17:59:08.640Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://blog.vanadiry.com/like/</loc>
         <lastmod>2021-12-30T15:46:38.481Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -39,15 +48,6 @@
     <url>
         <loc>https://blog.vanadiry.com/about/</loc>
         <lastmod>2021-12-30T15:42:56.454Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://blog.vanadiry.com/update/</loc>
-        <lastmod>2021-12-30T15:42:29.621Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
