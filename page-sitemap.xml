@@ -11,7 +11,70 @@
     
     <url>
         <loc>https://blog.vanadiry.com/update/</loc>
-        <lastmod>2022-01-01T18:23:45.948Z</lastmod>
+        <lastmod>2022-01-02T17:32:58.905Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://blog.vanadiry.com/wiki/mmsgame/notice/</loc>
+        <lastmod>2022-01-02T17:29:34.505Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://blog.vanadiry.com/wiki/mmsgame/engine/</loc>
+        <lastmod>2022-01-02T17:26:29.847Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://blog.vanadiry.com/wiki/mmsgame/</loc>
+        <lastmod>2022-01-02T17:22:32.581Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://blog.vanadiry.com/wiki/mmsgame/new/</loc>
+        <lastmod>2022-01-02T17:20:29.630Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://blog.vanadiry.com/wiki/mmsgame/license/</loc>
+        <lastmod>2022-01-02T17:02:56.515Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://blog.vanadiry.com/wiki/mmsgame/staff/</loc>
+        <lastmod>2022-01-02T16:52:33.930Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://blog.vanadiry.com/wiki/mmsgame/update/</loc>
+        <lastmod>2022-01-02T16:42:47.234Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -21,33 +84,6 @@
     <url>
         <loc>https://blog.vanadiry.com/about/</loc>
         <lastmod>2022-01-01T18:22:40.427Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://blog.vanadiry.com/wiki/mmsgame/</loc>
-        <lastmod>2022-01-01T18:20:56.459Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://blog.vanadiry.com/wiki/mmsgame/new/</loc>
-        <lastmod>2022-01-01T18:19:41.833Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://blog.vanadiry.com/wiki/mmsgame/update/</loc>
-        <lastmod>2022-01-01T18:18:48.993Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
