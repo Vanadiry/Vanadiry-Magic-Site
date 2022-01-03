@@ -10,6 +10,69 @@
     
     
     <url>
+        <loc>https://blog.vanadiry.com/wiki/hardcore/</loc>
+        <lastmod>2022-01-03T15:22:09.191Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://blog.vanadiry.com/wiki/hardcore/notice/</loc>
+        <lastmod>2022-01-03T15:21:14.927Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://blog.vanadiry.com/wiki/hardcore/staff/</loc>
+        <lastmod>2022-01-03T14:39:07.289Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://blog.vanadiry.com/wiki/hardcore/schedule/</loc>
+        <lastmod>2022-01-03T14:32:40.450Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://blog.vanadiry.com/wiki/mmsgame/license/</loc>
+        <lastmod>2022-01-03T14:24:58.477Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://blog.vanadiry.com/wiki/hardcore/license/</loc>
+        <lastmod>2022-01-03T14:24:40.321Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://blog.vanadiry.com/wiki/mmsgame/new/</loc>
+        <lastmod>2022-01-02T17:37:51.686Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://blog.vanadiry.com/update/</loc>
         <lastmod>2022-01-02T17:32:58.905Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -46,24 +109,6 @@
     
     
     <url>
-        <loc>https://blog.vanadiry.com/wiki/mmsgame/new/</loc>
-        <lastmod>2022-01-02T17:20:29.630Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://blog.vanadiry.com/wiki/mmsgame/license/</loc>
-        <lastmod>2022-01-02T17:02:56.515Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://blog.vanadiry.com/wiki/mmsgame/staff/</loc>
         <lastmod>2022-01-02T16:52:33.930Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -93,15 +138,6 @@
     <url>
         <loc>https://blog.vanadiry.com/like/</loc>
         <lastmod>2021-12-30T15:46:38.481Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://blog.vanadiry.com/wiki/hardcore/</loc>
-        <lastmod>2021-12-30T15:44:46.584Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
