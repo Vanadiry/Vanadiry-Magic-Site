@@ -10,6 +10,15 @@
     
     
     <url>
+        <loc>https://blog.vanadiry.com/update/</loc>
+        <lastmod>2022-01-09T14:52:18.606Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://blog.vanadiry.com/GK/</loc>
         <lastmod>2022-01-07T14:42:59.943Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -93,15 +102,6 @@
     <url>
         <loc>https://blog.vanadiry.com/wiki/mmsgame/new/</loc>
         <lastmod>2022-01-02T17:37:51.686Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://blog.vanadiry.com/update/</loc>
-        <lastmod>2022-01-02T17:32:58.905Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
