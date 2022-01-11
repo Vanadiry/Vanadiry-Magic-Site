@@ -10,6 +10,24 @@
     
     
     <url>
+        <loc>https://blog.vanadiry.com/wiki/TinderGame/</loc>
+        <lastmod>2022-01-11T09:47:43.141Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://blog.vanadiry.com/about/</loc>
+        <lastmod>2022-01-11T05:24:38.064Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://blog.vanadiry.com/update/</loc>
         <lastmod>2022-01-09T14:52:18.606Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -21,15 +39,6 @@
     <url>
         <loc>https://blog.vanadiry.com/GK/</loc>
         <lastmod>2022-01-07T14:42:59.943Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://blog.vanadiry.com/about/</loc>
-        <lastmod>2022-01-07T14:04:20.973Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
