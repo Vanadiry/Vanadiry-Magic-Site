@@ -10,6 +10,33 @@
     
     
     <url>
+        <loc>https://magic.vanadiry.com/about/</loc>
+        <lastmod>2022-01-21T16:44:49.460Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/wiki/TinderGame/</loc>
+        <lastmod>2022-01-21T16:41:18.735Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/update/</loc>
+        <lastmod>2022-01-21T16:40:52.179Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://magic.vanadiry.com/line/</loc>
         <lastmod>2022-01-18T10:15:37.952Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -28,15 +55,6 @@
     
     
     <url>
-        <loc>https://magic.vanadiry.com/update/</loc>
-        <lastmod>2022-01-16T14:28:19.813Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://magic.vanadiry.com/wiki/TinderComic/</loc>
         <lastmod>2022-01-11T11:58:11.928Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -48,24 +66,6 @@
     <url>
         <loc>https://magic.vanadiry.com/wiki/TinderBangumi/</loc>
         <lastmod>2022-01-11T11:57:54.324Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/wiki/TinderGame/</loc>
-        <lastmod>2022-01-11T09:47:43.141Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/about/</loc>
-        <lastmod>2022-01-11T05:24:38.064Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
