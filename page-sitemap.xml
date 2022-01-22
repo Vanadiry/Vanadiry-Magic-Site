@@ -11,7 +11,16 @@
     
     <url>
         <loc>https://magic.vanadiry.com/about/</loc>
-        <lastmod>2022-01-21T16:44:49.460Z</lastmod>
+        <lastmod>2022-01-22T17:05:17.763Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/update/</loc>
+        <lastmod>2022-01-22T17:04:25.494Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -21,15 +30,6 @@
     <url>
         <loc>https://magic.vanadiry.com/wiki/TinderGame/</loc>
         <lastmod>2022-01-21T16:41:18.735Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/update/</loc>
-        <lastmod>2022-01-21T16:40:52.179Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
