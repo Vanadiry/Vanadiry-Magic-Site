@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Vanadiry</title>
-  
+  <icon>https://magic.vanadiry.com/library/svg/firetree.svg</icon>
   <subtitle>Magic &amp; Blog | 呐呐呐</subtitle>
   <link href="https://magic.vanadiry.com/atom.xml" rel="self"/>
   
@@ -92,32 +92,6 @@
   </entry>
   
   <entry>
-    <title>一个Oculus Quest 2 的60刀/30刀邀请链接</title>
-    <link href="https://magic.vanadiry.com/2022/02/19/oculus/003/"/>
-    <id>https://magic.vanadiry.com/2022/02/19/oculus/003/</id>
-    <published>2022-02-19T05:29:07.000Z</published>
-    <updated>2022-02-19T16:01:24.693Z</updated>
-    
-    <content type="html"><![CDATA[<p>我自己的！！！</p><p><a href="https://www.oculus.com/referrals/link/Vanadiry">直达</a></p><p><a href="https://www.oculus.com/referrals/link/Vanadiry">https://www.oculus.com/referrals/link/Vanadiry</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;我自己的！！！&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.oculus.com/referrals/link/Vanadiry&quot;&gt;直达&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.oculus.com/referrals/link/Vana</summary>
-      
-    
-    
-    
-    <category term="Oculus" scheme="https://magic.vanadiry.com/categories/Oculus/"/>
-    
-    
-    <category term="Quest 2" scheme="https://magic.vanadiry.com/tags/Quest-2/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Oculus Quest 2 录制16:9视频</title>
     <link href="https://magic.vanadiry.com/2022/02/19/oculus/002/"/>
     <id>https://magic.vanadiry.com/2022/02/19/oculus/002/</id>
@@ -132,6 +106,32 @@
     <summary type="html">&lt;p&gt;你需要先打开Quest 2的开发者模式，然后连接到电脑，在电脑上安装SideQuest，并连接上。&lt;/p&gt;
 &lt;p&gt;点上面的&lt;strong&gt;Run ADB commands&lt;/strong&gt;然后选&lt;strong&gt;CUSTOM COMMAND&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;输</summary>
+      
+    
+    
+    
+    <category term="Oculus" scheme="https://magic.vanadiry.com/categories/Oculus/"/>
+    
+    
+    <category term="Quest 2" scheme="https://magic.vanadiry.com/tags/Quest-2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一个Oculus Quest 2 的60刀/30刀邀请链接</title>
+    <link href="https://magic.vanadiry.com/2022/02/19/oculus/003/"/>
+    <id>https://magic.vanadiry.com/2022/02/19/oculus/003/</id>
+    <published>2022-02-19T05:29:07.000Z</published>
+    <updated>2022-02-19T16:01:24.693Z</updated>
+    
+    <content type="html"><![CDATA[<p>我自己的！！！</p><p><a href="https://www.oculus.com/referrals/link/Vanadiry">直达</a></p><p><a href="https://www.oculus.com/referrals/link/Vanadiry">https://www.oculus.com/referrals/link/Vanadiry</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;我自己的！！！&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.oculus.com/referrals/link/Vanadiry&quot;&gt;直达&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.oculus.com/referrals/link/Vana</summary>
       
     
     
@@ -524,6 +524,491 @@
     <category term="梦" scheme="https://magic.vanadiry.com/tags/%E6%A2%A6/"/>
     
     <category term="朋友" scheme="https://magic.vanadiry.com/tags/%E6%9C%8B%E5%8F%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>突然想到的一些话，以及博客终于快完成了！</title>
+    <link href="https://magic.vanadiry.com/2021/12/27/day/002/"/>
+    <id>https://magic.vanadiry.com/2021/12/27/day/002/</id>
+    <published>2021-12-27T14:01:29.000Z</published>
+    <updated>2022-01-07T13:24:14.481Z</updated>
+    
+    <content type="html"><![CDATA[<p>刚刚更新了很多博客里的内容，发现左边的（手机在右下角的更多）最近更新是按照文件修改顺序排的。（（（（</p><p>昨天从阴间黑市捡了个东西回来，确实挺好用的。想到了一个人说的话：</p><blockquote><p>这儿可是阴间黑市，不存在人脉关系。只要有钱，没什么买不来的。</p><p>——Main Character</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;刚刚更新了很多博客里的内容，发现左边的（手机在右下角的更多）最近更新是按照文件修改顺序排的。（（（（&lt;/p&gt;
+&lt;p&gt;昨天从阴间黑市捡了个东西回来，确实挺好用的。想到了一个人说的话：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这儿可是阴间黑市，不存在人脉关系。只要有钱，没什么买</summary>
+      
+    
+    
+    
+    <category term="日常" scheme="https://magic.vanadiry.com/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="日常" scheme="https://magic.vanadiry.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>梦想成真了？？？</title>
+    <link href="https://magic.vanadiry.com/2021/12/17/day/001/"/>
+    <id>https://magic.vanadiry.com/2021/12/17/day/001/</id>
+    <published>2021-12-17T13:39:34.000Z</published>
+    <updated>2022-01-01T18:26:27.663Z</updated>
+    
+    <content type="html"><![CDATA[<p>凌晨梦到了我扔掉了我的Epic账号，换了一个PS5游戏，结果晚上就发现Epic凌晨开始送游戏了（？</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;凌晨梦到了我扔掉了我的Epic账号，换了一个PS5游戏，结果晚上就发现Epic凌晨开始送游戏了（？&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="日常" scheme="https://magic.vanadiry.com/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="梦" scheme="https://magic.vanadiry.com/tags/%E6%A2%A6/"/>
+    
+    <category term="Epic" scheme="https://magic.vanadiry.com/tags/Epic/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记梦 | Epic会不会送我游戏呢？</title>
+    <link href="https://magic.vanadiry.com/2021/12/17/dream/008/"/>
+    <id>https://magic.vanadiry.com/2021/12/17/dream/008/</id>
+    <published>2021-12-16T21:52:56.000Z</published>
+    <updated>2021-12-30T15:06:34.286Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Time&#x3D;20211217,a0059,a0552</strong></p><p>我到了学校，听说可以用自己的epic账号兑换一个PS5游戏，我把我的epic账号打包到了一个手提袋里丢掉了，然后拿走了一个盒装的生化危机8.<br>我见到了Q，他说自己的无名指上掉了一块肉，并且自燃了。<br>我看到了之前在班里谈得来的那位同学，他给我挥手，然后走了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Time&amp;#x3D;20211217,a0059,a0552&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我到了学校，听说可以用自己的epic账号兑换一个PS5游戏，我把我的epic账号打包到了一个手提袋里丢掉了，然后拿走了一个盒装的生化危机8.&lt;br&gt;我见到了Q，他说</summary>
+      
+    
+    
+    
+    <category term="记梦" scheme="https://magic.vanadiry.com/categories/%E8%AE%B0%E6%A2%A6/"/>
+    
+    
+    <category term="梦" scheme="https://magic.vanadiry.com/tags/%E6%A2%A6/"/>
+    
+    <category term="Epic" scheme="https://magic.vanadiry.com/tags/Epic/"/>
+    
+    <category term="朋友" scheme="https://magic.vanadiry.com/tags/%E6%9C%8B%E5%8F%8B/"/>
+    
+    <category term="同学" scheme="https://magic.vanadiry.com/tags/%E5%90%8C%E5%AD%A6/"/>
+    
+    <category term="PS5" scheme="https://magic.vanadiry.com/tags/PS5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记梦 | 又是完全不懂什么意思的梦</title>
+    <link href="https://magic.vanadiry.com/2021/12/15/dream/007/"/>
+    <id>https://magic.vanadiry.com/2021/12/15/dream/007/</id>
+    <published>2021-12-15T00:37:49.000Z</published>
+    <updated>2021-12-30T15:06:30.656Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Time&#x3D;20211215,a0750,a0837</strong></p><p><strong>只记住了很小一部分</strong></p><p>我放学之后老师召集了三个学生在外面补习，两个男生一个女生，其中有我。我坐下，却发现她补习的是英语。老师来了，我的手机突然响了，但是老师似乎没有发现。<br>下课了，我看到有人在用拖拉机玩过山车，一个人已经被甩得没了知觉，但是机器仍在运行。终于停下来了，然们把那个人拉出来，但那个人立马站起来了。<br>我在两个三角形围起来的展示牌前，它的上面搭了一个更大的牌子，有人掉进了三角形的中间，爬上来时候说里面是温泉，但是他快要被淹死了。<br>老师说要上课了，我们三个同学赶快回去了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Time&amp;#x3D;20211215,a0750,a0837&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;只记住了很小一部分&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我放学之后老师召集了三个学生在外面补习，两个男生一个女生，其中有我。我坐下，却发现她补习的是英语</summary>
+      
+    
+    
+    
+    <category term="记梦" scheme="https://magic.vanadiry.com/categories/%E8%AE%B0%E6%A2%A6/"/>
+    
+    
+    <category term="梦" scheme="https://magic.vanadiry.com/tags/%E6%A2%A6/"/>
+    
+    <category term="同学" scheme="https://magic.vanadiry.com/tags/%E5%90%8C%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记梦 | 反客为主</title>
+    <link href="https://magic.vanadiry.com/2021/12/14/dream/006/"/>
+    <id>https://magic.vanadiry.com/2021/12/14/dream/006/</id>
+    <published>2021-12-14T00:20:04.000Z</published>
+    <updated>2021-12-30T15:06:28.229Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Time&#x3D;20211214,a0802,a0820</strong></p><p><strong>在梦里我甚至总结好了部分文字</strong></p><p>我奉命去追击一个人，他的反侦察能力极好，我连着报告了3次，路线都错了。我看到了一位同学，想和同学说话来伪装自己。我到了一个写着音游的机台，但这并不是音游机台，我很奇怪。同学刚好到了，我想和说话，他突然拿了刀，把和他一起的人全杀了，准备来杀我。<br>我看到了警察，我跑过去，拿出手机录像。我对那个同学喊了几句，过了一会，警察要我去做笔录，我如实写了。又来了一个人，说是导游，他们一起说我欺负那个同学，我说绝对不可能是我，还重新做了笔录。<br>那个同学说要上厕所，很多人跟了过去，我想看看究竟是怎么回事，就一起下了车，下车时侯听到了导游和警察说，我觉得不是他，他不会干那种事情。<br>准备回去了，我坐上了大巴车，我很生气，想让那个同学当面给我道歉。我生气到我徒手撕开了一个矿泉水瓶。有人告诉我说，那位导游是学校的主任。<br>我看到了天上有会飞的，成组的，带颜色的，由粒子组成的拖尾的光球，很美，但我忘记拍照了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Time&amp;#x3D;20211214,a0802,a0820&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在梦里我甚至总结好了部分文字&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我奉命去追击一个人，他的反侦察能力极好，我连着报告了3次，路线都错了。我看到了一位同学</summary>
+      
+    
+    
+    
+    <category term="记梦" scheme="https://magic.vanadiry.com/categories/%E8%AE%B0%E6%A2%A6/"/>
+    
+    
+    <category term="梦" scheme="https://magic.vanadiry.com/tags/%E6%A2%A6/"/>
+    
+    <category term="同学" scheme="https://magic.vanadiry.com/tags/%E5%90%8C%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记梦 | 怪！</title>
+    <link href="https://magic.vanadiry.com/2021/12/09/dream/005/"/>
+    <id>https://magic.vanadiry.com/2021/12/09/dream/005/</id>
+    <published>2021-12-09T02:40:23.000Z</published>
+    <updated>2021-12-30T15:06:26.034Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Time&#x3D;20211209,a1012,a1040</strong></p><p>我在学校把包背在身上，拿着手机，xx来了，但他不笑，我给他照了相，他就消失了。我中午用假条出了门，到了一条街上，我走进一个旅馆，进了我的房间，发现旁边还有一个人，我叫醒他，发现里面有更多的人，我走了。天黑了，我怕老师发现我中午没去，但老师没发现。我醒了一层梦，却说要快回家，用高铁从新加坡到南京，我在手机上导航，但买不到票。我醒了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Time&amp;#x3D;20211209,a1012,a1040&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我在学校把包背在身上，拿着手机，xx来了，但他不笑，我给他照了相，他就消失了。我中午用假条出了门，到了一条街上，我走进一个旅馆，进了我的房间，发现旁边还有一个人，我</summary>
+      
+    
+    
+    
+    <category term="记梦" scheme="https://magic.vanadiry.com/categories/%E8%AE%B0%E6%A2%A6/"/>
+    
+    
+    <category term="梦" scheme="https://magic.vanadiry.com/tags/%E6%A2%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记梦 | 现实生活里那天早上我也想拍张照片</title>
+    <link href="https://magic.vanadiry.com/2021/12/07/dream/004/"/>
+    <id>https://magic.vanadiry.com/2021/12/07/dream/004/</id>
+    <published>2021-12-07T00:23:07.000Z</published>
+    <updated>2021-12-30T15:06:23.635Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Time&#x3D;20211207,a0750,a0823</strong></p><p>我走路到学校，7点到校就行，路上我一直想上厕所，就跑到了学校。走路和骑车不是一条路，走路能直接走到学校里面，进了学校发现有幼儿园在放学，我看着天很好看，而且才六点五十六，就想出校门拍一下，我跑着去，但是跑不动。我到了桥上，但这个桥是晃的，我拍天，拿起手机发现了班主任，我继续拍。桥被两个人抓着左边的绳索晃，我拍不清楚，于是我也开始晃，但是晃不过他们，还差点被甩下去，他们还用东西砸我。有两个同学和我一起说两个晃桥的人，但我不知道他们是谁，我把他们扔我的东西扔回去，跑了。他们追我，我和他们到了一个庙，两个同学也去了.我爬到屋顶，发现同学走了，晃桥的人准备围攻，同学又回来了。<br>要写对一道英语题才可以反击，我问了同学答案，把晃桥的人打了下去，我们一起把他打了一顿。我看到了地上显示有一个关卡全部完成，我踩了一脚，说终于过了。我醒了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Time&amp;#x3D;20211207,a0750,a0823&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我走路到学校，7点到校就行，路上我一直想上厕所，就跑到了学校。走路和骑车不是一条路，走路能直接走到学校里面，进了学校发现有幼儿园在放学，我看着天很好看，而且才六点五</summary>
+      
+    
+    
+    
+    <category term="记梦" scheme="https://magic.vanadiry.com/categories/%E8%AE%B0%E6%A2%A6/"/>
+    
+    
+    <category term="梦" scheme="https://magic.vanadiry.com/tags/%E6%A2%A6/"/>
+    
+    <category term="摄影" scheme="https://magic.vanadiry.com/tags/%E6%91%84%E5%BD%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记梦 | 好几个梦串在一起，好像没什么联系</title>
+    <link href="https://magic.vanadiry.com/2021/12/04/dream/003/"/>
+    <id>https://magic.vanadiry.com/2021/12/04/dream/003/</id>
+    <published>2021-12-04T01:35:41.000Z</published>
+    <updated>2021-12-30T15:06:18.915Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Time&#x3D;20211204,a0810,a0935</strong></p><p>我应该是一名气象工作者，在一个屋檐下看天，天比一般时间大得多，还有点扭曲的现象。但我上面有一个板子，很脏，我不想趴在那个上面看。我一用力，把我脚下踩的板子给踩扁了，我没有之前站的高克，也就看不到天了。一个管事的男的给我拿了一个新的梯子，还没打开包装的那种。我打开了包装上去看天，发现什么都看不到了。<br>我回到班里，发现要布置考场，有四个桌子叠起来，有两组这样的桌子。我本来在后面坐着，但发现我的桌子被弄到了前面，我把桌子又拿了回来，但碰倒了一叠桌子，它们塌了下来，刚好砸在走道上，没有砸到人。<br>我在一个方舱里，是白色方舱，很高科技，但是外面有人在看着，是透明玻璃。（这中间很多被忘记了），我在一个门口，外面有一个老人在看着我，我点了一下门旁边显示屏上的“音游”按钮，周围立马发生了变化，我进了那个门口，发现里面是厕所，又有人进来了，我们一起上了个厕所，但是我们都不认识，而且他们没有表情。<br>我从里面出来，到了车上，车上是我爸爸和他的一个朋友。但我妈妈没在车上。我吃了一个炖老鼠，因为太难吃我吐了。<br>这个画面是一个地图，像游戏一样，有交通线把各地连接起来，但是很多线都变成了灰色。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Time&amp;#x3D;20211204,a0810,a0935&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我应该是一名气象工作者，在一个屋檐下看天，天比一般时间大得多，还有点扭曲的现象。但我上面有一个板子，很脏，我不想趴在那个上面看。我一用力，把我脚下踩的板子给踩扁了，</summary>
+      
+    
+    
+    
+    <category term="记梦" scheme="https://magic.vanadiry.com/categories/%E8%AE%B0%E6%A2%A6/"/>
+    
+    
+    <category term="梦" scheme="https://magic.vanadiry.com/tags/%E6%A2%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记梦 | 被扔到了戒网瘾学校</title>
+    <link href="https://magic.vanadiry.com/2021/12/02/dream/002/"/>
+    <id>https://magic.vanadiry.com/2021/12/02/dream/002/</id>
+    <published>2021-12-02T00:22:01.000Z</published>
+    <updated>2021-12-30T15:06:16.159Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Time&#x3D;20211202,a0750,a0822</strong></p><p>我在戒网瘾学校，学校说答题，若是过关就能走，不过关就继续在这里。我答题，我左右都是铁丝网。我看不到题目，然后就听见有人在讲题，讲的是英语，我手里多了一张卷子，但我找不到老师，过了一会，我被放出来了。<br>我直接在电动车上，但是我不知道要往哪，天是黑的，是早上天还没亮那个时候。我骑车转了很久，到了一个类似菜市场的地方，很多人，但他们没什么表情。我把车停在一个车棚，是用红色的布搭起来的，收费的是一个年轻人，我把车推进去，遇到了一个同学，看见班主任在和一些人说话。我给同学说我一会自己走，然后我出去车棚了。我问年轻人，我刚把车停下，就不给钱了吧？他点头。我前面有一个女同学在付钱，但我不知道她是谁。<br>天变成黑色的，应该是晚上，我找车，但是找不到。我用手机给父母发消息问在哪里等，一直都没有回应，然后整个消息都找不到了。我按钥匙找车，只响了一声，找了很久发现车子在车棚里，老板在拆红色的布，我等着他走了我推车，就不用给钱了，但是他一直不走。我从手提兜里找到了一块钱给了他，我有开始到处骑车，不知道去哪。<br>到了戒网瘾的学校门口，我看见了一个被烧焦了全身黑的人，他还没死，还会动，在门口躺着，我从边上过去，怕被他又拉回学校。<br>醒了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Time&amp;#x3D;20211202,a0750,a0822&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我在戒网瘾学校，学校说答题，若是过关就能走，不过关就继续在这里。我答题，我左右都是铁丝网。我看不到题目，然后就听见有人在讲题，讲的是英语，我手里多了一张卷子，但我找</summary>
+      
+    
+    
+    
+    <category term="记梦" scheme="https://magic.vanadiry.com/categories/%E8%AE%B0%E6%A2%A6/"/>
+    
+    
+    <category term="梦" scheme="https://magic.vanadiry.com/tags/%E6%A2%A6/"/>
+    
+    <category term="戒网瘾学校" scheme="https://magic.vanadiry.com/tags/%E6%88%92%E7%BD%91%E7%98%BE%E5%AD%A6%E6%A0%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记梦 | 在学校发生的神奇故事（事故）</title>
+    <link href="https://magic.vanadiry.com/2021/12/01/dream/001/"/>
+    <id>https://magic.vanadiry.com/2021/12/01/dream/001/</id>
+    <published>2021-12-01T01:20:01.000Z</published>
+    <updated>2021-12-30T15:06:11.536Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Time&#x3D;20211201,a0850,a0920</strong></p><p>我不想跑操，但是不得不跑，我到了楼下，发现今天要在高二的场地起跑，从综合楼边站队，我在第二排后面站着，背着书包。因为两个领队的其中一个要上厕所耽误了时间，所以被后面的一个班级先跑了。开始跑了，我后面的人把胳膊放在我书包上，我跑不动，他太壮了，我看见了爸爸，然后我不跑了，班主任来了，我问班主任前面很壮的人是谁，她说叫xxx，我喊：“xxx！”他回头，我说过来，他过来了，我问他为什么把手放在我身上，他很牛，不说，还反过来威胁我。我又问了他几句，他不说话，然后从车棚上面逃走了。车棚上面的缝隙不能够让一个人通过，而且旁边就有一扇门。他是班主任的外侄子，所以班主任不吵他。<br>然后不知道为什么天黑了，我和爸爸在学校楼下的麻辣烫吃饭，我问他外侄子是什么，爸爸也不知道，说了一堆没用的东西。我在网上查，查不到，出来的全是一堆英文，爸爸说小心被发现了手机。然后爸爸去弄了点乌冬面，带芝麻酱的，我想吃一点，但是不知道为什么我吃不了。我喝了汤，是用碟子盛的，我只喝了一碟，但是喝了很多，喝完之后发现下面有一撮头发，我还问，喝完了发现头发能换吗？店里都是人，但看不清样子。爸爸的手机响了，有人找他，他走了。<br>我到了小区A区旁边，从A区向后是自己家的样子，向前就变成了大路，我能拿起来一个印钞车，我推着玩，里面还有人，我看见妈妈在后面的出租车上跟着爸爸，然后我回家了，到了楼下找钥匙，发现楼上下来的人我都不认识。上楼的时候我还害怕跑操时候的那个人报复。到了门口发现门开着，我喊了一声是谁，出来了一个人，我在外面把门锁住，报警，但是拨不出去，门被里面的人打开了，我按住他想把他推倒但发现了他手里的刀，我醒了。<br>我看到了一个界面，左边是一个林荫小道的照片，右边是不知道是什么的演员表，演员表的上面有一个音游调整延迟的线，我跟着点，但我听不到声音。我听到有人在说，老爹要出第九集了，但不行了。我觉得什么都不对劲，我真的醒了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Time&amp;#x3D;20211201,a0850,a0920&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我不想跑操，但是不得不跑，我到了楼下，发现今天要在高二的场地起跑，从综合楼边站队，我在第二排后面站着，背着书包。因为两个领队的其中一个要上厕所耽误了时间，所以被后面</summary>
+      
+    
+    
+    
+    <category term="记梦" scheme="https://magic.vanadiry.com/categories/%E8%AE%B0%E6%A2%A6/"/>
+    
+    
+    <category term="梦" scheme="https://magic.vanadiry.com/tags/%E6%A2%A6/"/>
+    
+    <category term="学校" scheme="https://magic.vanadiry.com/tags/%E5%AD%A6%E6%A0%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用Ren&#39;Py做一个类似DDLC的文件检查/生成</title>
+    <link href="https://magic.vanadiry.com/2021/07/21/renpy/001/"/>
+    <id>https://magic.vanadiry.com/2021/07/21/renpy/001/</id>
+    <published>2021-07-21T02:11:05.000Z</published>
+    <updated>2022-01-07T13:23:49.678Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="警告"><a href="#警告" class="headerlink" title="警告"></a>警告</h3><p>这篇文章的内容关于DDLC（Doki Doki Literature Club!）。<br>以下内容涉及从代码层面的剧透，如果你不希望被剧透，请先游玩该游戏，玩过这个游戏也会对这些机制更加熟悉。<br>在steam上，这个游戏是免费的， <a href="https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/">前往Steam查看这个游戏</a>。</p><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>在DDLC里，如果你刚下载了游戏就删掉了位于<mark class="tag-plugin mark" >root/characters</mark>下的<mark class="tag-plugin mark" >Monika.chr</mark>并且启动，你会看到Sayori崩溃的剧情。<br>当你进行到三周目，你会和Monika共处一室，此时删除<mark class="tag-plugin mark" >Monika.chr</mark>，剧情才会继续推进。<br>这篇文章讲述了如何使用Ren’Py引擎实现这个效果。</p><p>当然，还有一种情况：在游戏的最后，Monika会生成除了自己之外全部的角色文件，这也会说到~</p><h3 id="实现"><a href="#实现" class="headerlink" title="实现"></a>实现</h3><h4 id="检查文件"><a href="#检查文件" class="headerlink" title="检查文件"></a>检查文件</h4><p>来看一下DDLC的代码~</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">python:</span><br><span class="line">try: renpy.file(&quot;../characters/monika.chr&quot;)</span><br><span class="line">except: renpy.jump(&quot;ch0_kill&quot;)</span><br></pre></td></tr></table></figure><p>这段代码被书写在<mark class="tag-plugin mark" >script.rpy</mark>的一个<mark class="tag-plugin mark" >label</mark>下<br>它会检查<mark class="tag-plugin mark" >root/characters</mark>下是否存在<mark class="tag-plugin mark" >Monika.chr</mark>，如果存在，则继续进行脚本， 如果不存在，则跳转到<mark class="tag-plugin mark" >ch0_kill</mark>这段<mark class="tag-plugin mark" >label</mark>。</p><h4 id="生成文件"><a href="#生成文件" class="headerlink" title="生成文件"></a>生成文件</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">python:</span><br><span class="line">try: renpy.file(config.basedir + &quot;/characters/Shano.chr&quot;)</span><br><span class="line">except: open(config.basedir + &quot;/characters/Shano.chr&quot;, &quot;wb&quot;).write(renpy.file(&quot;Shano.chr&quot;).read())</span><br></pre></td></tr></table></figure><p>这是修改后的代码，它的作用是检查<mark class="tag-plugin mark" >root/characters</mark>下有没有<mark class="tag-plugin mark" >Shano.chr</mark>，如果没有， 则把<mark class="tag-plugin mark" >root/game</mark>下的<mark class="tag-plugin mark" >Shano.chr</mark>写入<mark class="tag-plugin mark" >root/characters</mark>。</p><div class="tag-plugin note" color="cyan"><div class="body"><p>应当确保game文件夹下始终有一份角色文件，并修改option.rpy。使需要文件能够被顺利生成，并一起打包</p></div></div><h3 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">label 01:</span><br><span class="line">python:</span><br><span class="line">try: renpy.file(&quot;../characters/Shano.chr&quot;)</span><br><span class="line">except: renpy.jump(&quot;02&quot;)</span><br><span class="line">return</span><br><span class="line"></span><br><span class="line">label 02:</span><br><span class="line">sy &quot;重置档案......&#123;nw&#125;&quot;</span><br><span class="line">call screen onlyok(&quot;SYSTEM\n请重新启动&quot;, ok_action=Return())</span><br><span class="line">python:</span><br><span class="line">try: renpy.file(config.basedir + &quot;/characters/Shano.chr&quot;)</span><br><span class="line">except: open(config.basedir + &quot;/characters/Shano.chr&quot;, &quot;wb&quot;).write(renpy.file(&quot;Shano.chr&quot;).read())</span><br><span class="line">$ renpy.quit()</span><br></pre></td></tr></table></figure><p>当运行<mark class="tag-plugin mark" >label 01</mark>时，检查<mark class="tag-plugin mark" >root/characters</mark>下的<mark class="tag-plugin mark" >Shano.chr</mark>。如果有则继续，如果没有则跳转到<mark class="tag-plugin mark" >label 02</mark>。系统提示”需要重新启动”，然后生成文件并关闭游戏。（提示框需要另行修改）</p><p>下次打开游戏时，由于已经生成了需要检查的文件，脚本可以继续执行。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;警告&quot;&gt;&lt;a href=&quot;#警告&quot; class=&quot;headerlink&quot; title=&quot;警告&quot;&gt;&lt;/a&gt;警告&lt;/h3&gt;&lt;p&gt;这篇文章的内容关于DDLC（Doki Doki Literature Club!）。&lt;br&gt;以下内容涉及从代码层面的剧透，如果你不希望被剧透</summary>
+      
+    
+    
+    
+    <category term="Ren&#39;Py" scheme="https://magic.vanadiry.com/categories/Ren-Py/"/>
+    
+    
+    <category term="Ren&#39;Py" scheme="https://magic.vanadiry.com/tags/Ren-Py/"/>
+    
+    <category term="Python" scheme="https://magic.vanadiry.com/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>手搓Blog指南 Old | 归档</title>
+    <link href="https://magic.vanadiry.com/2021/07/18/blog/001/"/>
+    <id>https://magic.vanadiry.com/2021/07/18/blog/001/</id>
+    <published>2021-07-18T06:35:12.000Z</published>
+    <updated>2022-01-07T13:22:03.611Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是一篇归档，来自我还在手搓博客的时候，那时候我不知道为什么部署不了hexo</p><h3 id="写一篇博客"><a href="#写一篇博客" class="headerlink" title="写一篇博客"></a>写一篇博客</h3><p>拷贝一份位于template下的blog.html，然后进行相应编辑即可~<br>请注意！博客内容的目录系统也需要自行建立：</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line">// 新建一个标题：</span><br><span class="line"><span class="tag">&lt;<span class="name">li</span> <span class="attr">class</span>=<span class="string">&quot;post-toc-item post-toc-level-1&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">class</span>=<span class="string">&quot;post-toc-link&quot;</span> <span class="attr">href</span>=<span class="string">&quot;#标题&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">span</span> <span class="attr">class</span>=<span class="string">&quot;post-toc-number&quot;</span>&gt;</span>1.<span class="tag">&lt;/<span class="name">span</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">span</span> <span class="attr">class</span>=<span class="string">&quot;post-toc-text&quot;</span>&gt;</span>标题<span class="tag">&lt;/<span class="name">span</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"></span><br><span class="line">// 新建一个分支：</span><br><span class="line"><span class="tag">&lt;<span class="name">ol</span> <span class="attr">class</span>=<span class="string">&quot;post-toc-child&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span> <span class="attr">class</span>=<span class="string">&quot;post-toc-item post-toc-level-2&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">class</span>=<span class="string">&quot;post-toc-link&quot;</span> <span class="attr">href</span>=<span class="string">&quot;#标题2.1&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">span</span> <span class="attr">class</span>=<span class="string">&quot;post-toc-number&quot;</span>&gt;</span>2.1.<span class="tag">&lt;/<span class="name">span</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">span</span> <span class="attr">class</span>=<span class="string">&quot;post-toc-text&quot;</span>&gt;</span>标题2.1<span class="tag">&lt;/<span class="name">span</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">ol</span>&gt;</span></span><br><span class="line"></span><br><span class="line">// 在现有分支上增加一个分支只需要新建<span class="tag">&lt;<span class="name">li</span>&gt;</span>即可</span><br></pre></td></tr></table></figure><p>在正文部分，则需要这么写：</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">//新建一个标题：</span><br><span class="line"><span class="tag">&lt;<span class="name">h1</span> <span class="attr">id</span>=<span class="string">&quot;标题&quot;</span>&gt;</span><span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;#标题&quot;</span> <span class="attr">class</span>=<span class="string">&quot;headerlink&quot;</span> <span class="attr">title</span>=<span class="string">&quot;标题&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">a</span>&gt;</span>标题<span class="tag">&lt;/<span class="name">h1</span>&gt;</span></span><br><span class="line"></span><br><span class="line">// 新建一个分支</span><br><span class="line"><span class="tag">&lt;<span class="name">h2</span> <span class="attr">id</span>=<span class="string">&quot;标题1.1&quot;</span>&gt;</span><span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;#标题1.1&quot;</span> <span class="attr">class</span>=<span class="string">&quot;headerlink&quot;</span> <span class="attr">title</span>=<span class="string">&quot;标题1.1&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">a</span>&gt;</span>标题1.1<span class="tag">&lt;/<span class="name">h2</span>&gt;</span></span><br><span class="line"></span><br><span class="line">// 与目录系统不同，正文中只需要新建标题并与目录的#对应即可</span><br></pre></td></tr></table></figure><p>如果使用代码块，需要使用字符实体。<br>还有很重要的博客分类、标签也需要自行修改</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">//博客分类</span><br><span class="line"><span class="tag">&lt;<span class="name">li</span> <span class="attr">class</span>=<span class="string">&quot;article-category-list-item&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">class</span>=<span class="string">&quot;article-category-list-link&quot;</span> <span class="attr">href</span>=<span class="string">&quot;/blog/categories/***/index.html&quot;</span>&gt;</span>类别<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"></span><br><span class="line">// 博客标签</span><br><span class="line"><span class="tag">&lt;<span class="name">li</span> <span class="attr">class</span>=<span class="string">&quot;article-tag-list-item&quot;</span>&gt;</span><span class="tag">&lt;<span class="name">a</span> <span class="attr">class</span>=<span class="string">&quot;article-tag-list-link&quot;</span> <span class="attr">href</span>=<span class="string">&quot;/blog/tags/***/index.html&quot;</span> <span class="attr">rel</span>=<span class="string">&quot;tag&quot;</span>&gt;</span>标签<span class="tag">&lt;/<span class="name">a</span>&gt;</span><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br></pre></td></tr></table></figure><p>如果标签或分类已经建立，则只需要链接到相应标签或分类下即可，如果还没有建立，请参考下面的新建标签和分类。<br>此时，一篇博客就写好了，但不要着急，这仅仅是最简单的一步。接下来，需要根据文件系统对整个博客进行修改~</p><h3 id="手动建立博客系统"><a href="#手动建立博客系统" class="headerlink" title="手动建立博客系统"></a>手动建立博客系统</h3><p>这里是困难的一步，因为没有使用博客系统，所以只能手动建立了~</p><h4 id="博客系统树"><a href="#博客系统树" class="headerlink" title="博客系统树"></a>博客系统树</h4><p>首先来观察一下系统树</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line">root</span><br><span class="line">|---YYYY                       //年</span><br><span class="line">|    |---MM                    //月</span><br><span class="line">|        |---DD                //日</span><br><span class="line">|            |---index.html</span><br><span class="line">|</span><br><span class="line">|---about                      //关于</span><br><span class="line">|    |---index.html</span><br><span class="line">|</span><br><span class="line">|---archives                   //全部</span><br><span class="line">|    |---index.html</span><br><span class="line">|</span><br><span class="line">|---assets                     //资源</span><br><span class="line">|    |---*</span><br><span class="line">|</span><br><span class="line">|---categories                 //分类</span><br><span class="line">|    |---xxx                   //具体分类</span><br><span class="line">|    |---index.html</span><br><span class="line">|</span><br><span class="line">|---image                      //图片</span><br><span class="line">|    |---*</span><br><span class="line">|</span><br><span class="line">|---tags                       //标签</span><br><span class="line">|    |---index.html</span><br><span class="line"></span><br><span class="line">|---template                   //模板（位于library）</span><br><span class="line">|    |---*</span><br></pre></td></tr></table></figure><p>很容易就能看出，除了在日期下建立博客文件，我们还需要修改：</p><ol><li>archives，它记录了博客系统内的全部博客</li><li>categories，它记录了一篇博客的分类</li><li>page或root下的index，它是博客的主页</li><li>tags，它是一篇博客的标签<br>下面，我们详细介绍每一个需要修改的文件。</li></ol><h4 id="修改archives"><a href="#修改archives" class="headerlink" title="修改archives"></a>修改archives</h4><p>archives页面记录了博客站内的全部博客，因此，每写一篇博客，都应该添加到这里。</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line">// 如需新增月份，则新建：</span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;container body-wrap fade&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">h3</span> <span class="attr">class</span>=<span class="string">&quot;archive-separator&quot;</span>&gt;</span>七月, 2021<span class="tag">&lt;/<span class="name">h3</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;waterfall&quot;</span>&gt;</span>*<span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line"></span><br><span class="line">//仅新增一篇博客：</span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;waterfall-item&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">article</span> <span class="attr">class</span>=<span class="string">&quot;article-card archive-article&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;post-meta&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">time</span> <span class="attr">class</span>=<span class="string">&quot;post-time&quot;</span> <span class="attr">itemprop</span>=<span class="string">&quot;datePublished&quot;</span>&gt;</span>2021-07-19<span class="tag">&lt;/<span class="name">time</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">ul</span> <span class="attr">class</span>=<span class="string">&quot;article-category-list&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span> <span class="attr">class</span>=<span class="string">&quot;article-category-list-item&quot;</span>&gt;</span><span class="tag">&lt;<span class="name">a</span> <span class="attr">class</span>=<span class="string">&quot;article-category-list-link&quot;</span> <span class="attr">href</span>=<span class="string">&quot;#&quot;</span>&gt;</span>分类<span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">ul</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">h3</span> <span class="attr">class</span>=<span class="string">&quot;post-title&quot;</span> <span class="attr">itemprop</span>=<span class="string">&quot;name&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">class</span>=<span class="string">&quot;post-title-link&quot;</span> <span class="attr">href</span>=<span class="string">&quot;#&quot;</span>&gt;</span>标题<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">h3</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;post-footer&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">ul</span> <span class="attr">class</span>=<span class="string">&quot;article-tag-list&quot;</span> <span class="attr">itemprop</span>=<span class="string">&quot;keywords&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span> <span class="attr">class</span>=<span class="string">&quot;article-tag-list-item&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">class</span>=<span class="string">&quot;article-tag-list-link&quot;</span> <span class="attr">href</span>=<span class="string">&quot;#&quot;</span> <span class="attr">rel</span>=<span class="string">&quot;tag&quot;</span>&gt;</span>标签<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">ul</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">article</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure><p>每篇博客在archives都只是一个小块，只包含标题、日期、分类、标签即可。<br>每个博客的块应该放在与其日期对应的列表下。</p><h4 id="修改categories"><a href="#修改categories" class="headerlink" title="修改categories"></a>修改categories</h4><p>categories记录了博客的分类，每篇博客都应当有一个合适的分类，因此，这个也是必须写入的~<br>因为分类页面涉及到了两个需要修改的地方，因此分开细讲。</p><h4 id="只是稍作修改"><a href="#只是稍作修改" class="headerlink" title="只是稍作修改"></a>只是稍作修改</h4><p>这个步骤适用于已有的分类，你只需要修改categories下的两个文件即可。</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br></pre></td><td class="code"><pre><span class="line">// 将下面的代码修改并添加到：</span><br><span class="line">// 1.在categories的index内相应的类别下</span><br><span class="line">// 2.在相应类别的index内</span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;waterfall-item&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">article</span> <span class="attr">class</span>=<span class="string">&quot;article-card archive-article&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;post-meta&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">time</span> <span class="attr">class</span>=<span class="string">&quot;post-time&quot;</span> <span class="attr">itemprop</span>=<span class="string">&quot;datePublished&quot;</span>&gt;</span>yyyy-mm-dd<span class="tag">&lt;/<span class="name">time</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">ul</span> <span class="attr">class</span>=<span class="string">&quot;article-category-list&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span> <span class="attr">class</span>=<span class="string">&quot;article-category-list-item&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">class</span>=<span class="string">&quot;article-category-list-link&quot;</span> <span class="attr">href</span>=<span class="string">&quot;#&quot;</span>&gt;</span>分类<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">li</span>&gt;</span><span class="tag">&lt;/<span class="name">ul</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">h3</span> <span class="attr">class</span>=<span class="string">&quot;post-title&quot;</span> <span class="attr">itemprop</span>=<span class="string">&quot;name&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">class</span>=<span class="string">&quot;post-title-link&quot;</span> <span class="attr">href</span>=<span class="string">&quot;#&quot;</span>&gt;</span>标题<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">h3</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;post-footer&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">ul</span> <span class="attr">class</span>=<span class="string">&quot;article-tag-list&quot;</span> <span class="attr">itemprop</span>=<span class="string">&quot;keywords&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span> <span class="attr">class</span>=<span class="string">&quot;article-tag-list-item&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">class</span>=<span class="string">&quot;article-tag-list-link&quot;</span> <span class="attr">href</span>=<span class="string">&quot;#&quot;</span> <span class="attr">rel</span>=<span class="string">&quot;tag&quot;</span>&gt;</span>标签<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">ul</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">article</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure><h4 id="新增一个分类"><a href="#新增一个分类" class="headerlink" title="新增一个分类"></a>新增一个分类</h4><p>如果这篇博客没有已经建立好的分类可供选择，那么需要新建一个分类，这通常来说比较麻烦。</p><h4 id="在index添加分类"><a href="#在index添加分类" class="headerlink" title="在index添加分类"></a>在index添加分类</h4><p>首先需要先修改index，使分类列表里有你新增的分类。</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">// 将这段代码拷贝到index的分类栏并修改</span><br><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;#&quot;</span> <span class="attr">style</span>=<span class="string">&quot;-webkit-order:*;order:*&quot;</span> <span class="attr">class</span>=<span class="string">&quot;tags-list-item waves- effect waves-button waves-light&quot;</span>&gt;</span>name<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br></pre></td></tr></table></figure><p>请注意：style中的两个 * 需要按需求向下排序，尽管不排序显示依然正常。</p><h4 id="创建分类页"><a href="#创建分类页" class="headerlink" title="创建分类页"></a>创建分类页</h4><p>拷贝一份位于template下的categoriespage.html并修改为index.html，将其放置在categories下的新分类文件夹内。<br>拷贝index内的分类列表块，它应当是这样的：</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">nav</span> <span class="attr">class</span>=<span class="string">&quot;tags-list&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">style</span>=<span class="string">&quot;-webkit-order:-1;order:-1&quot;</span></span></span><br><span class="line"><span class="tag"><span class="attr">class</span>=<span class="string">&quot;tags-list-item waves-effect waves-button waves-light active&quot;</span>&gt;</span>全部<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line">&lt;此处为已添加的分类&gt;</span><br><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;#&quot;</span> <span class="attr">style</span>=<span class="string">&quot;-webkit-order:*;order:*&quot;</span></span></span><br><span class="line"><span class="tag"><span class="attr">class</span>=<span class="string">&quot;tags-list-item waves-effect waves-button waves-light&quot;</span>&gt;</span>name<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">nav</span>&gt;</span></span><br></pre></td></tr></table></figure><p>现在，将active移动到新建的标签，并删除href。然后，为“全部”列表添加href。<br>现在，它应当是这样的：</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">nav</span> <span class="attr">class</span>=<span class="string">&quot;tags-list&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;/blog/categories/index.html&quot;</span> <span class="attr">style</span>=<span class="string">&quot;-webkit-order:-1;order:-1&quot;</span></span></span><br><span class="line"><span class="tag"><span class="attr">class</span>=<span class="string">&quot;tags-list-item waves-effect waves-button waves-light&quot;</span>&gt;</span>全部<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line">&lt;此处为已添加的分类&gt;</span><br><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">style</span>=<span class="string">&quot;-webkit-order:*;order:*&quot;</span></span></span><br><span class="line"><span class="tag"><span class="attr">class</span>=<span class="string">&quot;tags-list-item waves-effect waves-button waves-light active&quot;</span>&gt;</span>name<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">nav</span>&gt;</span></span><br></pre></td></tr></table></figure><p>一个新的分类页就创建完毕了~</p><h4 id="修改其他类别下的显示"><a href="#修改其他类别下的显示" class="headerlink" title="修改其他类别下的显示"></a>修改其他类别下的显示</h4><p>只有这些远远不够，刚刚仅能让index和新建的分类中显示，我们需要在所有列表中都能看到新增的分类。<br>这非常简单，只需要把刚刚添加到index中的代码也添加到每个已有分类的相同位置即可。</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;#&quot;</span> <span class="attr">style</span>=<span class="string">&quot;-webkit-order:*;order:*&quot;</span> <span class="attr">class</span>=<span class="string">&quot;tags-list-item waves-effect waves-button waves-light&quot;</span>&gt;</span>name<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br></pre></td></tr></table></figure><h4 id="修改分类名称"><a href="#修改分类名称" class="headerlink" title="修改分类名称"></a>修改分类名称</h4><p>非常不建议修改分类名称，因为分类一旦建立，会关联起来很多文件，只是修改分类文件夹的名称会使所有指向它的链接失效。<br>如需修改，可先修改分类文件夹名称，然后通过全局搜索替换所有分类名称。<br>使用这个方法可能会引起Blog的文件错乱。</p><h3 id="启用index翻页"><a href="#启用index翻页" class="headerlink" title="启用index翻页"></a>启用index翻页</h3><p>你还需要把文章的块添加到root的index下<br>当index堆积的东西过多时，则应该启用翻页。<br>翻页文件位于root下的page，使用2及以上的数字编号，使用时只需要新建一个页面，并在页面底部启用翻页按钮即可。<br>（我删掉了翻页wwwwwww现在翻不了页了（逃，如果页面已经大到影响加载速度的话我会重新写一个翻页的~</p><h3 id="测试新增的页面"><a href="#测试新增的页面" class="headerlink" title="测试新增的页面"></a>测试新增的页面</h3><p>至此，所有需要做的工作均已完成，不出意外的话，现在新增的页面已经可以正常访问了。为了确保没有因为疏忽导致的漏洞，建议打开新增的博客，确保各种跳转都能正常访问。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是一篇归档，来自我还在手搓博客的时候，那时候我不知道为什么部署不了hexo&lt;/p&gt;
+&lt;h3 id=&quot;写一篇博客&quot;&gt;&lt;a href=&quot;#写一篇博客&quot; class=&quot;headerlink&quot; title=&quot;写一篇博客&quot;&gt;&lt;/a&gt;写一篇博客&lt;/h3&gt;&lt;p&gt;拷贝一份位于templa</summary>
+      
+    
+    
+    
+    <category term="博客" scheme="https://magic.vanadiry.com/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="博客" scheme="https://magic.vanadiry.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="归档" scheme="https://magic.vanadiry.com/tags/%E5%BD%92%E6%A1%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>生气时打音游解闷反被超级加倍的屑</title>
+    <link href="https://magic.vanadiry.com/2021/06/28/video/005/"/>
+    <id>https://magic.vanadiry.com/2021/06/28/video/005/</id>
+    <published>2021-06-28T11:26:57.000Z</published>
+    <updated>2021-12-30T15:48:39.190Z</updated>
+    
+    <content type="html"><![CDATA[<p>又是新的关于音游视频，本来想录收歌的。这个视频之后大约会咕咕咕很久（，看的愉快~</p><span id="more"></span><p><a href="https://www.bilibili.com/video/BV1Vv411H7TP" title="发现我了！">点击跳转至Bilibili</a></p><h4 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h4><p>*因为某个奸商而生气（恼</p><p>*视频的原意是想记录一下收歌，结果被歌给收了（恼</p><p>*没什么事情千万不要用你常用的机器升级测试系统！！！ </p><p>*我是shab</p><p>引导式访问： 之前玩时候dock栏要划两下才会出来的，所以即便是划到了也不会影响到打彁。脑抽升级了os15，只需要划一下就会回到主屏幕（悲</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;又是新的关于音游视频，本来想录收歌的。这个视频之后大约会咕咕咕很久（，看的愉快~&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="视频发布" scheme="https://magic.vanadiry.com/categories/%E8%A7%86%E9%A2%91%E5%8F%91%E5%B8%83/"/>
+    
+    
+    <category term="明日方舟" scheme="https://magic.vanadiry.com/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/"/>
+    
+    <category term="音游" scheme="https://magic.vanadiry.com/tags/%E9%9F%B3%E6%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【穿魂】114514岁小学生打了两天两夜，终于杀了！绝对不是锁屏！！！</title>
+    <link href="https://magic.vanadiry.com/2021/05/28/video/004/"/>
+    <id>https://magic.vanadiry.com/2021/05/28/video/004/</id>
+    <published>2021-05-28T09:39:29.000Z</published>
+    <updated>2021-12-27T13:59:19.260Z</updated>
+    
+    <content type="html"><![CDATA[<p>一位小学生用别人的视频打了良怒AP，于是两个Emoji组成的一双手也收了穿魂！</p><span id="more"></span><p><a href="https://www.bilibili.com/video/BV1Kq4y1j7Bz" title="发现我了！">点击跳转至Bilibili</a></p><h4 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h4><p>GOODRAGE：Damedane ×</p><p>GOODRAGE：Yamete Kudasai ✓</p><p>绝对不是锁屏</p><p>*所有素材及引用均在视频末尾注明</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;一位小学生用别人的视频打了良怒AP，于是两个Emoji组成的一双手也收了穿魂！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="视频发布" scheme="https://magic.vanadiry.com/categories/%E8%A7%86%E9%A2%91%E5%8F%91%E5%B8%83/"/>
+    
+    
+    <category term="音游" scheme="https://magic.vanadiry.com/tags/%E9%9F%B3%E6%B8%B8/"/>
+    
+    <category term="Phigros" scheme="https://magic.vanadiry.com/tags/Phigros/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于在这里记录的梦</title>
+    <link href="https://magic.vanadiry.com/2021/01/01/dream/000/"/>
+    <id>https://magic.vanadiry.com/2021/01/01/dream/000/</id>
+    <published>2021-01-01T04:00:00.000Z</published>
+    <updated>2022-02-23T13:06:46.942Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是关于在这里记下的梦的说明</p><span id="more"></span><h3 id="多久更新一次？"><a href="#多久更新一次？" class="headerlink" title="多久更新一次？"></a>多久更新一次？</h3><p>如果做了梦，并且我及时的记下来的话，那么当天晚上就更新。</p><h3 id="哪些梦会在这里写出来？"><a href="#哪些梦会在这里写出来？" class="headerlink" title="哪些梦会在这里写出来？"></a>哪些梦会在这里写出来？</h3><p>只要是做的梦，并且我能记住百分之七八十以上，就会写出来。</p><h3 id="Q-x2F-F-x2F-xx是谁？"><a href="#Q-x2F-F-x2F-xx是谁？" class="headerlink" title="Q&#x2F;F&#x2F;xx是谁？"></a>Q&#x2F;F&#x2F;xx是谁？</h3><p>Q和F是两位朋友，不知道什么时候就会梦到。</p><p>xx也是在梦里梦到的人，只不过我不知道他是谁，所以用x来代替。</p><h3 id="Time-x3D-xxx是什么意思？"><a href="#Time-x3D-xxx是什么意思？" class="headerlink" title="Time&#x3D;xxx是什么意思？"></a>Time&#x3D;xxx是什么意思？</h3><p>是时间码，记录我什么时候睡着和什么时候醒着。格式是yyyymmdd,hhmm,hhmm，其中第一个hhmm为开始时间，第二个hhmm为结束时间。<del>好像大部分都是白日梦。</del></p><h3 id="可以拿去当作小说之类的点子吗？"><a href="#可以拿去当作小说之类的点子吗？" class="headerlink" title="可以拿去当作小说之类的点子吗？"></a>可以拿去当作小说之类的点子吗？</h3><p>！这项问答适用于“记梦”分类下的所有文章！</p><p>在没有允许的情况下，不可以。你只能将文章的链接与他人分享，而不能随意复制&#x2F;转载&#x2F;作为其他任意用途。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;这是关于在这里记下的梦的说明&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="记梦" scheme="https://magic.vanadiry.com/categories/%E8%AE%B0%E6%A2%A6/"/>
+    
+    
+    <category term="说明" scheme="https://magic.vanadiry.com/tags/%E8%AF%B4%E6%98%8E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MARENOL-MC还原_骂人OL（雾</title>
+    <link href="https://magic.vanadiry.com/2020/11/17/video/003/"/>
+    <id>https://magic.vanadiry.com/2020/11/17/video/003/</id>
+    <published>2020-11-17T15:25:32.000Z</published>
+    <updated>2021-12-27T13:08:28.318Z</updated>
+    
+    <content type="html"><![CDATA[<p>是关于<del>草</del>叶子先生<del>骂人OL</del>MARENOL的视频，试着在MC里还原了，效果并不怎么好，而且原版审核不通过只好大修正了一下。（原版是4K的，渲染了好久原片，但是发现电脑剪不动后期）</p><span id="more"></span><p><a href="https://www.bilibili.com/video/BV11D4y1Q7pN" title="发现我了！">点击跳转至Bilibili</a></p><h4 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h4><p>做的原视频被锁了 把某些画质降低了 好多背景替换成了花花（doge </p><p>-视频瑕疵太多所以- </p><p>关于模型和背景：</p><p>动画不是用Minecraft录制的。但里面模型是事先在MC里建好的。天空的颜色是自己调的（比如开头的天空是骂人OL的标题（（这就导致了在下界看到了云（其实是我忘记关闭云（（ </p><p>关于美穗变光头了：</p><p>我不会画皮肤我不会画皮肤我不会画皮肤我不会画皮肤（</p><p>关于制作：</p><p>mine-imator，比较简单，这是我第一次玩这个软件做的动画所以不太好（</p><p>其他：</p><p>如果我的工程文件还在可能会好好做一下重置（</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;是关于&lt;del&gt;草&lt;/del&gt;叶子先生&lt;del&gt;骂人OL&lt;/del&gt;MARENOL的视频，试着在MC里还原了，效果并不怎么好，而且原版审核不通过只好大修正了一下。（原版是4K的，渲染了好久原片，但是发现电脑剪不动后期）&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="视频发布" scheme="https://magic.vanadiry.com/categories/%E8%A7%86%E9%A2%91%E5%8F%91%E5%B8%83/"/>
+    
+    
+    <category term="音游" scheme="https://magic.vanadiry.com/tags/%E9%9F%B3%E6%B8%B8/"/>
+    
+    <category term="LeaF" scheme="https://magic.vanadiry.com/tags/LeaF/"/>
+    
+    <category term="Minecraft" scheme="https://magic.vanadiry.com/tags/Minecraft/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【自信接歌人】针不辍，音游人接歌针不辍</title>
+    <link href="https://magic.vanadiry.com/2020/11/12/video/002/"/>
+    <id>https://magic.vanadiry.com/2020/11/12/video/002/</id>
+    <published>2020-11-12T04:29:10.000Z</published>
+    <updated>2021-12-27T13:47:18.977Z</updated>
+    
+    <content type="html"><![CDATA[<p>大约只是随便做了一下，把很多首歌拼到了一起，还有一些玩梗的（？</p><p>看一看就好了，乱玩梗会被哼哼啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊</p><span id="more"></span><p><a href="https://www.bilibili.com/video/BV1LK4y1f78w" title="发现我了！">点击跳转至Bilibili</a></p><h4 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h4><p>到底是投到“音乐综合”还是投到“音游”？？？</p><p>想了半天还是丢到游戏分区吧….</p><p>视频里面丢了点彩蛋….？（貌似）</p><p>Daisuke</p><h4 id="2021年9月15日更新"><a href="#2021年9月15日更新" class="headerlink" title="2021年9月15日更新"></a>2021年9月15日更新</h4><p>被B站收录到了动感视频！用iPhone 8以上的机型就可以打开这个功能了！</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;大约只是随便做了一下，把很多首歌拼到了一起，还有一些玩梗的（？&lt;/p&gt;
+&lt;p&gt;看一看就好了，乱玩梗会被哼哼啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="视频发布" scheme="https://magic.vanadiry.com/categories/%E8%A7%86%E9%A2%91%E5%8F%91%E5%B8%83/"/>
+    
+    
+    <category term="音游" scheme="https://magic.vanadiry.com/tags/%E9%9F%B3%E6%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>是那个男人！他终于来罗德岛啦！我的青春回来了！！！</title>
+    <link href="https://magic.vanadiry.com/2020/08/09/video/001/"/>
+    <id>https://magic.vanadiry.com/2020/08/09/video/001/</id>
+    <published>2020-08-09T10:41:47.000Z</published>
+    <updated>2021-12-27T12:52:24.816Z</updated>
+    
+    <content type="html"><![CDATA[<p>第一个视频，试着把卢本伟放到了明日方舟里面，效果不怎么理想（</p><span id="more"></span><p><a href="https://www.bilibili.com/video/BV1zV411z7qb" title="发现我了！">点击跳转至Bilibili</a></p><h4 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h4><p>闲着没事做着玩的，动画很垃圾</p><p>那时我根本不知道还有人做出了抽卡模板（</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;第一个视频，试着把卢本伟放到了明日方舟里面，效果不怎么理想（&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="视频发布" scheme="https://magic.vanadiry.com/categories/%E8%A7%86%E9%A2%91%E5%8F%91%E5%B8%83/"/>
+    
+    
+    <category term="明日方舟" scheme="https://magic.vanadiry.com/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/"/>
+    
+    <category term="卢本伟" scheme="https://magic.vanadiry.com/tags/%E5%8D%A2%E6%9C%AC%E4%BC%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于在这里上传的视频</title>
+    <link href="https://magic.vanadiry.com/2020/06/25/video/000/"/>
+    <id>https://magic.vanadiry.com/2020/06/25/video/000/</id>
+    <published>2020-06-25T04:00:00.000Z</published>
+    <updated>2022-02-23T13:07:02.836Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是关于在这里上传的视频的说明</p><span id="more"></span><h3 id="多久更新一次？"><a href="#多久更新一次？" class="headerlink" title="多久更新一次？"></a>多久更新一次？</h3><p>有点子并且有时间做出来就更新。或许是几周，也或许是几个月（（（</p><h3 id="哪些视频会在这里写出来？"><a href="#哪些视频会在这里写出来？" class="headerlink" title="哪些视频会在这里写出来？"></a>哪些视频会在这里写出来？</h3><p>那些用心做的视频。其他一些水出来的视频和记录某些事情的视频就不在这里写了~</p><blockquote><p>比如：<a href="https://www.bilibili.com/video/BV1x54y1j7iz">【明日方舟x Apple】大  阅  兵</a>和<a href="https://www.bilibili.com/video/BV1fr4y1F7n2">手手摸保国(doge</a></p></blockquote><h3 id="会写出来视频的计划吗？"><a href="#会写出来视频的计划吗？" class="headerlink" title="会写出来视频的计划吗？"></a>会写出来视频的计划吗？</h3><p>视频的计划在“项目”列表里面会有的，不过这里一般记录的是稍微大一些的项目。平时想出来的点子只有做好了视频才会发出来。或者当作博客记录在这里~</p><h3 id="可以拿去二次创作吗？"><a href="#可以拿去二次创作吗？" class="headerlink" title="可以拿去二次创作吗？"></a>可以拿去二次创作吗？</h3><p>！这项问答适用于我的所有视频！</p><p>在没有允许的情况下，不可以。如果你真的想要拿去二次创作，请直接在视频平台联系我。</p><p>即使被允许二次创作，也不能随便换个BGM，或者用着我剪出来的声音配了一个视频就发出来。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;这是关于在这里上传的视频的说明&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="视频发布" scheme="https://magic.vanadiry.com/categories/%E8%A7%86%E9%A2%91%E5%8F%91%E5%B8%83/"/>
+    
+    
+    <category term="说明" scheme="https://magic.vanadiry.com/tags/%E8%AF%B4%E6%98%8E/"/>
     
   </entry>
   
