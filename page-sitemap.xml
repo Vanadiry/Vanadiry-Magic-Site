@@ -10,6 +10,15 @@
     
     
     <url>
+        <loc>https://magic.vanadiry.com/url/acg/</loc>
+        <lastmod>2022-02-26T09:44:50.317Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://magic.vanadiry.com/url/</loc>
         <lastmod>2022-02-25T12:10:44.377Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -75,15 +84,6 @@
     <url>
         <loc>https://magic.vanadiry.com/url/control/</loc>
         <lastmod>2022-02-10T15:31:50.134Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/url/acg/</loc>
-        <lastmod>2022-02-10T15:31:48.980Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
