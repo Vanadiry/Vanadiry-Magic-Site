@@ -10,6 +10,15 @@
     
     
     <url>
+        <loc>https://magic.vanadiry.com/wiki/mmsgame/</loc>
+        <lastmod>2022-02-27T17:16:25.885Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://magic.vanadiry.com/about/</loc>
         <lastmod>2022-02-27T09:25:59.432Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -237,15 +246,6 @@
     <url>
         <loc>https://magic.vanadiry.com/wiki/mmsgame/engine/</loc>
         <lastmod>2022-01-02T17:26:29.847Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/wiki/mmsgame/</loc>
-        <lastmod>2022-01-02T17:22:32.581Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
