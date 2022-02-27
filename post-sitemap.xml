@@ -9,6 +9,46 @@
 
 
     <url>
+        <loc>https://magic.vanadiry.com/2022/01/02/unknow/001/</loc>
+        <lastmod>2022-02-27T08:42:18.527Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://magic.vanadiry.com/2022/01/21/game/001/</loc>
+        <lastmod>2022-02-27T08:42:00.249Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://magic.vanadiry.com/2022/01/07/day/005/</loc>
+        <lastmod>2022-02-27T08:41:14.648Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://magic.vanadiry.com/2022/01/01/day/004/</loc>
+        <lastmod>2022-02-27T08:40:52.614Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://magic.vanadiry.com/2022/01/01/day/003/</loc>
+        <lastmod>2022-02-27T08:40:42.707Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://magic.vanadiry.com/2022/02/24/dream/012/</loc>
         <lastmod>2022-02-24T15:54:58.702Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -97,14 +137,6 @@
     </url>
 
     <url>
-        <loc>https://magic.vanadiry.com/2022/01/21/day/007/</loc>
-        <lastmod>2022-01-21T15:24:12.974Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://magic.vanadiry.com/2022/01/18/video/008/</loc>
         <lastmod>2022-01-18T05:42:31.621Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -129,24 +161,8 @@
     </url>
 
     <url>
-        <loc>https://magic.vanadiry.com/2022/01/07/day/006/</loc>
-        <lastmod>2022-01-07T15:49:42.694Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://magic.vanadiry.com/2021/12/27/day/002/</loc>
         <lastmod>2022-01-07T13:24:14.481Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://magic.vanadiry.com/2022/01/01/day/004/</loc>
-        <lastmod>2022-01-07T13:24:00.085Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -163,22 +179,6 @@
     <url>
         <loc>https://magic.vanadiry.com/2021/07/18/blog/001/</loc>
         <lastmod>2022-01-07T13:22:03.611Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://magic.vanadiry.com/2022/01/02/day/005/</loc>
-        <lastmod>2022-01-02T05:56:12.588Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://magic.vanadiry.com/2022/01/01/day/003/</loc>
-        <lastmod>2022-01-01T18:27:29.309Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
