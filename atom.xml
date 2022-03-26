@@ -6,7 +6,7 @@
   <link href="https://magic.vanadiry.com/atom.xml" rel="self"/>
   
   <link href="https://magic.vanadiry.com/"/>
-  <updated>2022-03-14T13:54:04.709Z</updated>
+  <updated>2022-03-26T13:50:40.527Z</updated>
   <id>https://magic.vanadiry.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Oculus Quest 2 无需任何其它设备完成国内联网</title>
+    <link href="https://magic.vanadiry.com/2022/03/26/oculus/004/"/>
+    <id>https://magic.vanadiry.com/2022/03/26/oculus/004/</id>
+    <published>2022-03-25T17:26:14.000Z</published>
+    <updated>2022-03-26T13:50:40.527Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tag-plugin note" color="yellow"><div class="body"><p>本方法仅适用于已经激活的Quest。还没激活？<a href="https://www.oculus.com/referrals/link/Vanadiry">这个方法</a>适用于没有智能路由器的用户。</p></div></div><p>用这个方法之后Quest和用只能路由或者电脑热点的效果基本是一样的，<strong>没验证本教程的网络环境下能不能用VD之类的局域网软件</strong>，可以支持到目前的最新系统。</p><h3 id="操作吧╰-°▽°-╯"><a href="#操作吧╰-°▽°-╯" class="headerlink" title="操作吧╰(°▽°)╯"></a>操作吧╰(<em>°▽°</em>)╯</h3><p><strong>事先准备</strong>：把头显正常的连接到正常的网络，高级设置什么的不用修改</p><p><strong>所需材料：</strong>打开了开发者模式的Quest、SideQuest、数据线、v2rayNG包。</p><p>v2rayNG需要使用1.5.5版本，点击<a href="https://github.com/2dust/v2rayNG/releases/tag/1.5.5">这里(GitHub)</a>下载，下载<strong>v2rayNG_1.5.5_arm64-v8a.apk</strong>这个包。</p><p>就像安装其它apk一样，连好设备，把apk拖入SideQuest中安装即可。</p><p>安装好后，去头显中的未知来源打开v2rayNG，添加你的订阅或者服务器，然后连接即可。<del>就和安卓手机操作一样啦（</del></p><h3 id="注意-o゜▽゜-o☆"><a href="#注意-o゜▽゜-o☆" class="headerlink" title="注意(o゜▽゜)o☆"></a>注意(o゜▽゜)o☆</h3><p>不能点<strong>×</strong>号关掉v2rayNG，否则会断开连接</p><p>能正常用就别安装新版本的v2rayNG，可能会出现点击连接之后卡死或者闪退等问题</p><p>不用在头显里那么麻烦的把你的订阅链接输进去，在SideQuest上面找到扳手图标，点进去找到Paste Text to your device，粘进去就会自动输到头显</p><h3 id="关于系统更新"><a href="#关于系统更新" class="headerlink" title="关于系统更新"></a>关于系统更新</h3><p>点完更新让它自己下载即可，下载完之后会有提示让你重启，记得把v2rayNG关了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tag-plugin note&quot; color=&quot;yellow&quot;&gt;&lt;div class=&quot;body&quot;&gt;&lt;p&gt;本方法仅适用于已经激活的Quest。还没激活？&lt;a href=&quot;https://www.oculus.com/referrals/link/Vanad</summary>
+      
+    
+    
+    
+    <category term="Oculus" scheme="https://magic.vanadiry.com/categories/Oculus/"/>
+    
+    
+    <category term="Quest 2" scheme="https://magic.vanadiry.com/tags/Quest-2/"/>
+    
+  </entry>
   
   <entry>
     <title>Steam优质免费游戏入库代码</title>
@@ -231,16 +255,16 @@
     <link href="https://magic.vanadiry.com/2022/02/19/oculus/003/"/>
     <id>https://magic.vanadiry.com/2022/02/19/oculus/003/</id>
     <published>2022-02-19T05:29:07.000Z</published>
-    <updated>2022-02-19T16:01:24.693Z</updated>
+    <updated>2022-03-26T13:51:06.604Z</updated>
     
-    <content type="html"><![CDATA[<p>我自己的！！！</p><p><a href="https://www.oculus.com/referrals/link/Vanadiry">直达</a></p><p><a href="https://www.oculus.com/referrals/link/Vanadiry">https://www.oculus.com/referrals/link/Vanadiry</a></p>]]></content>
+    <content type="html"><![CDATA[<p>我自己的！<a href="https://www.oculus.com/referrals/link/Vanadiry">https://www.oculus.com/referrals/link/Vanadiry</a></p><p>呜呜呜</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;我自己的！！！&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.oculus.com/referrals/link/Vanadiry&quot;&gt;直达&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.oculus.com/referrals/link/Vana</summary>
+    <summary type="html">&lt;p&gt;我自己的！&lt;a href=&quot;https://www.oculus.com/referrals/link/Vanadiry&quot;&gt;https://www.oculus.com/referrals/link/Vanadiry&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;呜呜呜&lt;/p&gt;
+</summary>
       
     
     
@@ -257,9 +281,9 @@
     <link href="https://magic.vanadiry.com/2022/02/18/oculus/001/"/>
     <id>https://magic.vanadiry.com/2022/02/18/oculus/001/</id>
     <published>2022-02-18T15:25:05.000Z</published>
-    <updated>2022-02-23T12:56:39.272Z</updated>
+    <updated>2022-03-26T13:58:50.636Z</updated>
     
-    <content type="html"><![CDATA[<p>这篇文章简单讲了如何不用路由器，只使用一台PC来完成Quest 2的国内联网，并且完成激活、更新、软件下载等任务。这篇文章默认你有全部前置条件、会使用v2rayN配置节点。（仅浏览器魔法：把Quest 2与你的任何一台支持共享连接的设备连接至同一网络，然后使用代理转发）</p><h3 id="前置条件"><a href="#前置条件" class="headerlink" title="前置条件"></a>前置条件</h3><p>一台支持<a href="https://support.microsoft.com/zh-cn/windows/%E5%B0%86windows%E7%94%B5%E8%84%91%E7%94%A8%E4%BD%9C%E7%A7%BB%E5%8A%A8%E7%83%AD%E7%82%B9-c89b0fad-72d5-41e8-f7ea-406ad9036b85">移动热点</a>的PC（Windows）<br>v2rayN和SOCKSTap<br>支持UDP转发的节点（随便找了几个节点按这个步骤也可行）</p><h3 id="我使用的设备-x2F-软件"><a href="#我使用的设备-x2F-软件" class="headerlink" title="我使用的设备&#x2F;软件"></a>我使用的设备&#x2F;软件</h3><p>Windows 11，Oculus Quest 2，v2rayN v4.32，SSTap Beta 1.1.0.1，Intel Wi-Fi 6 AX201</p><h3 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h3><ol><li><p>配置节点</p></li><li><p>打开v2rayN的<strong>设置-参数设置-基础设置</strong>，勾选<strong>开启UDP</strong></p></li><li><p>打开v2rayN的<strong>设置-参数设置-v2rayN设置，</strong>勾选<strong>允许来自局域网的连接</strong>，把端口调成10808（默认）</p></li><li><p>右键任务栏右侧的v2rayN图标，将系统代理修改为<strong>自动配置系统代理</strong></p></li><li><p>打开<strong>移动热点</strong>，然后打开<strong>控制面板-网络和共享中心</strong>，然后点击<strong>更改适配器设置</strong>。现在这里应该会出现<strong>本地连接xx</strong>，如果没出现，那是你有问题（（（</p></li><li><p>打开SSTap，点击+，添加一个<strong>SOCKS5代理</strong>，服务器IP：127.0.0.1，端口：10808，然后保存</p></li><li><p>选择SSTap模式为<strong>不代理中国IP</strong>，然后点击连接</p></li><li><p>回到网络适配器控制面板，会出现叫做<strong>SSTAP 1</strong>，右键<strong>属性-共享</strong>，把<strong>Internet连接共享</strong>下的两个全打勾，然后在<strong>专用网络连接</strong>中选择第5步出现的那个连接</p></li></ol><h3 id="在Quest-2操作"><a href="#在Quest-2操作" class="headerlink" title="在Quest 2操作"></a>在Quest 2操作</h3><p>按照提示一直操作到连接网络的地方，选择电脑的移动热点</p><p><strong>如果没有速度&#x2F;连接不上&#x2F;网络受限，请继续阅读</strong></p><h3 id="更多设置"><a href="#更多设置" class="headerlink" title="更多设置"></a>更多设置</h3><ol><li>打开Quest 2的WiFi设置，清除刚才的连接，然后重新连接</li><li>先输入密码，然后点击<strong>高级选项</strong></li><li>摘掉头显，在你的PC上打开<strong>cmd</strong>，输入<strong>ipconfig</strong>，检查并记下你在配置中第5步中获取到的连接的IP地址，一般为192.168.137.1</li><li>还是在刚才的窗口，检查并记下你电脑的的IP地址，一般为192.168.0.xxx</li><li>戴上头显，在高级设置中，将获取IP改为手动</li><li>修改IP为<strong>192.168.137.xxx</strong>，xxx随意输入，建议高些以避免IP冲突，不要大于255</li><li>修改网关为第3步获取到的IP，一般是192.168.137.1</li><li>修改DNS1为第4步获取到的电脑IP，DNS2任意，例如8.8.8.8</li><li>连接！</li></ol><p><strong>到这里就全部结束了，你的Quest 2应该可以正常更新了。</strong></p><h3 id="应用内购买联网验证"><a href="#应用内购买联网验证" class="headerlink" title="应用内购买联网验证"></a>应用内购买联网验证</h3><p>一些应用内购买需要在游玩过程中保持网络连接，或者在进入应用时需要联网验证，这时候也需要按照上面的步骤来接入网络<br>比如我买的Kizuna AI曲包</p><h3 id="下次使用"><a href="#下次使用" class="headerlink" title="下次使用"></a>下次使用</h3><p>一般情况下，完全不用修改任何配置，包括头显上的WiFi设置。下次直接打开v2ray、SSTap和无线热点，直接连接就好<br>如果你平时需要PC无线热点这个功能的话，需要反向按照上面的步骤，把PC网络配置恢复到原来的状态，否则其他设备可能没有网络</p><p>普通的投屏、无线串流这些，就像其他设备一样直接连WiFi即可，不需要任何配置（如果配置了记得改回来）</p><h3 id="可能出现的问题"><a href="#可能出现的问题" class="headerlink" title="可能出现的问题"></a>可能出现的问题</h3><p>SSTap提示TCP检测失败或UDP检测失败：在v2rayN里测试一下你的节点ping，选个ping的出来的，如果还不行就换一个</p><h3 id="其它"><a href="#其它" class="headerlink" title="其它"></a>其它</h3><p>如果网速很慢很慢，就在网络和共享中心里面把SSTap和热点的IPv6关掉</p><p>用了这个方法连接后，电脑的连接国内网站速度会非常慢（比只连节点慢得多），但是国外网站速度还说得过去</p><p>如果只完成了<strong>配置</strong>的步骤，网速可能只有5k左右，甚至没有速度。完成了<strong>更多设置</strong>之后，网速在50k到400k波动，大部分时间在150k左右。很慢。</p><p>在网上找了很久发现是IPv6的问题，但是我不知道在PC上怎么禁用头显的IPv6，或者全局禁用，很怪。但网上的全是路由器教程QWQ</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后!"></a>最后!</h3><p>我总结了网上的方法，自己尝试过后写了这篇文章，前后扒了几十篇文章（或许是我没找到对的QAQ），按着步骤来一般都能成功吧</p><p>也感谢大家的经验了！有什么问题欢迎联系，关于oq2网络的问题就在B站上私信我好了（想提交议题也没关系）</p><p>2022年2月23日最后一次更新，没什么其它发现的问题的话，这篇文章就到这里了</p>]]></content>
+    <content type="html"><![CDATA[<p>这篇文章简单讲了如何不用路由器，只使用一台PC来完成Quest 2的国内联网，并且完成激活、更新、软件下载等任务。这篇文章默认你有全部前置条件、会使用v2rayN配置节点。（仅浏览器魔法：把Quest 2与你的任何一台支持共享连接的设备连接至同一网络，然后使用代理转发）</p><div class="tag-plugin note" color="yellow"><div class="body"><p>已经激活了Quest？<a href="https://magic.vanadiry.com/2022/03/26/oculus/004/">这个方法</a>可以让Quest在国内联网更加方便。</p></div></div><h3 id="前置条件"><a href="#前置条件" class="headerlink" title="前置条件"></a>前置条件</h3><p>一台支持<a href="https://support.microsoft.com/zh-cn/windows/%E5%B0%86windows%E7%94%B5%E8%84%91%E7%94%A8%E4%BD%9C%E7%A7%BB%E5%8A%A8%E7%83%AD%E7%82%B9-c89b0fad-72d5-41e8-f7ea-406ad9036b85">移动热点</a>的PC（Windows）<br>v2rayN和SOCKSTap<br>支持UDP转发的节点（如果不确定是否支持，可以先做到<strong>配置-步骤7</strong>，查看是否能检查通过，不通过的话更换节点即可）</p><h3 id="我使用的设备-x2F-软件"><a href="#我使用的设备-x2F-软件" class="headerlink" title="我使用的设备&#x2F;软件"></a>我使用的设备&#x2F;软件</h3><p>Windows 11，Oculus Quest 2，v2rayN v4.32，SSTap Beta 1.1.0.1，Intel Wi-Fi 6 AX201</p><h3 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h3><ol><li><p>配置节点</p></li><li><p>打开v2rayN的<strong>设置-参数设置-基础设置</strong>，勾选<strong>开启UDP</strong></p></li><li><p>打开v2rayN的<strong>设置-参数设置-v2rayN设置，</strong>勾选<strong>允许来自局域网的连接</strong>，把端口调成10808（默认）</p></li><li><p>右键任务栏右侧的v2rayN图标，将系统代理修改为<strong>自动配置系统代理</strong></p></li><li><p>打开<strong>移动热点</strong>，然后打开<strong>控制面板-网络和共享中心</strong>，然后点击<strong>更改适配器设置</strong>。现在这里应该会出现<strong>本地连接xx</strong>，如果没出现，那是你有问题（（（</p></li><li><p>打开SSTap，点击+，添加一个<strong>SOCKS5代理</strong>，服务器IP：127.0.0.1，端口：10808，然后保存</p></li><li><p>选择SSTap模式为<strong>不代理中国IP</strong>，然后点击连接</p></li><li><p>回到网络适配器控制面板，会出现叫做<strong>SSTAP 1</strong>，右键<strong>属性-共享</strong>，把<strong>Internet连接共享</strong>下的两个全打勾，然后在<strong>专用网络连接</strong>中选择第5步出现的那个连接</p></li></ol><h3 id="在Quest-2操作"><a href="#在Quest-2操作" class="headerlink" title="在Quest 2操作"></a>在Quest 2操作</h3><p>按照提示一直操作到连接网络的地方，选择电脑的移动热点</p><p><strong>如果没有速度&#x2F;连接不上&#x2F;网络受限，请继续阅读</strong></p><h3 id="更多设置"><a href="#更多设置" class="headerlink" title="更多设置"></a>更多设置</h3><ol><li>打开Quest 2的WiFi设置，清除刚才的连接，然后重新连接</li><li>先输入密码，然后点击<strong>高级选项</strong></li><li>摘掉头显，在你的PC上打开<strong>cmd</strong>，输入<strong>ipconfig</strong>，检查并记下你在配置中第5步中获取到的连接的IP地址，一般为192.168.137.1</li><li>还是在刚才的窗口，检查并记下你电脑的的IP地址，一般为192.168.0.xxx</li><li>戴上头显，在高级设置中，将获取IP改为手动</li><li>修改IP为<strong>192.168.137.xxx</strong>，xxx随意输入，建议高些以避免IP冲突，不要大于255</li><li>修改网关为第3步获取到的IP，一般是192.168.137.1</li><li>修改DNS1为第4步获取到的电脑IP，DNS2任意，例如8.8.8.8</li><li>连接！</li></ol><p><strong>到这里就全部结束了，你的Quest 2应该可以正常更新了。</strong></p><h3 id="应用内购买联网验证"><a href="#应用内购买联网验证" class="headerlink" title="应用内购买联网验证"></a>应用内购买联网验证</h3><p>一些应用内购买需要在游玩过程中保持网络连接，或者在进入应用时需要联网验证，这时候也需要按照上面的步骤来接入网络<br>比如我买的Kizuna AI曲包。</p><h3 id="下次使用"><a href="#下次使用" class="headerlink" title="下次使用"></a>下次使用</h3><p>一般情况下，完全不用修改任何配置，包括头显上的WiFi设置。下次直接打开v2ray、SSTap和无线热点，直接连接就好<br>如果你平时需要PC无线热点这个功能的话，需要反向按照上面的步骤，把PC网络配置恢复到原来的状态，否则其他设备可能没有网络</p><p>普通的投屏、无线串流这些，就像其他设备一样直接连WiFi即可，不需要任何配置（如果配置了记得改回来）</p><h3 id="可能出现的问题"><a href="#可能出现的问题" class="headerlink" title="可能出现的问题"></a>可能出现的问题</h3><p>SSTap提示TCP检测失败或UDP检测失败：在v2rayN里测试一下你的节点ping，选个ping的出来的，如果还不行就换一个</p><h3 id="其它"><a href="#其它" class="headerlink" title="其它"></a>其它</h3><p>如果网速很慢很慢，就在网络和共享中心里面把SSTap和热点的IPv6关掉</p><p>用了这个方法连接后，电脑的连接国内网站速度会非常慢（比只连节点慢得多），但是国外网站速度还说得过去</p><p>如果只完成了<strong>配置</strong>的步骤，网速可能只有5k左右，甚至没有速度。完成了<strong>更多设置</strong>之后，网速在50k到400k波动，大部分时间在150k左右。很慢。</p><p>在网上找了很久发现是IPv6的问题，但是我不知道在PC上怎么禁用头显的IPv6，或者全局禁用，很怪。但网上的全是路由器教程QWQ</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后!"></a>最后!</h3><p>我总结了网上的方法，自己尝试过后写了这篇文章，前后扒了几十篇文章（或许是我没找到对的QAQ），按着步骤来一般都能成功吧</p><p>也感谢大家的经验了！有什么问题欢迎联系，关于oq2网络的问题就在B站上私信我好了（想提交议题也没关系）</p><p>2022年2月23日最后一次更新，没什么其它发现的问题的话，这篇文章就到这里了</p><p>2022年3月26日最后最后一次更新（</p>]]></content>
     
     
       
@@ -573,9 +597,9 @@
     <category term="记梦" scheme="https://magic.vanadiry.com/categories/%E8%AE%B0%E6%A2%A6/"/>
     
     
-    <category term="朋友" scheme="https://magic.vanadiry.com/tags/%E6%9C%8B%E5%8F%8B/"/>
-    
     <category term="梦" scheme="https://magic.vanadiry.com/tags/%E6%A2%A6/"/>
+    
+    <category term="朋友" scheme="https://magic.vanadiry.com/tags/%E6%9C%8B%E5%8F%8B/"/>
     
   </entry>
   
@@ -600,9 +624,9 @@
     <category term="记梦" scheme="https://magic.vanadiry.com/categories/%E8%AE%B0%E6%A2%A6/"/>
     
     
-    <category term="朋友" scheme="https://magic.vanadiry.com/tags/%E6%9C%8B%E5%8F%8B/"/>
-    
     <category term="梦" scheme="https://magic.vanadiry.com/tags/%E6%A2%A6/"/>
+    
+    <category term="朋友" scheme="https://magic.vanadiry.com/tags/%E6%9C%8B%E5%8F%8B/"/>
     
     <category term="学校" scheme="https://magic.vanadiry.com/tags/%E5%AD%A6%E6%A0%A1/"/>
     
@@ -632,9 +656,9 @@
     <category term="记梦" scheme="https://magic.vanadiry.com/categories/%E8%AE%B0%E6%A2%A6/"/>
     
     
-    <category term="朋友" scheme="https://magic.vanadiry.com/tags/%E6%9C%8B%E5%8F%8B/"/>
-    
     <category term="梦" scheme="https://magic.vanadiry.com/tags/%E6%A2%A6/"/>
+    
+    <category term="朋友" scheme="https://magic.vanadiry.com/tags/%E6%9C%8B%E5%8F%8B/"/>
     
   </entry>
   
@@ -741,11 +765,11 @@
     <category term="记梦" scheme="https://magic.vanadiry.com/categories/%E8%AE%B0%E6%A2%A6/"/>
     
     
-    <category term="朋友" scheme="https://magic.vanadiry.com/tags/%E6%9C%8B%E5%8F%8B/"/>
-    
     <category term="梦" scheme="https://magic.vanadiry.com/tags/%E6%A2%A6/"/>
     
     <category term="Epic" scheme="https://magic.vanadiry.com/tags/Epic/"/>
+    
+    <category term="朋友" scheme="https://magic.vanadiry.com/tags/%E6%9C%8B%E5%8F%8B/"/>
     
     <category term="同学" scheme="https://magic.vanadiry.com/tags/%E5%90%8C%E5%AD%A6/"/>
     
@@ -1010,9 +1034,9 @@
     <category term="视频发布" scheme="https://magic.vanadiry.com/categories/%E8%A7%86%E9%A2%91%E5%8F%91%E5%B8%83/"/>
     
     
-    <category term="音游" scheme="https://magic.vanadiry.com/tags/%E9%9F%B3%E6%B8%B8/"/>
-    
     <category term="明日方舟" scheme="https://magic.vanadiry.com/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/"/>
+    
+    <category term="音游" scheme="https://magic.vanadiry.com/tags/%E9%9F%B3%E6%B8%B8/"/>
     
   </entry>
   
