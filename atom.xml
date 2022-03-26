@@ -6,7 +6,7 @@
   <link href="https://magic.vanadiry.com/atom.xml" rel="self"/>
   
   <link href="https://magic.vanadiry.com/"/>
-  <updated>2022-03-26T13:50:40.527Z</updated>
+  <updated>2022-03-26T14:07:43.721Z</updated>
   <id>https://magic.vanadiry.com/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="https://magic.vanadiry.com/2022/03/26/oculus/004/"/>
     <id>https://magic.vanadiry.com/2022/03/26/oculus/004/</id>
     <published>2022-03-25T17:26:14.000Z</published>
-    <updated>2022-03-26T13:50:40.527Z</updated>
+    <updated>2022-03-26T14:07:43.721Z</updated>
     
-    <content type="html"><![CDATA[<div class="tag-plugin note" color="yellow"><div class="body"><p>本方法仅适用于已经激活的Quest。还没激活？<a href="https://www.oculus.com/referrals/link/Vanadiry">这个方法</a>适用于没有智能路由器的用户。</p></div></div><p>用这个方法之后Quest和用只能路由或者电脑热点的效果基本是一样的，<strong>没验证本教程的网络环境下能不能用VD之类的局域网软件</strong>，可以支持到目前的最新系统。</p><h3 id="操作吧╰-°▽°-╯"><a href="#操作吧╰-°▽°-╯" class="headerlink" title="操作吧╰(°▽°)╯"></a>操作吧╰(<em>°▽°</em>)╯</h3><p><strong>事先准备</strong>：把头显正常的连接到正常的网络，高级设置什么的不用修改</p><p><strong>所需材料：</strong>打开了开发者模式的Quest、SideQuest、数据线、v2rayNG包。</p><p>v2rayNG需要使用1.5.5版本，点击<a href="https://github.com/2dust/v2rayNG/releases/tag/1.5.5">这里(GitHub)</a>下载，下载<strong>v2rayNG_1.5.5_arm64-v8a.apk</strong>这个包。</p><p>就像安装其它apk一样，连好设备，把apk拖入SideQuest中安装即可。</p><p>安装好后，去头显中的未知来源打开v2rayNG，添加你的订阅或者服务器，然后连接即可。<del>就和安卓手机操作一样啦（</del></p><h3 id="注意-o゜▽゜-o☆"><a href="#注意-o゜▽゜-o☆" class="headerlink" title="注意(o゜▽゜)o☆"></a>注意(o゜▽゜)o☆</h3><p>不能点<strong>×</strong>号关掉v2rayNG，否则会断开连接</p><p>能正常用就别安装新版本的v2rayNG，可能会出现点击连接之后卡死或者闪退等问题</p><p>不用在头显里那么麻烦的把你的订阅链接输进去，在SideQuest上面找到扳手图标，点进去找到Paste Text to your device，粘进去就会自动输到头显</p><h3 id="关于系统更新"><a href="#关于系统更新" class="headerlink" title="关于系统更新"></a>关于系统更新</h3><p>点完更新让它自己下载即可，下载完之后会有提示让你重启，记得把v2rayNG关了。</p>]]></content>
+    <content type="html"><![CDATA[<div class="tag-plugin note" color="yellow"><div class="body"><p>本方法仅适用于已经激活的Quest。还没激活？<a href="https://magic.vanadiry.com/2022/02/18/oculus/001/">这个方法</a>适用于没有智能路由器的用户。</p></div></div><p>用这个方法之后Quest和用只能路由或者电脑热点的效果基本是一样的，<strong>没验证本教程的网络环境下能不能用VD之类的局域网软件</strong>，可以支持到目前的最新系统。</p><h3 id="操作吧╰-°▽°-╯"><a href="#操作吧╰-°▽°-╯" class="headerlink" title="操作吧╰(°▽°)╯"></a>操作吧╰(<em>°▽°</em>)╯</h3><p><strong>事先准备</strong>：把头显正常的连接到正常的网络，高级设置什么的不用修改</p><p><strong>所需材料：</strong>打开了开发者模式的Quest、SideQuest、数据线、v2rayNG包。</p><p>v2rayNG需要使用1.5.5版本，点击<a href="https://github.com/2dust/v2rayNG/releases/tag/1.5.5">这里(GitHub)</a>下载，下载<strong>v2rayNG_1.5.5_arm64-v8a.apk</strong>这个包。</p><p>就像安装其它apk一样，连好设备，把apk拖入SideQuest中安装即可。</p><p>安装好后，去头显中的未知来源打开v2rayNG，添加你的订阅或者服务器，然后连接即可。<del>就和安卓手机操作一样啦（</del></p><h3 id="注意-o゜▽゜-o☆"><a href="#注意-o゜▽゜-o☆" class="headerlink" title="注意(o゜▽゜)o☆"></a>注意(o゜▽゜)o☆</h3><p>不能点<strong>×</strong>号关掉v2rayNG，否则会断开连接</p><p>能正常用就别安装新版本的v2rayNG，可能会出现点击连接之后卡死或者闪退等问题</p><p>不用在头显里那么麻烦的把你的订阅链接输进去，在SideQuest上面找到扳手图标，点进去找到Paste Text to your device，粘进去就会自动输到头显</p><h3 id="关于系统更新"><a href="#关于系统更新" class="headerlink" title="关于系统更新"></a>关于系统更新</h3><p>点完更新让它自己下载即可，下载完之后会有提示让你重启，记得把v2rayNG关了。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;div class=&quot;tag-plugin note&quot; color=&quot;yellow&quot;&gt;&lt;div class=&quot;body&quot;&gt;&lt;p&gt;本方法仅适用于已经激活的Quest。还没激活？&lt;a href=&quot;https://www.oculus.com/referrals/link/Vanad</summary>
+    <summary type="html">&lt;div class=&quot;tag-plugin note&quot; color=&quot;yellow&quot;&gt;&lt;div class=&quot;body&quot;&gt;&lt;p&gt;本方法仅适用于已经激活的Quest。还没激活？&lt;a href=&quot;https://magic.vanadiry.com/2022/02/18/oculu</summary>
       
     
     
@@ -541,9 +541,9 @@
     <category term="日常" scheme="https://magic.vanadiry.com/categories/%E6%97%A5%E5%B8%B8/"/>
     
     
-    <category term="负面" scheme="https://magic.vanadiry.com/tags/%E8%B4%9F%E9%9D%A2/"/>
-    
     <category term="朋友" scheme="https://magic.vanadiry.com/tags/%E6%9C%8B%E5%8F%8B/"/>
+    
+    <category term="负面" scheme="https://magic.vanadiry.com/tags/%E8%B4%9F%E9%9D%A2/"/>
     
     <category term="情绪" scheme="https://magic.vanadiry.com/tags/%E6%83%85%E7%BB%AA/"/>
     
@@ -626,9 +626,9 @@
     
     <category term="梦" scheme="https://magic.vanadiry.com/tags/%E6%A2%A6/"/>
     
-    <category term="朋友" scheme="https://magic.vanadiry.com/tags/%E6%9C%8B%E5%8F%8B/"/>
-    
     <category term="学校" scheme="https://magic.vanadiry.com/tags/%E5%AD%A6%E6%A0%A1/"/>
+    
+    <category term="朋友" scheme="https://magic.vanadiry.com/tags/%E6%9C%8B%E5%8F%8B/"/>
     
     <category term="妹妹" scheme="https://magic.vanadiry.com/tags/%E5%A6%B9%E5%A6%B9/"/>
     
@@ -767,13 +767,13 @@
     
     <category term="梦" scheme="https://magic.vanadiry.com/tags/%E6%A2%A6/"/>
     
-    <category term="Epic" scheme="https://magic.vanadiry.com/tags/Epic/"/>
-    
-    <category term="朋友" scheme="https://magic.vanadiry.com/tags/%E6%9C%8B%E5%8F%8B/"/>
-    
     <category term="同学" scheme="https://magic.vanadiry.com/tags/%E5%90%8C%E5%AD%A6/"/>
     
+    <category term="Epic" scheme="https://magic.vanadiry.com/tags/Epic/"/>
+    
     <category term="PS5" scheme="https://magic.vanadiry.com/tags/PS5/"/>
+    
+    <category term="朋友" scheme="https://magic.vanadiry.com/tags/%E6%9C%8B%E5%8F%8B/"/>
     
   </entry>
   

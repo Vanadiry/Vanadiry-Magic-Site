@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://magic.vanadiry.com/2022/03/26/oculus/004/</loc>
+        <lastmod>2022-03-26T14:07:43.721Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://magic.vanadiry.com/2022/02/18/oculus/001/</loc>
         <lastmod>2022-03-26T13:58:50.636Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -19,14 +27,6 @@
     <url>
         <loc>https://magic.vanadiry.com/2022/02/19/oculus/003/</loc>
         <lastmod>2022-03-26T13:51:06.604Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://magic.vanadiry.com/2022/03/26/oculus/004/</loc>
-        <lastmod>2022-03-26T13:50:40.527Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
