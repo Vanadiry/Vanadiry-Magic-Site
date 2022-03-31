@@ -10,8 +10,8 @@
     
     
     <url>
-        <loc>https://magic.vanadiry.com/wiki/more2xi4/</loc>
-        <lastmod>2022-03-30T15:56:56.420Z</lastmod>
+        <loc>https://magic.vanadiry.com/wiki/more2xi4/push/</loc>
+        <lastmod>2022-03-31T16:40:12.509Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -19,8 +19,26 @@
     
     
     <url>
-        <loc>https://magic.vanadiry.com/wiki/more2xi4/push/</loc>
-        <lastmod>2022-03-30T15:54:43.242Z</lastmod>
+        <loc>https://magic.vanadiry.com/wiki/more2xi4/pusharc/</loc>
+        <lastmod>2022-03-31T16:38:33.733Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/wiki/more2xi4/anyone/</loc>
+        <lastmod>2022-03-31T16:14:00.016Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/wiki/more2xi4/</loc>
+        <lastmod>2022-03-30T15:56:56.420Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
