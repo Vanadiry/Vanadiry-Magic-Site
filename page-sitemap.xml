@@ -10,6 +10,24 @@
     
     
     <url>
+        <loc>https://magic.vanadiry.com/update/</loc>
+        <lastmod>2022-04-09T13:56:21.023Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/wiki/more2xi4/</loc>
+        <lastmod>2022-04-09T13:54:28.921Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://magic.vanadiry.com/wiki/more2xi4/anyone/</loc>
         <lastmod>2022-04-08T15:48:13.809Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -21,15 +39,6 @@
     <url>
         <loc>https://magic.vanadiry.com/wiki/more2xi4/donate/</loc>
         <lastmod>2022-04-08T14:31:55.012Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/wiki/more2xi4/</loc>
-        <lastmod>2022-04-08T14:14:54.207Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -66,15 +75,6 @@
     <url>
         <loc>https://magic.vanadiry.com/wiki/mmsgame/new/</loc>
         <lastmod>2022-03-28T08:40:18.655Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/update/</loc>
-        <lastmod>2022-03-22T02:58:37.427Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
