@@ -10,6 +10,15 @@
     
     
     <url>
+        <loc>https://magic.vanadiry.com/wiki/more2xi4/donate/</loc>
+        <lastmod>2022-04-10T10:27:58.846Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://magic.vanadiry.com/wiki/more2xi4/qa/</loc>
         <lastmod>2022-04-10T08:43:53.708Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -39,15 +48,6 @@
     <url>
         <loc>https://magic.vanadiry.com/wiki/more2xi4/</loc>
         <lastmod>2022-04-10T07:57:53.953Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/wiki/more2xi4/donate/</loc>
-        <lastmod>2022-04-10T07:55:29.823Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
