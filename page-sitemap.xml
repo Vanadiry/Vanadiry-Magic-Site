@@ -10,6 +10,33 @@
     
     
     <url>
+        <loc>https://magic.vanadiry.com/about/</loc>
+        <lastmod>2022-04-10T13:53:52.849Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/update/</loc>
+        <lastmod>2022-04-10T13:51:31.954Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/GK/</loc>
+        <lastmod>2022-04-10T13:51:12.743Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://magic.vanadiry.com/wiki/more2xi4/donate/</loc>
         <lastmod>2022-04-10T10:27:58.846Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -82,15 +109,6 @@
     
     
     <url>
-        <loc>https://magic.vanadiry.com/update/</loc>
-        <lastmod>2022-04-09T13:56:21.023Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://magic.vanadiry.com/wiki/mmsgame/new/</loc>
         <lastmod>2022-03-28T08:40:18.655Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -102,15 +120,6 @@
     <url>
         <loc>https://magic.vanadiry.com/url/wordle/</loc>
         <lastmod>2022-03-14T13:56:36.623Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/about/</loc>
-        <lastmod>2022-03-13T16:27:03.333Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -165,15 +174,6 @@
     <url>
         <loc>https://magic.vanadiry.com/wiki/TinderAnime/</loc>
         <lastmod>2022-02-27T08:59:35.472Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/GK/</loc>
-        <lastmod>2022-02-27T08:31:45.258Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
