@@ -27,8 +27,8 @@
 <meta property="og:site_name" content="Vanadiry">
 <meta property="og:description" content="function GetRTime() {             var EndTime &#x3D; new Date(&#39;2022&#x2F;06&#x2F;07 09:00:00&#39;); &#x2F;&#x2F;截止时间             var NowTime &#x3D; new Date();             var t &#x3D; EndTime.getTime() - NowTime.getT">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2022-04-10T13:51:12.743Z">
-<meta property="article:modified_time" content="2022-04-10T13:51:12.743Z">
+<meta property="article:published_time" content="2022-04-13T16:29:56.965Z">
+<meta property="article:modified_time" content="2022-04-13T16:29:56.965Z">
 <meta property="article:author" content="Vanadiry">
 <meta property="article:tag" content="Vanadiry">
 <meta name="twitter:card" content="summary">
@@ -161,24 +161,6 @@
         }
         setInterval(GetRTime, 1000);
     </script>
-    <script type="text/javascript">
-        function GetRTime() {
-            var EndTime = new Date('2022/04/12 00:00:00'); //截止时间
-            var NowTime = new Date();
-            var t = EndTime.getTime() - NowTime.getTime();
-            var da = Math.floor(t / 1000 / 60 / 60 / 24 + 1);
-            var d = Math.floor(t / 1000 / 60 / 60 / 24);
-            var h = Math.floor(t / 1000 / 60 / 60 % 24);
-            var m = Math.floor(t / 1000 / 60 % 60);
-            var s = Math.floor(t / 1000 % 60);
-            document.getElementById("b_da").innerHTML = da;
-            document.getElementById("b_d").innerHTML = d + "天";
-            document.getElementById("b_h").innerHTML = h + "时";
-            document.getElementById("b_m").innerHTML = m + "分";
-            document.getElementById("b_s").innerHTML = s + "秒";
-        }
-        setInterval(GetRTime, 1000);
-    </script>
 </head>
 
 <body>
@@ -207,7 +189,7 @@
         </h3>
     </div>
     <div id="CountMsg" class=HotDate>
-        <h4>倒计时表格校对：<br />今天的数字是<span id="r_da">ERROR DAY</span>,<span id="b_da">ERROR DAY</span></h4>
+        <h4>倒计时表格校对：<br />今天的数字是<span id="r_da">ERROR DAY</span>,<span id="b_da">Day Pass</span></h4>
     </div>
     <div id="CountMsg" class=HotDate>
         <h6>·当前时间读取你设备的系统时间，倒计时依靠它来正常运行<br />·使用北京时间(UTC+8)，系统时间校对：
@@ -215,11 +197,9 @@
                 <script>
                     setInterval("document.getElementById('datetime').innerHTML=new Date().toLocaleString();", 1000);
                 </script>
-            </div><br />神秘时刻：
-            <span id="b_d">ERROR D</span>
-            <span id="b_h">ERROR H</span>
-            <span id="b_m">ERROR M</span>
-            <span id="b_s">ERROR S</span>
+            </div>
+        </h6>
+    </div>
 </body>
 
 </html>
