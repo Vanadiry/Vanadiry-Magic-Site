@@ -10,6 +10,33 @@
     
     
     <url>
+        <loc>https://magic.vanadiry.com/update/</loc>
+        <lastmod>2022-04-17T15:48:37.218Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/url/</loc>
+        <lastmod>2022-04-17T15:44:11.449Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/url/control/</loc>
+        <lastmod>2022-04-17T15:44:01.746Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://magic.vanadiry.com/GK/</loc>
         <lastmod>2022-04-13T16:29:56.965Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -37,15 +64,6 @@
     
     
     <url>
-        <loc>https://magic.vanadiry.com/update/</loc>
-        <lastmod>2022-04-10T13:51:31.954Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://magic.vanadiry.com/wiki/more2xi4/donate/</loc>
         <lastmod>2022-04-10T10:27:58.846Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -66,15 +84,6 @@
     <url>
         <loc>https://magic.vanadiry.com/wiki/more2xi4/anyone/</loc>
         <lastmod>2022-04-10T08:36:41.754Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/url/</loc>
-        <lastmod>2022-04-10T08:18:02.672Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -201,15 +210,6 @@
     <url>
         <loc>https://magic.vanadiry.com/url/download/</loc>
         <lastmod>2022-02-10T15:31:52.958Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/url/control/</loc>
-        <lastmod>2022-02-10T15:31:50.134Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
