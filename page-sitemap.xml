@@ -10,6 +10,51 @@
     
     
     <url>
+        <loc>https://magic.vanadiry.com/wiki/tgame/gal/</loc>
+        <lastmod>2022-04-18T10:50:36.617Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/wiki/tanime/</loc>
+        <lastmod>2022-04-18T09:57:22.334Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/wiki/tcomic/</loc>
+        <lastmod>2022-04-18T09:56:05.506Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/wiki/tgame/rpg/</loc>
+        <lastmod>2022-04-18T09:51:31.407Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/wiki/tgame/</loc>
+        <lastmod>2022-04-18T09:48:59.943Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://magic.vanadiry.com/update/</loc>
         <lastmod>2022-04-17T15:48:37.218Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -181,15 +226,6 @@
     
     
     <url>
-        <loc>https://magic.vanadiry.com/wiki/TinderAnime/</loc>
-        <lastmod>2022-02-27T08:59:35.472Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://magic.vanadiry.com/url/tools/</loc>
         <lastmod>2022-02-27T08:09:45.931Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -210,24 +246,6 @@
     <url>
         <loc>https://magic.vanadiry.com/url/download/</loc>
         <lastmod>2022-02-10T15:31:52.958Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/wiki/TinderGame/</loc>
-        <lastmod>2022-01-21T16:41:18.735Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/wiki/TinderComic/</loc>
-        <lastmod>2022-01-11T11:58:11.928Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
