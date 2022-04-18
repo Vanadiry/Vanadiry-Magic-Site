@@ -6,7 +6,7 @@
   <link href="https://magic.vanadiry.com/atom.xml" rel="self"/>
   
   <link href="https://magic.vanadiry.com/"/>
-  <updated>2022-03-26T14:07:43.721Z</updated>
+  <updated>2022-04-18T15:32:02.025Z</updated>
   <id>https://magic.vanadiry.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>域名备案进行中...</title>
+    <link href="https://magic.vanadiry.com/10007/06/11/blog/004/"/>
+    <id>https://magic.vanadiry.com/10007/06/11/blog/004/</id>
+    <published>+010007-06-10T20:40:39.000Z</published>
+    <updated>2022-04-18T15:32:02.025Z</updated>
+    
+    <content type="html"><![CDATA[<p>由于域名vanadiry.com正在备案，并且对一些内容进行整改，从2022年4月17日上午6点起将暂时关闭网站，启动时间未定。<br>域名含”vanadiry.com”的网站均受影响。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;由于域名vanadiry.com正在备案，并且对一些内容进行整改，从2022年4月17日上午6点起将暂时关闭网站，启动时间未定。&lt;br&gt;域名含”vanadiry.com”的网站均受影响。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="博客" scheme="https://magic.vanadiry.com/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="博客" scheme="https://magic.vanadiry.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>Oculus Quest 2 无需任何其它设备完成国内联网</title>
