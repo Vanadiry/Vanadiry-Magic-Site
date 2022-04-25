@@ -175,32 +175,6 @@
   </entry>
   
   <entry>
-    <title>一个Oculus Quest 2 的60刀/30刀邀请链接</title>
-    <link href="https://magic.vanadiry.com/2022/02/19/oculus/003/"/>
-    <id>https://magic.vanadiry.com/2022/02/19/oculus/003/</id>
-    <published>2022-02-19T05:29:07.000Z</published>
-    <updated>2022-03-26T13:51:06.604Z</updated>
-    
-    <content type="html"><![CDATA[<p>我自己的！<a href="https://www.oculus.com/referrals/link/Vanadiry">https://www.oculus.com/referrals/link/Vanadiry</a></p><p>呜呜呜</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;我自己的！&lt;a href=&quot;https://www.oculus.com/referrals/link/Vanadiry&quot;&gt;https://www.oculus.com/referrals/link/Vanadiry&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;呜呜呜&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="Oculus" scheme="https://magic.vanadiry.com/categories/Oculus/"/>
-    
-    
-    <category term="Quest 2" scheme="https://magic.vanadiry.com/tags/Quest-2/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Oculus Quest 2 录制16:9视频</title>
     <link href="https://magic.vanadiry.com/2022/02/19/oculus/002/"/>
     <id>https://magic.vanadiry.com/2022/02/19/oculus/002/</id>
@@ -215,6 +189,32 @@
     <summary type="html">&lt;p&gt;你需要先打开Quest 2的开发者模式，然后连接到电脑，在电脑上安装SideQuest，并连接上。&lt;/p&gt;
 &lt;p&gt;点上面的&lt;strong&gt;Run ADB commands&lt;/strong&gt;然后选&lt;strong&gt;CUSTOM COMMAND&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;输</summary>
+      
+    
+    
+    
+    <category term="Oculus" scheme="https://magic.vanadiry.com/categories/Oculus/"/>
+    
+    
+    <category term="Quest 2" scheme="https://magic.vanadiry.com/tags/Quest-2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一个Oculus Quest 2 的60刀/30刀邀请链接</title>
+    <link href="https://magic.vanadiry.com/2022/02/19/oculus/003/"/>
+    <id>https://magic.vanadiry.com/2022/02/19/oculus/003/</id>
+    <published>2022-02-19T05:29:07.000Z</published>
+    <updated>2022-03-26T13:51:06.604Z</updated>
+    
+    <content type="html"><![CDATA[<p>我自己的！<a href="https://www.oculus.com/referrals/link/Vanadiry">https://www.oculus.com/referrals/link/Vanadiry</a></p><p>呜呜呜</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;我自己的！&lt;a href=&quot;https://www.oculus.com/referrals/link/Vanadiry&quot;&gt;https://www.oculus.com/referrals/link/Vanadiry&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;呜呜呜&lt;/p&gt;
+</summary>
       
     
     
@@ -491,9 +491,9 @@
     <category term="日常" scheme="https://magic.vanadiry.com/categories/%E6%97%A5%E5%B8%B8/"/>
     
     
-    <category term="朋友" scheme="https://magic.vanadiry.com/tags/%E6%9C%8B%E5%8F%8B/"/>
-    
     <category term="负面" scheme="https://magic.vanadiry.com/tags/%E8%B4%9F%E9%9D%A2/"/>
+    
+    <category term="朋友" scheme="https://magic.vanadiry.com/tags/%E6%9C%8B%E5%8F%8B/"/>
     
     <category term="情绪" scheme="https://magic.vanadiry.com/tags/%E6%83%85%E7%BB%AA/"/>
     
@@ -576,9 +576,9 @@
     
     <category term="梦" scheme="https://magic.vanadiry.com/tags/%E6%A2%A6/"/>
     
-    <category term="学校" scheme="https://magic.vanadiry.com/tags/%E5%AD%A6%E6%A0%A1/"/>
-    
     <category term="朋友" scheme="https://magic.vanadiry.com/tags/%E6%9C%8B%E5%8F%8B/"/>
+    
+    <category term="学校" scheme="https://magic.vanadiry.com/tags/%E5%AD%A6%E6%A0%A1/"/>
     
     <category term="妹妹" scheme="https://magic.vanadiry.com/tags/%E5%A6%B9%E5%A6%B9/"/>
     
@@ -717,13 +717,13 @@
     
     <category term="梦" scheme="https://magic.vanadiry.com/tags/%E6%A2%A6/"/>
     
-    <category term="同学" scheme="https://magic.vanadiry.com/tags/%E5%90%8C%E5%AD%A6/"/>
-    
     <category term="Epic" scheme="https://magic.vanadiry.com/tags/Epic/"/>
     
-    <category term="PS5" scheme="https://magic.vanadiry.com/tags/PS5/"/>
-    
     <category term="朋友" scheme="https://magic.vanadiry.com/tags/%E6%9C%8B%E5%8F%8B/"/>
+    
+    <category term="同学" scheme="https://magic.vanadiry.com/tags/%E5%90%8C%E5%AD%A6/"/>
+    
+    <category term="PS5" scheme="https://magic.vanadiry.com/tags/PS5/"/>
     
   </entry>
   
