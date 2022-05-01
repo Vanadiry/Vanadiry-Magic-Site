@@ -20,15 +20,15 @@
   <title>Oculus Quest 2 国内联网 - 仅PC - Vanadiry</title>
 
   
-    <meta name="description" content="这篇文章简单讲了如何不用路由器，只使用一台PC来完成Quest 2的国内联网，并且完成激活、更新、软件下载等任务。这篇文章默认你有全部前置条件、会使用v2rayN配置节点。（仅浏览器魔法：把Quest 2与你的任何一台支持共享连接的设备连接至同一网络，然后使用代理转发） 已经激活了Quest？这个方法可以让Quest在国内联网更加方便。  前置条件一台支持移动热点的PC（Windows）v2ray">
+    <meta name="description" content="这篇文章简单讲了如何不用路由器，只使用一台PC来完成Quest 2的国内联网，并且完成激活、更新、软件下载等任务。这篇文章默认你有全部前置条件、会使用v2rayN配置节点。（仅浏览器魔法：把Quest 2与你的任何一台支持共享连接的设备连接至同一网络，然后使用代理转发） 已经激活了Quest？这个方法无需其他设备就能让Quest在国内联网。  准备…一台支持移动热点的PC（Windows）v2ra">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Oculus Quest 2 国内联网 - 仅PC">
 <meta property="og:url" content="https://magic.vanadiry.com/2022/02/18/oculus/001/">
 <meta property="og:site_name" content="Vanadiry">
-<meta property="og:description" content="这篇文章简单讲了如何不用路由器，只使用一台PC来完成Quest 2的国内联网，并且完成激活、更新、软件下载等任务。这篇文章默认你有全部前置条件、会使用v2rayN配置节点。（仅浏览器魔法：把Quest 2与你的任何一台支持共享连接的设备连接至同一网络，然后使用代理转发） 已经激活了Quest？这个方法可以让Quest在国内联网更加方便。  前置条件一台支持移动热点的PC（Windows）v2ray">
+<meta property="og:description" content="这篇文章简单讲了如何不用路由器，只使用一台PC来完成Quest 2的国内联网，并且完成激活、更新、软件下载等任务。这篇文章默认你有全部前置条件、会使用v2rayN配置节点。（仅浏览器魔法：把Quest 2与你的任何一台支持共享连接的设备连接至同一网络，然后使用代理转发） 已经激活了Quest？这个方法无需其他设备就能让Quest在国内联网。  准备…一台支持移动热点的PC（Windows）v2ra">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2022-02-18T15:25:05.000Z">
-<meta property="article:modified_time" content="2022-03-26T13:58:50.636Z">
+<meta property="article:modified_time" content="2022-05-01T01:46:22.644Z">
 <meta property="article:author" content="Vanadiry">
 <meta property="article:tag" content="Quest 2">
 <meta name="twitter:card" content="summary">
@@ -81,7 +81,7 @@
 
 <div class="widgets">
 
-<div class="widget-wrap single" id="toc"><div class="widget-header cap dis-select"><span class="name">本文目录</span></div><div class="widget-body fs14"><div class="doc-tree active"><ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%89%8D%E7%BD%AE%E6%9D%A1%E4%BB%B6"><span class="toc-text">前置条件</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%88%91%E4%BD%BF%E7%94%A8%E7%9A%84%E8%AE%BE%E5%A4%87-x2F-%E8%BD%AF%E4%BB%B6"><span class="toc-text">我使用的设备&#x2F;软件</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E9%85%8D%E7%BD%AE"><span class="toc-text">配置</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%9C%A8Quest-2%E6%93%8D%E4%BD%9C"><span class="toc-text">在Quest 2操作</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%9B%B4%E5%A4%9A%E8%AE%BE%E7%BD%AE"><span class="toc-text">更多设置</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%BA%94%E7%94%A8%E5%86%85%E8%B4%AD%E4%B9%B0%E8%81%94%E7%BD%91%E9%AA%8C%E8%AF%81"><span class="toc-text">应用内购买联网验证</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%B8%8B%E6%AC%A1%E4%BD%BF%E7%94%A8"><span class="toc-text">下次使用</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%8F%AF%E8%83%BD%E5%87%BA%E7%8E%B0%E7%9A%84%E9%97%AE%E9%A2%98"><span class="toc-text">可能出现的问题</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%85%B6%E5%AE%83"><span class="toc-text">其它</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%9C%80%E5%90%8E"><span class="toc-text">最后!</span></a></li></ol></div></div></div>
+<div class="widget-wrap single" id="toc"><div class="widget-header cap dis-select"><span class="name">本文目录</span></div><div class="widget-body fs14"><div class="doc-tree active"><ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%87%86%E5%A4%87%E2%80%A6"><span class="toc-text">准备…</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%88%91%E4%BD%BF%E7%94%A8%E7%9A%84%E8%AE%BE%E5%A4%87-x2F-%E8%BD%AF%E4%BB%B6"><span class="toc-text">我使用的设备&#x2F;软件</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E9%85%8D%E7%BD%AE"><span class="toc-text">配置</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%9C%A8Quest-2%E6%93%8D%E4%BD%9C"><span class="toc-text">在Quest 2操作</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%9B%B4%E5%A4%9A%E8%AE%BE%E7%BD%AE"><span class="toc-text">更多设置</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%BA%94%E7%94%A8%E5%86%85%E8%B4%AD%E4%B9%B0%E8%81%94%E7%BD%91%E9%AA%8C%E8%AF%81"><span class="toc-text">应用内购买联网验证</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%B8%8B%E6%AC%A1%E4%BD%BF%E7%94%A8"><span class="toc-text">下次使用</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%8F%AF%E8%83%BD%E5%87%BA%E7%8E%B0%E7%9A%84%E9%97%AE%E9%A2%98"><span class="toc-text">可能出现的问题</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%85%B6%E5%AE%83"><span class="toc-text">其它</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%9C%80%E5%90%8E"><span class="toc-text">最后!</span></a></li></ol></div></div></div>
 
 
 </div>
@@ -99,9 +99,9 @@
 <article class='content md post'>
 <h1 class="article-title"><span>Oculus Quest 2 国内联网 - 仅PC</span></h1>
 <p>这篇文章简单讲了如何不用路由器，只使用一台PC来完成Quest 2的国内联网，并且完成激活、更新、软件下载等任务。这篇文章默认你有全部前置条件、会使用v2rayN配置节点。（仅浏览器魔法：把Quest 2与你的任何一台支持共享连接的设备连接至同一网络，然后使用代理转发）</p>
-<div class="tag-plugin note" color="yellow"><div class="body"><p>已经激活了Quest？<a href="https://magic.vanadiry.com/2022/03/26/oculus/004/">这个方法</a>可以让Quest在国内联网更加方便。</p></div></div>
+<div class="tag-plugin note" color="yellow"><div class="body"><p>已经激活了Quest？<a href="https://magic.vanadiry.com/2022/03/26/oculus/004/">这个方法</a>无需其他设备就能让Quest在国内联网。</p></div></div>
 
-<h3 id="前置条件"><a href="#前置条件" class="headerlink" title="前置条件"></a>前置条件</h3><p>一台支持<a target="_blank" rel="noopener" href="https://support.microsoft.com/zh-cn/windows/%E5%B0%86windows%E7%94%B5%E8%84%91%E7%94%A8%E4%BD%9C%E7%A7%BB%E5%8A%A8%E7%83%AD%E7%82%B9-c89b0fad-72d5-41e8-f7ea-406ad9036b85">移动热点</a>的PC（Windows）<br>v2rayN和SOCKSTap<br>支持UDP转发的节点（如果不确定是否支持，可以先做到<strong>配置-步骤7</strong>，查看是否能检查通过，不通过的话更换节点即可）</p>
+<h3 id="准备…"><a href="#准备…" class="headerlink" title="准备…"></a>准备…</h3><p>一台支持<a target="_blank" rel="noopener" href="https://support.microsoft.com/zh-cn/windows/%E5%B0%86windows%E7%94%B5%E8%84%91%E7%94%A8%E4%BD%9C%E7%A7%BB%E5%8A%A8%E7%83%AD%E7%82%B9-c89b0fad-72d5-41e8-f7ea-406ad9036b85">移动热点</a>的PC（Windows）<br>v2rayN和SOCKSTap（v2rayN在GitHub上下载即可，SOCKSTap需要找一些资源站）<br>支持UDP转发的节点（不确定是否支持的话，可以先做到<strong>配置-步骤7</strong>，查看是否能检查通过，不通过的话更换节点再试就好）</p>
 <h3 id="我使用的设备-x2F-软件"><a href="#我使用的设备-x2F-软件" class="headerlink" title="我使用的设备&#x2F;软件"></a>我使用的设备&#x2F;软件</h3><p>Windows 11，Oculus Quest 2，v2rayN v4.32，SSTap Beta 1.1.0.1，Intel Wi-Fi 6 AX201</p>
 <h3 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h3><ol>
 <li><p>配置节点</p>
@@ -110,7 +110,7 @@
 </li>
 <li><p>打开v2rayN的<strong>设置-参数设置-v2rayN设置，</strong>勾选<strong>允许来自局域网的连接</strong>，把端口调成10808（默认）</p>
 </li>
-<li><p>右键任务栏右侧的v2rayN图标，将系统代理修改为<strong>自动配置系统代理</strong></p>
+<li><p>右键任务栏右侧的v2rayN图标，将系统代理修改为<strong>自动配置系统代理</strong>（旧版本的v2rayN有更多选项，总之把图标变成红色就好~）</p>
 </li>
 <li><p>打开<strong>移动热点</strong>，然后打开<strong>控制面板-网络和共享中心</strong>，然后点击<strong>更改适配器设置</strong>。现在这里应该会出现<strong>本地连接xx</strong>，如果没出现，那是你有问题（（（</p>
 </li>
@@ -118,7 +118,7 @@
 </li>
 <li><p>选择SSTap模式为<strong>不代理中国IP</strong>，然后点击连接</p>
 </li>
-<li><p>回到网络适配器控制面板，会出现叫做<strong>SSTAP 1</strong>，右键<strong>属性-共享</strong>，把<strong>Internet连接共享</strong>下的两个全打勾，然后在<strong>专用网络连接</strong>中选择第5步出现的那个连接</p>
+<li><p>回到网络适配器控制面板，会出现叫做<strong>SSTAP 1</strong>的连接，右键它，在<strong>属性-共享</strong>，把<strong>Internet连接共享</strong>下的两个全打勾，然后在<strong>专用网络连接</strong>中选择第5步出现的那个连接（本地连接xx）</p>
 </li>
 </ol>
 <h3 id="在Quest-2操作"><a href="#在Quest-2操作" class="headerlink" title="在Quest 2操作"></a>在Quest 2操作</h3><p>按照提示一直操作到连接网络的地方，选择电脑的移动热点</p>
