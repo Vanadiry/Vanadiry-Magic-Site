@@ -20,15 +20,15 @@
   <title>Oculus Quest 2 国内联网 - 仅PC - Vanadiry</title>
 
   
-    <meta name="description" content="这篇文章简单讲了如何不用路由器，只使用一台PC来完成Quest 2的国内联网，并且完成激活、更新、软件下载等任务。这篇文章默认你有全部前置条件、会使用v2rayN配置节点。（仅浏览器魔法：把Quest 2与你的任何一台支持共享连接的设备连接至同一网络，然后使用代理转发） 已经激活了Quest？这个方法无需其他设备就能让Quest在国内联网。  准备…一台支持移动热点的PC（Windows）v2ra">
+    <meta name="description" content="这篇文章简单讲了如何不用路由器，只使用一台PC来完成Quest 2的国内联网，并且完成激活、更新、软件下载等任务。这篇文章默认你有全部前置条件、会使用v2rayN配置节点。如果只需要浏览器魔法：把Quest 2与你的任何一台支持共享连接的设备连接至同一网络，然后使用代理转发就好（只能用自带浏览器） 已经激活了Quest？这个方法无需其他设备就能让Quest在国内联网。  准备…一台支持移动热点的P">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Oculus Quest 2 国内联网 - 仅PC">
 <meta property="og:url" content="https://magic.vanadiry.com/2022/02/18/oculus/001/">
 <meta property="og:site_name" content="Vanadiry">
-<meta property="og:description" content="这篇文章简单讲了如何不用路由器，只使用一台PC来完成Quest 2的国内联网，并且完成激活、更新、软件下载等任务。这篇文章默认你有全部前置条件、会使用v2rayN配置节点。（仅浏览器魔法：把Quest 2与你的任何一台支持共享连接的设备连接至同一网络，然后使用代理转发） 已经激活了Quest？这个方法无需其他设备就能让Quest在国内联网。  准备…一台支持移动热点的PC（Windows）v2ra">
+<meta property="og:description" content="这篇文章简单讲了如何不用路由器，只使用一台PC来完成Quest 2的国内联网，并且完成激活、更新、软件下载等任务。这篇文章默认你有全部前置条件、会使用v2rayN配置节点。如果只需要浏览器魔法：把Quest 2与你的任何一台支持共享连接的设备连接至同一网络，然后使用代理转发就好（只能用自带浏览器） 已经激活了Quest？这个方法无需其他设备就能让Quest在国内联网。  准备…一台支持移动热点的P">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2022-02-18T15:25:05.000Z">
-<meta property="article:modified_time" content="2022-05-01T01:46:22.644Z">
+<meta property="article:modified_time" content="2022-05-01T01:55:47.345Z">
 <meta property="article:author" content="Vanadiry">
 <meta property="article:tag" content="Quest 2">
 <meta name="twitter:card" content="summary">
@@ -81,7 +81,7 @@
 
 <div class="widgets">
 
-<div class="widget-wrap single" id="toc"><div class="widget-header cap dis-select"><span class="name">本文目录</span></div><div class="widget-body fs14"><div class="doc-tree active"><ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%87%86%E5%A4%87%E2%80%A6"><span class="toc-text">准备…</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%88%91%E4%BD%BF%E7%94%A8%E7%9A%84%E8%AE%BE%E5%A4%87-x2F-%E8%BD%AF%E4%BB%B6"><span class="toc-text">我使用的设备&#x2F;软件</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E9%85%8D%E7%BD%AE"><span class="toc-text">配置</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%9C%A8Quest-2%E6%93%8D%E4%BD%9C"><span class="toc-text">在Quest 2操作</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%9B%B4%E5%A4%9A%E8%AE%BE%E7%BD%AE"><span class="toc-text">更多设置</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%BA%94%E7%94%A8%E5%86%85%E8%B4%AD%E4%B9%B0%E8%81%94%E7%BD%91%E9%AA%8C%E8%AF%81"><span class="toc-text">应用内购买联网验证</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%B8%8B%E6%AC%A1%E4%BD%BF%E7%94%A8"><span class="toc-text">下次使用</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%8F%AF%E8%83%BD%E5%87%BA%E7%8E%B0%E7%9A%84%E9%97%AE%E9%A2%98"><span class="toc-text">可能出现的问题</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%85%B6%E5%AE%83"><span class="toc-text">其它</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%9C%80%E5%90%8E"><span class="toc-text">最后!</span></a></li></ol></div></div></div>
+<div class="widget-wrap single" id="toc"><div class="widget-header cap dis-select"><span class="name">本文目录</span></div><div class="widget-body fs14"><div class="doc-tree active"><ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%87%86%E5%A4%87%E2%80%A6"><span class="toc-text">准备…</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%88%91%E4%BD%BF%E7%94%A8%E7%9A%84%E8%AE%BE%E5%A4%87-x2F-%E8%BD%AF%E4%BB%B6"><span class="toc-text">我使用的设备&#x2F;软件</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E9%85%8D%E7%BD%AE"><span class="toc-text">配置</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%9C%A8Quest-2%E6%93%8D%E4%BD%9C"><span class="toc-text">在Quest 2操作</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%9B%B4%E5%A4%9A%E8%AE%BE%E7%BD%AE"><span class="toc-text">更多设置</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%BA%94%E7%94%A8%E5%86%85%E8%B4%AD%E4%B9%B0%E8%81%94%E7%BD%91%E9%AA%8C%E8%AF%81"><span class="toc-text">应用内购买联网验证</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%B8%8B%E6%AC%A1%E4%BD%BF%E7%94%A8"><span class="toc-text">下次使用</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%8F%AF%E8%83%BD%E5%87%BA%E7%8E%B0%E7%9A%84%E9%97%AE%E9%A2%98"><span class="toc-text">可能出现的问题</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%85%B6%E5%AE%83"><span class="toc-text">其它</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%92%95"><span class="toc-text">咕</span></a></li></ol></div></div></div>
 
 
 </div>
@@ -98,7 +98,7 @@
 
 <article class='content md post'>
 <h1 class="article-title"><span>Oculus Quest 2 国内联网 - 仅PC</span></h1>
-<p>这篇文章简单讲了如何不用路由器，只使用一台PC来完成Quest 2的国内联网，并且完成激活、更新、软件下载等任务。这篇文章默认你有全部前置条件、会使用v2rayN配置节点。（仅浏览器魔法：把Quest 2与你的任何一台支持共享连接的设备连接至同一网络，然后使用代理转发）</p>
+<p>这篇文章简单讲了如何不用路由器，只使用一台PC来完成Quest 2的国内联网，并且完成激活、更新、软件下载等任务。这篇文章默认你有全部前置条件、会使用v2rayN配置节点。<br>如果只需要浏览器魔法：把Quest 2与你的任何一台支持共享连接的设备连接至同一网络，然后使用代理转发就好（只能用自带浏览器）</p>
 <div class="tag-plugin note" color="yellow"><div class="body"><p>已经激活了Quest？<a href="https://magic.vanadiry.com/2022/03/26/oculus/004/">这个方法</a>无需其他设备就能让Quest在国内联网。</p></div></div>
 
 <h3 id="准备…"><a href="#准备…" class="headerlink" title="准备…"></a>准备…</h3><p>一台支持<a target="_blank" rel="noopener" href="https://support.microsoft.com/zh-cn/windows/%E5%B0%86windows%E7%94%B5%E8%84%91%E7%94%A8%E4%BD%9C%E7%A7%BB%E5%8A%A8%E7%83%AD%E7%82%B9-c89b0fad-72d5-41e8-f7ea-406ad9036b85">移动热点</a>的PC（Windows）<br>v2rayN和SOCKSTap（v2rayN在GitHub上下载即可，SOCKSTap需要找一些资源站）<br>支持UDP转发的节点（不确定是否支持的话，可以先做到<strong>配置-步骤7</strong>，查看是否能检查通过，不通过的话更换节点再试就好）</p>
@@ -135,18 +135,17 @@
 <li>连接！</li>
 </ol>
 <p><strong>到这里就全部结束了，你的Quest 2应该可以正常更新了。</strong></p>
-<h3 id="应用内购买联网验证"><a href="#应用内购买联网验证" class="headerlink" title="应用内购买联网验证"></a>应用内购买联网验证</h3><p>一些应用内购买需要在游玩过程中保持网络连接，或者在进入应用时需要联网验证，这时候也需要按照上面的步骤来接入网络<br>比如我买的Kizuna AI曲包。</p>
+<h3 id="应用内购买联网验证"><a href="#应用内购买联网验证" class="headerlink" title="应用内购买联网验证"></a>应用内购买联网验证</h3><p>一些应用内购买需要在游玩过程中保持网络连接，或者在进入应用时需要联网验证，这时候也需要按照上面的步骤来接入网络。比如我买的Kizuna AI曲包（<br>用<a href="https://magic.vanadiry.com/2022/03/26/oculus/004/">这个方法</a>就能方便一些</p>
 <h3 id="下次使用"><a href="#下次使用" class="headerlink" title="下次使用"></a>下次使用</h3><p>一般情况下，完全不用修改任何配置，包括头显上的WiFi设置。下次直接打开v2ray、SSTap和无线热点，直接连接就好<br>如果你平时需要PC无线热点这个功能的话，需要反向按照上面的步骤，把PC网络配置恢复到原来的状态，否则其他设备可能没有网络</p>
-<p>普通的投屏、无线串流这些，就像其他设备一样直接连WiFi即可，不需要任何配置（如果配置了记得改回来）</p>
+<p>普通的投屏、无线串流这些，就像其他设备一样直接连WiFi即可，不用连PC的热点，不需要任何配置（如果配置了记得改回来）</p>
 <h3 id="可能出现的问题"><a href="#可能出现的问题" class="headerlink" title="可能出现的问题"></a>可能出现的问题</h3><p>SSTap提示TCP检测失败或UDP检测失败：在v2rayN里测试一下你的节点ping，选个ping的出来的，如果还不行就换一个</p>
 <h3 id="其它"><a href="#其它" class="headerlink" title="其它"></a>其它</h3><p>如果网速很慢很慢，就在网络和共享中心里面把SSTap和热点的IPv6关掉</p>
 <p>用了这个方法连接后，电脑的连接国内网站速度会非常慢（比只连节点慢得多），但是国外网站速度还说得过去</p>
-<p>如果只完成了<strong>配置</strong>的步骤，网速可能只有5k左右，甚至没有速度。完成了<strong>更多设置</strong>之后，网速在50k到400k波动，大部分时间在150k左右。很慢。</p>
+<p>如果只完成了<strong>配置</strong>的步骤，网速可能只有5k左右，甚至没有速度。完成了<strong>更多设置</strong>之后，网速在100k到2M波动。</p>
 <p>在网上找了很久发现是IPv6的问题，但是我不知道在PC上怎么禁用头显的IPv6，或者全局禁用，很怪。但网上的全是路由器教程QWQ</p>
-<h3 id="最后"><a href="#最后" class="headerlink" title="最后!"></a>最后!</h3><p>我总结了网上的方法，自己尝试过后写了这篇文章，前后扒了几十篇文章（或许是我没找到对的QAQ），按着步骤来一般都能成功吧</p>
-<p>也感谢大家的经验了！有什么问题欢迎联系，关于oq2网络的问题就在B站上私信我好了（想提交议题也没关系）</p>
-<p>2022年2月23日最后一次更新，没什么其它发现的问题的话，这篇文章就到这里了</p>
+<h3 id="咕"><a href="#咕" class="headerlink" title="咕"></a>咕</h3><p>2022年2月23日最后一次更新，没什么其它发现的问题的话，这篇文章就到这里了</p>
 <p>2022年3月26日最后最后一次更新（</p>
+<p>2022年5月1日最后最后最后一次更新（（</p>
 
 
 <div class="article-footer reveal fs14"><section id="license"><div class="header"><span>许可协议</span></div><div class="body"><p>本文采用 <a target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">CC BY-NC-ND 4.0</a> 许可协议，未经允许请勿转载。</p>
@@ -178,7 +177,7 @@
 
 
       
-<footer class="page-footer reveal fs12"><hr><div class="sitemap"><div class="sitemap-group"><span class="fs14">文章</span><a href="/">近期</a><a href="/categories">分类</a><a href="/tags">标签</a><a href="/archives">归档</a></div><div class="sitemap-group"><span class="fs14">项目</span><a href="/wiki/hardcore">Hardcore</a><a href="/wiki/mmsgame">Memory Shock</a><a href="/wiki/more2xi4">more2xi4</a><a href="/wiki">所有项目</a></div><div class="sitemap-group"><span class="fs14">信息</span><a href="/url">URL</a><a href="/about/#comments">留言板</a><a href="/update">内容更新</a></div><div class="sitemap-group"><span class="fs14">更多</span><a target="_blank" rel="noopener" href="https://vanadiry.com">本体站</a><a href="/about">关于本站</a><a target="_blank" rel="noopener" href="https://space.bilibili.com/355998916">Bilibili</a><a target="_blank" rel="noopener" href="https://github.com/Vanadiry">GitHub</a></div></div><div class="text"><p>本站所有内容除特别声明外，均采用 <a target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">CC BY-NC-ND 4.0</a> 许可协议，未经允许请勿转载。</p>
+<footer class="page-footer reveal fs12"><hr><div class="sitemap"><div class="sitemap-group"><span class="fs14">文章</span><a href="/">近期</a><a href="/categories">分类</a><a href="/tags">标签</a><a href="/archives">归档</a></div><div class="sitemap-group"><span class="fs14">项目</span><a href="/wiki/more2xi4">more2xi4</a><a href="/wiki/mmsgame">Memory Shock</a><a href="/wiki/hardcore">Hardcore</a><a href="/wiki">所有项目</a></div><div class="sitemap-group"><span class="fs14">信息</span><a href="/url">URL</a><a href="/about/#comments">留言板</a><a href="/update">内容更新</a></div><div class="sitemap-group"><span class="fs14">更多</span><a target="_blank" rel="noopener" href="https://vanadiry.com">本体站</a><a href="/about">关于本站</a><a target="_blank" rel="noopener" href="https://space.bilibili.com/355998916">Bilibili</a><a target="_blank" rel="noopener" href="https://github.com/Vanadiry">GitHub</a></div></div><div class="text"><p>本站所有内容除特别声明外，均采用 <a target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">CC BY-NC-ND 4.0</a> 许可协议，未经允许请勿转载。</p>
 <p>本站由 <a href="https://magic.vanadiry.com/">@Vanadiry</a> 创建 | © Vanadiry 2004-2022</p>
 </div></footer>
 
