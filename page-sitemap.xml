@@ -10,6 +10,69 @@
     
     
     <url>
+        <loc>https://magic.vanadiry.com/vacgn/archive_anime/</loc>
+        <lastmod>2022-05-02T15:42:43.194Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/vacgn/archive_rpg/</loc>
+        <lastmod>2022-05-02T15:42:28.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/vacgn/finish_anime/</loc>
+        <lastmod>2022-05-02T15:33:42.706Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/vacgn/archive_real/</loc>
+        <lastmod>2022-05-02T15:25:12.902Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/vacgn/</loc>
+        <lastmod>2022-05-02T15:24:46.890Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/vacgn/archive_manga/</loc>
+        <lastmod>2022-05-02T15:23:55.235Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/vacgn/archive_galgame/</loc>
+        <lastmod>2022-05-02T15:23:28.897Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://magic.vanadiry.com/about/</loc>
         <lastmod>2022-05-02T12:57:04.143Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -102,51 +165,6 @@
     <url>
         <loc>https://magic.vanadiry.com/wiki/more2xi4/pusharc/</loc>
         <lastmod>2022-04-18T11:31:00.497Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/wiki/tgame/</loc>
-        <lastmod>2022-04-18T11:30:57.360Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/wiki/tgame/gal/</loc>
-        <lastmod>2022-04-18T10:50:36.617Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/wiki/tanime/</loc>
-        <lastmod>2022-04-18T09:57:22.334Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/wiki/tcomic/</loc>
-        <lastmod>2022-04-18T09:56:05.506Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/wiki/tgame/rpg/</loc>
-        <lastmod>2022-04-18T09:51:31.407Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
