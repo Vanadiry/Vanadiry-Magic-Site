@@ -10,6 +10,15 @@
     
     
     <url>
+        <loc>https://magic.vanadiry.com/vacgn/finish_anime/</loc>
+        <lastmod>2022-05-03T08:31:11.251Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://magic.vanadiry.com/wiki/rosetta/</loc>
         <lastmod>2022-05-02T15:56:32.155Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -30,15 +39,6 @@
     <url>
         <loc>https://magic.vanadiry.com/vacgn/archive_galgame/</loc>
         <lastmod>2022-05-02T15:51:56.897Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/vacgn/finish_anime/</loc>
-        <lastmod>2022-05-02T15:48:20.055Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
