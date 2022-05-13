@@ -10,6 +10,15 @@
     
     
     <url>
+        <loc>https://magic.vanadiry.com/url/</loc>
+        <lastmod>2022-05-13T03:36:36.381Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://magic.vanadiry.com/url/download/</loc>
         <lastmod>2022-05-13T03:18:52.138Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -39,15 +48,6 @@
     <url>
         <loc>https://magic.vanadiry.com/about/</loc>
         <lastmod>2022-05-13T03:12:34.882Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/url/</loc>
-        <lastmod>2022-05-13T03:01:27.299Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
