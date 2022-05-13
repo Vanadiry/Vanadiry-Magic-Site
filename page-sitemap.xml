@@ -10,6 +10,51 @@
     
     
     <url>
+        <loc>https://magic.vanadiry.com/update/</loc>
+        <lastmod>2022-05-13T03:15:12.767Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/url/about/</loc>
+        <lastmod>2022-05-13T03:14:47.179Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/about/</loc>
+        <lastmod>2022-05-13T03:12:34.882Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/url/</loc>
+        <lastmod>2022-05-13T03:01:27.299Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/url/wordle/</loc>
+        <lastmod>2022-05-13T03:00:55.341Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://magic.vanadiry.com/wiki/rosetta/</loc>
         <lastmod>2022-05-11T06:14:03.775Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -82,15 +127,6 @@
     
     
     <url>
-        <loc>https://magic.vanadiry.com/update/</loc>
-        <lastmod>2022-05-02T15:54:36.029Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://magic.vanadiry.com/vacgn/archive_galgame/</loc>
         <lastmod>2022-05-02T15:51:56.897Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -102,15 +138,6 @@
     <url>
         <loc>https://magic.vanadiry.com/vacgn/archive_rpg/</loc>
         <lastmod>2022-05-02T15:42:28.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/about/</loc>
-        <lastmod>2022-05-02T12:57:04.143Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -199,15 +226,6 @@
     
     
     <url>
-        <loc>https://magic.vanadiry.com/url/</loc>
-        <lastmod>2022-04-17T15:44:11.449Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://magic.vanadiry.com/url/control/</loc>
         <lastmod>2022-04-17T15:44:01.746Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -226,44 +244,8 @@
     
     
     <url>
-        <loc>https://magic.vanadiry.com/url/wordle/</loc>
-        <lastmod>2022-03-14T13:56:36.623Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/url/push/</loc>
-        <lastmod>2022-03-08T14:26:20.215Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/url/about/</loc>
-        <lastmod>2022-03-06T06:09:11.648Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://magic.vanadiry.com/url/acg/</loc>
         <lastmod>2022-03-06T06:04:16.800Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/url/magic/</loc>
-        <lastmod>2022-03-06T05:34:23.127Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
