@@ -10,6 +10,15 @@
     
     
     <url>
+        <loc>https://magic.vanadiry.com/vacgn/archive_galgame/</loc>
+        <lastmod>2022-05-21T08:15:15.911Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://magic.vanadiry.com/vacgn/finish_anime/</loc>
         <lastmod>2022-05-21T07:59:19.694Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -138,15 +147,6 @@
     <url>
         <loc>https://magic.vanadiry.com/vacgn/archive_manga/</loc>
         <lastmod>2022-05-05T01:53:53.201Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/vacgn/archive_galgame/</loc>
-        <lastmod>2022-05-02T15:51:56.897Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
