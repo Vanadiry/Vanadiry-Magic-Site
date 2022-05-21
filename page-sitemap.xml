@@ -10,6 +10,78 @@
     
     
     <url>
+        <loc>https://magic.vanadiry.com/update/</loc>
+        <lastmod>2022-05-21T11:52:25.182Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/wiki/hardcore/staff/</loc>
+        <lastmod>2022-05-21T11:50:05.862Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/wiki/hardcore/</loc>
+        <lastmod>2022-05-21T11:49:53.129Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/wiki/mmsgame/</loc>
+        <lastmod>2022-05-21T11:49:07.123Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/url/</loc>
+        <lastmod>2022-05-21T11:47:41.392Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/about/</loc>
+        <lastmod>2022-05-21T11:47:09.595Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/vacgn/</loc>
+        <lastmod>2022-05-21T11:23:40.975Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/vacgn/archive_real/</loc>
+        <lastmod>2022-05-21T11:20:57.362Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://magic.vanadiry.com/vacgn/archive_galgame/</loc>
         <lastmod>2022-05-21T08:15:15.911Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -46,33 +118,6 @@
     
     
     <url>
-        <loc>https://magic.vanadiry.com/vacgn/</loc>
-        <lastmod>2022-05-21T06:20:41.676Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/about/</loc>
-        <lastmod>2022-05-19T15:45:00.280Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/url/</loc>
-        <lastmod>2022-05-13T03:36:36.381Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://magic.vanadiry.com/url/download/</loc>
         <lastmod>2022-05-13T03:18:52.138Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -82,26 +127,8 @@
     
     
     <url>
-        <loc>https://magic.vanadiry.com/update/</loc>
-        <lastmod>2022-05-13T03:15:12.767Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://magic.vanadiry.com/url/about/</loc>
         <lastmod>2022-05-13T03:14:47.179Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/url/wordle/</loc>
-        <lastmod>2022-05-13T03:00:55.341Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -129,15 +156,6 @@
     <url>
         <loc>https://magic.vanadiry.com/GK/</loc>
         <lastmod>2022-05-09T03:50:46.398Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/vacgn/archive_real/</loc>
-        <lastmod>2022-05-07T05:26:44.343Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -271,15 +289,6 @@
     
     
     <url>
-        <loc>https://magic.vanadiry.com/wiki/mmsgame/</loc>
-        <lastmod>2022-02-27T17:16:49.592Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://magic.vanadiry.com/url/tools/</loc>
         <lastmod>2022-02-27T08:09:45.931Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -291,24 +300,6 @@
     <url>
         <loc>https://magic.vanadiry.com/url/official/</loc>
         <lastmod>2022-02-27T08:09:37.750Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/wiki/hardcore/</loc>
-        <lastmod>2022-01-03T15:22:09.191Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/wiki/hardcore/staff/</loc>
-        <lastmod>2022-01-03T14:39:07.289Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
