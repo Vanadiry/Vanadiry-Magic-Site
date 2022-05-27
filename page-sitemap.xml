@@ -10,8 +10,8 @@
     
     
     <url>
-        <loc>https://magic.vanadiry.com/vacgn/finish_anime/</loc>
-        <lastmod>2022-05-25T10:39:58.191Z</lastmod>
+        <loc>https://magic.vanadiry.com/vacgn/reviews_anime/</loc>
+        <lastmod>2022-05-27T09:06:30.537Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -19,8 +19,17 @@
     
     
     <url>
-        <loc>https://magic.vanadiry.com/vacgn/reviews_anime/</loc>
-        <lastmod>2022-05-25T10:39:56.137Z</lastmod>
+        <loc>https://magic.vanadiry.com/vacgn/</loc>
+        <lastmod>2022-05-27T08:58:41.581Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/vacgn/finish_anime/</loc>
+        <lastmod>2022-05-27T08:50:48.282Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -75,15 +84,6 @@
     <url>
         <loc>https://magic.vanadiry.com/about/</loc>
         <lastmod>2022-05-21T11:47:09.595Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/vacgn/</loc>
-        <lastmod>2022-05-21T11:23:40.975Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
