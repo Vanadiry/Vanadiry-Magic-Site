@@ -1,1 +1,1 @@
-location.replace("https://vanadiry.com/system/announcement/alljump/")
+location.replace("https://vanadiry.com/system/jump/all/")
