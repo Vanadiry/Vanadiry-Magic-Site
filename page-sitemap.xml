@@ -10,6 +10,15 @@
     
     
     <url>
+        <loc>https://magic.vanadiry.com/url/acg/</loc>
+        <lastmod>2022-06-09T03:32:51.185Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://magic.vanadiry.com/GK/</loc>
         <lastmod>2022-05-28T12:40:11.580Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -273,15 +282,6 @@
     <url>
         <loc>https://magic.vanadiry.com/wiki/mmsgame/new/</loc>
         <lastmod>2022-03-28T08:40:18.655Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/url/acg/</loc>
-        <lastmod>2022-03-06T06:04:16.800Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
