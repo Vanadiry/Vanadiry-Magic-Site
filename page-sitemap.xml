@@ -10,6 +10,15 @@
     
     
     <url>
+        <loc>https://magic.vanadiry.com/vacgn/archive_anime/</loc>
+        <lastmod>2022-06-12T08:38:23.472Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://magic.vanadiry.com/about/</loc>
         <lastmod>2022-06-12T07:09:12.813Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -30,15 +39,6 @@
     <url>
         <loc>https://magic.vanadiry.com/update/</loc>
         <lastmod>2022-06-12T07:05:47.176Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/vacgn/archive_anime/</loc>
-        <lastmod>2022-06-10T18:51:05.392Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
