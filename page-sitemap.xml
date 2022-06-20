@@ -10,6 +10,42 @@
     
     
     <url>
+        <loc>https://magic.vanadiry.com/wiki/rosetta/</loc>
+        <lastmod>2022-06-20T15:41:05.892Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/wiki/hardcore/</loc>
+        <lastmod>2022-06-20T15:38:31.095Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/wiki/hardcore/schedule/</loc>
+        <lastmod>2022-06-20T15:34:45.027Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/wiki/hardcore/license/</loc>
+        <lastmod>2022-06-20T15:34:32.349Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://magic.vanadiry.com/vacgn/reviews_anime/</loc>
         <lastmod>2022-06-19T16:24:02.844Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -127,24 +163,6 @@
     
     
     <url>
-        <loc>https://magic.vanadiry.com/wiki/hardcore/staff/</loc>
-        <lastmod>2022-05-21T11:50:05.862Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/wiki/hardcore/</loc>
-        <lastmod>2022-05-21T11:49:53.129Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://magic.vanadiry.com/url/</loc>
         <lastmod>2022-05-21T11:47:41.392Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -190,24 +208,6 @@
     
     
     <url>
-        <loc>https://magic.vanadiry.com/wiki/rosetta/</loc>
-        <lastmod>2022-05-11T06:14:03.775Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/wiki/revive/</loc>
-        <lastmod>2022-05-11T06:10:27.276Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://magic.vanadiry.com/vacgn/archive_manga/</loc>
         <lastmod>2022-05-05T01:53:53.201Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -219,24 +219,6 @@
     <url>
         <loc>https://magic.vanadiry.com/vacgn/archive_rpg/</loc>
         <lastmod>2022-05-02T15:42:28.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/wiki/hardcore/notice/</loc>
-        <lastmod>2022-04-22T13:01:25.461Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/wiki/hardcore/license/</loc>
-        <lastmod>2022-04-22T12:57:44.166Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -300,15 +282,6 @@
     <url>
         <loc>https://magic.vanadiry.com/url/official/</loc>
         <lastmod>2022-02-27T08:09:37.750Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/wiki/hardcore/schedule/</loc>
-        <lastmod>2022-01-03T14:32:40.450Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>

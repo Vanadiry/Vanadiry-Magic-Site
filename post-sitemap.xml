@@ -10,7 +10,15 @@
 
     <url>
         <loc>https://magic.vanadiry.com/2022/06/12/ios/001/</loc>
-        <lastmod>2022-06-19T16:04:58.069Z</lastmod>
+        <lastmod>2022-06-20T15:45:58.299Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://magic.vanadiry.com/2022/06/20/dream/018/</loc>
+        <lastmod>2022-06-20T15:31:46.586Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
