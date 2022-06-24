@@ -10,6 +10,42 @@
     
     
     <url>
+        <loc>https://magic.vanadiry.com/vacgn/reviews_anime/</loc>
+        <lastmod>2022-06-24T10:07:53.683Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/vacgn/finish_anime/</loc>
+        <lastmod>2022-06-24T10:07:38.529Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/vacgn/archive_real/</loc>
+        <lastmod>2022-06-24T10:06:59.968Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/vacgn/archive_anime/</loc>
+        <lastmod>2022-06-24T10:05:05.714Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://magic.vanadiry.com/wiki/rosetta/</loc>
         <lastmod>2022-06-20T15:41:05.892Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -39,24 +75,6 @@
     <url>
         <loc>https://magic.vanadiry.com/wiki/hardcore/license/</loc>
         <lastmod>2022-06-20T15:34:32.349Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/vacgn/reviews_anime/</loc>
-        <lastmod>2022-06-19T16:24:02.844Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/vacgn/finish_anime/</loc>
-        <lastmod>2022-06-19T16:23:05.261Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -118,15 +136,6 @@
     
     
     <url>
-        <loc>https://magic.vanadiry.com/vacgn/archive_anime/</loc>
-        <lastmod>2022-06-12T08:38:23.472Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://magic.vanadiry.com/about/</loc>
         <lastmod>2022-06-12T07:09:12.813Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -165,15 +174,6 @@
     <url>
         <loc>https://magic.vanadiry.com/url/</loc>
         <lastmod>2022-05-21T11:47:41.392Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/vacgn/archive_real/</loc>
-        <lastmod>2022-05-21T11:20:57.362Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
