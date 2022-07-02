@@ -10,8 +10,17 @@
     
     
     <url>
-        <loc>https://magic.vanadiry.com/info/autochat/</loc>
-        <lastmod>2022-06-30T09:19:00.718Z</lastmod>
+        <loc>https://magic.vanadiry.com/info/update/</loc>
+        <lastmod>2022-07-02T15:37:28.960Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/info/nmet/</loc>
+        <lastmod>2022-07-02T15:23:09.764Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -20,7 +29,7 @@
     
     <url>
         <loc>https://magic.vanadiry.com/about/</loc>
-        <lastmod>2022-06-29T16:21:00.761Z</lastmod>
+        <lastmod>2022-07-02T15:20:12.905Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -147,24 +156,6 @@
     <url>
         <loc>https://magic.vanadiry.com/url/acg/</loc>
         <lastmod>2022-06-19T16:06:24.559Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/info/NMET/</loc>
-        <lastmod>2022-06-12T07:08:56.720Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/update/</loc>
-        <lastmod>2022-06-12T07:05:47.176Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>

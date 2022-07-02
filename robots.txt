@@ -2,7 +2,7 @@ Crawl-delay: 5
 Disallow:https://magic.vanadiry.com/sitemap.xml
 Disallow:https://magic.vanadiry.com/post-sitemap.xml
 Disallow:https://magic.vanadiry.com/page-sitemap.xml
-Disallow:/update/
+Disallow:/info/update/
 Disallow:/vacgn/
 User-agent: *
 Disallow:
