@@ -6,7 +6,7 @@
   <link href="https://magic.vanadiry.com/atom.xml" rel="self"/>
   
   <link href="https://magic.vanadiry.com/"/>
-  <updated>2022-07-07T05:34:38.961Z</updated>
+  <updated>2022-07-07T04:03:35.054Z</updated>
   <id>https://magic.vanadiry.com/</id>
   
   <author>
@@ -15,31 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>调试</title>
-    <link href="https://magic.vanadiry.com/10007/06/07/blog/004/"/>
-    <id>https://magic.vanadiry.com/10007/06/07/blog/004/</id>
-    <published>+010007-06-06T16:00:00.000Z</published>
-    <updated>2022-07-07T05:34:38.961Z</updated>
-    
-    <content type="html"><![CDATA[<p>调试</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;调试&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="博客" scheme="https://magic.vanadiry.com/categories/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-    <category term="博客" scheme="https://magic.vanadiry.com/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-  </entry>
   
   <entry>
     <title>iOS/iPad OS 16 Developer Beta 3 简评</title>
