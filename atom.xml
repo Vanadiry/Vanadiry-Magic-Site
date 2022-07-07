@@ -6,7 +6,7 @@
   <link href="https://magic.vanadiry.com/atom.xml" rel="self"/>
   
   <link href="https://magic.vanadiry.com/"/>
-  <updated>2022-06-27T11:15:11.965Z</updated>
+  <updated>2022-07-07T04:03:35.054Z</updated>
   <id>https://magic.vanadiry.com/</id>
   
   <author>
@@ -17,18 +17,44 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>iOS/iPad OS 16 Developer Beta 3 简评</title>
+    <link href="https://magic.vanadiry.com/2022/07/07/apple/003/"/>
+    <id>https://magic.vanadiry.com/2022/07/07/apple/003/</id>
+    <published>2022-07-07T03:36:15.000Z</published>
+    <updated>2022-07-07T04:03:35.054Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tag-plugin note" color="orange"><div class="body"><p>此处主要记录日常使用明显变化的内容，更多详细更新内容请前往Apple官网：<a href="https://www.apple.com.cn/ios/ios-16-preview/">iOS16</a>或<a href="https://www.apple.com.cn/ipados/ipados-16-preview/">iPadOS16</a></p></div></div><h4 id="iOS-x2F-iPadOS-性能变化"><a href="#iOS-x2F-iPadOS-性能变化" class="headerlink" title="iOS&#x2F;iPadOS 性能变化"></a>iOS&#x2F;iPadOS 性能变化</h4><p>耗电未见明显改进，发热大幅降低，基本没有应用掉帧和异常闪退情况出现。</p><h4 id="新功能（较Beta-2）"><a href="#新功能（较Beta-2）" class="headerlink" title="新功能（较Beta 2）"></a>新功能（较Beta 2）</h4><mark class="tag-plugin mark" color="green">等待整合...</mark><h4 id="新问题（较Beta-2）"><a href="#新问题（较Beta-2）" class="headerlink" title="新问题（较Beta 2）"></a>新问题（较Beta 2）</h4><mark class="tag-plugin mark" color="red">等待整合...</mark><h4 id="Beta-2-Bug-修复情况"><a href="#Beta-2-Bug-修复情况" class="headerlink" title="Beta 2 Bug 修复情况"></a>Beta 2 Bug 修复情况</h4><mark class="tag-plugin mark" color="green">已修复</mark>：视频应用现在可以全屏（需要更新App到最新版本）。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：游戏和横排应用现在不会错位。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：使用天文墙纸时基本不会出现卡顿。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：系统现在可以正常识别手机摆放方向，并调整打开横屏应用时的方向 。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：一些图标/文本显示为的调试字符被替换。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：iPadOS上，“地图”App现在功能正常。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：在“健康”App中，一些数据显示正常。<br /><mark class="tag-plugin mark" color="red">未修复</mark>：底部页面小白点仍会偏移。<br />]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tag-plugin note&quot; color=&quot;orange&quot;&gt;&lt;div class=&quot;body&quot;&gt;&lt;p&gt;此处主要记录日常使用明显变化的内容，更多详细更新内容请前往Apple官网：&lt;a href=&quot;https://www.apple.com.cn/ios/</summary>
+      
+    
+    
+    
+    <category term="iOS" scheme="https://magic.vanadiry.com/categories/iOS/"/>
+    
+    
+    <category term="iOS" scheme="https://magic.vanadiry.com/tags/iOS/"/>
+    
+    <category term="iPadOS" scheme="https://magic.vanadiry.com/tags/iPadOS/"/>
+    
+  </entry>
+  
+  <entry>
     <title>iOS/iPad OS 16 Developer Beta 2 简评</title>
     <link href="https://magic.vanadiry.com/2022/06/23/apple/002/"/>
     <id>https://magic.vanadiry.com/2022/06/23/apple/002/</id>
     <published>2022-06-23T03:42:56.000Z</published>
-    <updated>2022-06-27T11:15:11.965Z</updated>
+    <updated>2022-07-07T03:59:44.657Z</updated>
     
-    <content type="html"><![CDATA[<div class="tag-plugin note" color="orange"><div class="body"><p><strong>预览版存在极多恶性Bug，非必要尽量不升级。</strong>此处主要记录明显变化的内容，更多详细更新内容请前往Apple官网：<a href="https://www.apple.com.cn/ios/ios-16-preview/">iOS16</a>或<a href="https://www.apple.com.cn/ipados/ipados-16-preview/">iPadOS16</a></p></div></div><h4 id="iOS-x2F-iPadOS-性能变化"><a href="#iOS-x2F-iPadOS-性能变化" class="headerlink" title="iOS&#x2F;iPadOS 性能变化"></a>iOS&#x2F;iPadOS 性能变化</h4><p>部分应用（包括系统应用）仍然存在掉帧和异常闪退的情况。耗电较Beta 1基本没有改进。发热状况依旧。</p><h4 id="新功能（较Beta-1-）"><a href="#新功能（较Beta-1-）" class="headerlink" title="新功能（较Beta 1 ）"></a>新功能（较Beta 1 ）</h4><mark class="tag-plugin mark" color="green">更新</mark>：自定义墙纸照片时，有更多滤镜可以选择。<br /><mark class="tag-plugin mark" color="green">更新</mark>：锁屏墙纸选择时，可以上划快速调出删除按钮。<br /><mark class="tag-plugin mark" color="green">更新</mark>：自定义墙纸照片时，新增了一条关于如何调整照片的提示。<br /><mark class="tag-plugin mark" color="green">更新</mark>：新建一个锁屏墙纸时，可以方便的选择”主屏幕墙纸同步显示“或者“选择其他主屏幕墙纸”。<br /><mark class="tag-plugin mark" color="green">更新</mark>：使用天文墙纸时，预览动画更加流畅，并且会显示一个绿点表示当前位置（只在预览时显示）。<br /><mark class="tag-plugin mark" color="green">更新</mark>：保存屏幕截图时新增了“保存到快速笔记”选项<br /><mark class="tag-plugin mark" color="green">更新</mark>：在“视频”或者“Safari”等使用Apple内置播放器的应用中，可以拖动屏幕来调节进度条。<br /><mark class="tag-plugin mark" color="green">更新</mark>：“健康”App中的按日查看的数据更改为横向条。<br /><mark class="tag-plugin mark" color="green">更新</mark>：打开“睡眠”专注模式、在锁屏界面并且未解锁时，屏幕会降低亮色的亮度（解锁后恢复正常）。<br /><mark class="tag-plugin mark" color="green">更新</mark>：在App切换器中通过通知打开不在App切换器中的App时，会移动到最右侧调出App（之前是直接从屏幕底部弹出来的）。<br /><mark class="tag-plugin mark" color="green">更新</mark>：截图保存菜单中新增了“保存到快速备忘录”选项。<br /><h4 id="新问题（较Beta-1）"><a href="#新问题（较Beta-1）" class="headerlink" title="新问题（较Beta 1）"></a>新问题（较Beta 1）</h4><mark class="tag-plugin mark" color="red">Bug</mark>：使用天文墙纸时，绿点会异常显示，并且动画卡顿严重。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：部分应用数据丢失，需要重新登陆（特别是支付宝这类阿里家的）。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：播放视频/音乐后，锁屏界面的播放器无法正常显示。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：启用计时器时，锁屏界面无法显示计时器时间。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：一些图标/文本只显示系统分配的一堆字母。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：一些图标/文本只显示系统分配的一堆字母。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：打开最近打开过的即时聊天软件时，可能会无法移动到聊天的最下方。<br /><mark class="tag-plugin mark" color="red">???</mark>：在Beta 1中已经汉化完毕的文本，现在汉化丢失了，比如面容ID解锁时的提示。但是也有一些汉化被添加进来，比如健身App。<br /><h4 id="Beta-1-Bug-修复情况"><a href="#Beta-1-Bug-修复情况" class="headerlink" title="Beta 1 Bug 修复情况"></a>Beta 1 Bug 修复情况</h4><mark class="tag-plugin mark" color="green">已修复</mark>：在天气App，打开和关闭侧边栏时，布局已经可以回归原位。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：现在图片翻译后，移动图片不会丢失翻译。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：隐藏邮件地址功能现在可以正常使用。<br /><mark class="tag-plugin mark" color="red">未修复</mark>：部分视频应用仍没有声音，不能全屏。<br /><mark class="tag-plugin mark" color="red">未修复</mark>：部分游戏和应用掉帧仍严重。<br /><mark class="tag-plugin mark" color="red">未修复</mark>：部分游戏和横排应用仍错位。<br /><mark class="tag-plugin mark" color="red">未修复</mark>：底部页面小白点仍会偏移。<br /><mark class="tag-plugin mark" color="red">未修复</mark>：打开聚焦搜索时仍会卡顿。<br /><mark class="tag-plugin mark" color="purple">未知</mark>：暂时没有发现应用启动时闪退的现象，但不能保证完全没有。<br /><mark class="tag-plugin mark" color="purple">搞不明白呜呜</mark>：不会修改主屏幕墙纸了喵（<br /><mark class="tag-plugin mark" color="purple">变化</mark>：现在不能使用快捷指令打开PosterBoard<br />]]></content>
+    <content type="html"><![CDATA[<div class="tag-plugin note" color="orange"><div class="body"><p><strong>此预览版仍存在极多Bug，非必要尽量不升级。</strong>此处主要记录日常使用明显变化的内容，更多详细更新内容请前往Apple官网：<a href="https://www.apple.com.cn/ios/ios-16-preview/">iOS16</a>或<a href="https://www.apple.com.cn/ipados/ipados-16-preview/">iPadOS16</a></p></div></div><h4 id="iOS-x2F-iPadOS-性能变化"><a href="#iOS-x2F-iPadOS-性能变化" class="headerlink" title="iOS&#x2F;iPadOS 性能变化"></a>iOS&#x2F;iPadOS 性能变化</h4><p>应用掉帧和异常闪退情况减少。耗电较Beta 1基本没有改进。发热状况依旧。</p><h4 id="新功能（较Beta-1）"><a href="#新功能（较Beta-1）" class="headerlink" title="新功能（较Beta 1）"></a>新功能（较Beta 1）</h4><mark class="tag-plugin mark" color="green">更新</mark>：自定义墙纸照片中，新增了两个滤镜。<br /><mark class="tag-plugin mark" color="green">更新</mark>：锁屏墙纸选择时，可以上划快速调出删除按钮。<br /><mark class="tag-plugin mark" color="green">更新</mark>：自定义墙纸照片时，新增了一条关于如何调整照片的提示。<br /><mark class="tag-plugin mark" color="green">更新</mark>：新建一个锁屏墙纸时，可以方便的选择”主屏幕墙纸同步显示“或者“选择其他主屏幕墙纸”。<br /><mark class="tag-plugin mark" color="green">更新</mark>：编辑天文墙纸时，预览动画更加流畅，并且会显示一个绿点表示当前位置。<br /><mark class="tag-plugin mark" color="green">更新</mark>：在“视频”或者“Safari”等使用Apple内置播放器的应用中，可以拖动屏幕来调节进度条。<br /><mark class="tag-plugin mark" color="green">更新</mark>：“健康”App中的按日查看的数据更改为横向条。<br /><mark class="tag-plugin mark" color="green">更新</mark>：打开“睡眠”专注模式、在锁屏界面并且未解锁时，屏幕会降低亮色的亮度（解锁后恢复正常）。<br /><mark class="tag-plugin mark" color="green">更新</mark>：截图保存菜单中新增了“保存到快速备忘录”选项。<br /><h4 id="新问题（较Beta-1）"><a href="#新问题（较Beta-1）" class="headerlink" title="新问题（较Beta 1）"></a>新问题（较Beta 1）</h4><mark class="tag-plugin mark" color="red">Bug</mark>：使用天文墙纸时，绿点会异常显示，并且动画卡顿严重。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：已经关闭竖排锁定，并将手机横向放置时打开横排应用，系统仍强制向右横排。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：阿里系App（支付宝、学习强国等）应用数据丢失，需要重新登陆。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：播放视频/音乐后，锁屏界面的播放器无法正常显示。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：启用计时器时，锁屏界面无法显示计时器时间。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：一些图标/文本显示为调试字符。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：iPadOS上，“地图”App可能不显示地图。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：微信、QQ等聊天软件，可会无法移动到聊天的最下方。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：在“健康”App中，一些数据只显示灰色柱状图。<br /><mark class="tag-plugin mark" color="red">???</mark>：部分在Beta 1中已经汉化完毕的文本丢失了。<br /><h4 id="Beta-1-Bug-修复情况"><a href="#Beta-1-Bug-修复情况" class="headerlink" title="Beta 1 Bug 修复情况"></a>Beta 1 Bug 修复情况</h4><mark class="tag-plugin mark" color="green">已修复</mark>：在天气App，打开和关闭侧边栏时，布局已经可以回归原位。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：现在图片翻译后，移动图片不会丢失翻译。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：隐藏邮件地址功能现在可以正常使用。<br /><mark class="tag-plugin mark" color="red">未修复</mark>：部分视频应用仍没有声音，不能全屏。<br /><mark class="tag-plugin mark" color="red">未修复</mark>：部分游戏和横排应用仍错位。<br /><mark class="tag-plugin mark" color="red">未修复</mark>：底部页面小白点仍会偏移。<br /><mark class="tag-plugin mark" color="purple">未知</mark>：暂时没有发现应用启动时闪退的现象，但不能保证完全没有。<br /><mark class="tag-plugin mark" color="purple">变化</mark>：现在不能使用快捷指令打开PosterBoard<br /><h4 id="其它"><a href="#其它" class="headerlink" title="其它"></a>其它</h4><p>App闪退、无法全屏等异常可能需要等待该App更新。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;div class=&quot;tag-plugin note&quot; color=&quot;orange&quot;&gt;&lt;div class=&quot;body&quot;&gt;&lt;p&gt;&lt;strong&gt;预览版存在极多恶性Bug，非必要尽量不升级。&lt;/strong&gt;此处主要记录明显变化的内容，更多详细更新内容请前往Apple官网：&lt;a </summary>
+    <summary type="html">&lt;div class=&quot;tag-plugin note&quot; color=&quot;orange&quot;&gt;&lt;div class=&quot;body&quot;&gt;&lt;p&gt;&lt;strong&gt;此预览版仍存在极多Bug，非必要尽量不升级。&lt;/strong&gt;此处主要记录日常使用明显变化的内容，更多详细更新内容请前往Apple官网</summary>
       
     
     
@@ -73,14 +99,14 @@
     <link href="https://magic.vanadiry.com/2022/06/12/apple/001/"/>
     <id>https://magic.vanadiry.com/2022/06/12/apple/001/</id>
     <published>2022-06-12T06:54:17.000Z</published>
-    <updated>2022-06-24T09:40:27.749Z</updated>
+    <updated>2022-07-07T03:55:17.663Z</updated>
     
-    <content type="html"><![CDATA[<div class="tag-plugin note" color="orange"><div class="body"><p><strong>预览版存在极多恶性Bug，非必要尽量不升级。</strong>此处主要记录明显变化的内容，更多详细更新内容请前往Apple官网：<a href="https://www.apple.com.cn/ios/ios-16-preview/">iOS16</a>或<a href="https://www.apple.com.cn/ipados/ipados-16-preview/">iPadOS16</a></p></div></div><h3 id="iOS"><a href="#iOS" class="headerlink" title="iOS"></a>iOS</h3><h4 id="性能"><a href="#性能" class="headerlink" title="性能"></a>性能</h4><mark class="tag-plugin mark" color="red">Bug</mark>：续航时间明显降低。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：发热严重，即使只是看看相册都会发热，玩游戏时候需要有散热装置持续给手机散热才能维持正常温度。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：会莫名其妙的掉帧，在游戏中掉帧频繁，如果手机太烫，会直接闪退。<br /><h4 id="Bug及暂时解决方法"><a href="#Bug及暂时解决方法" class="headerlink" title="Bug及暂时解决方法"></a>Bug及暂时解决方法</h4><mark class="tag-plugin mark" color="red">Bug</mark>：部分视频应用没有声音，不能全屏。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：部分应用启动时或使用时闪退。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：部分游戏掉帧极严重。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：部分游戏和横排应用错位，导致无法正常使用。<br /><mark class="tag-plugin mark" color="yellow">解决方案</mark>：视频不能全屏：打开手机的“画中画”和应用的”小窗播放“功能，关闭手机的”竖排锁定“。打开视频，启用小窗，然后返回主屏幕。点击“画中画”中的“回到应用”按钮即可。<br /><mark class="tag-plugin mark" color="yellow">解决方案</mark>：游戏等横排应用错位：打开应用后，立刻进入App切换器，然后返回应用，再次进入App切换器并返回应用即可。<br /><h4 id="锁屏界面"><a href="#锁屏界面" class="headerlink" title="锁屏界面"></a>锁屏界面</h4><mark class="tag-plugin mark" color="green">更新</mark>：现在可以像在Apple Watch上一样自定义锁屏界面样式。<br /><mark class="tag-plugin mark" color="green">更新</mark>：可以在固定位置添加小组件。<br /><mark class="tag-plugin mark" color="green">更新</mark>：有预设壁纸可选可调节。<br /><mark class="tag-plugin mark" color="green">更新</mark>：通知栏移到了屏幕下面。<br /><mark class="tag-plugin mark" color="green">更新</mark>：支持横屏Face ID解锁（iPhone 12以上）。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：之前的纯白数字时间现在没有了，只能使用比较花的和比较粗的字体。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：在之前版本中设置的壁纸只能显示一个数字和日期，小组件什么的不能调整。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：如果在“更多日历”中启用了“农历”，那么在锁屏界面的日期栏中会只显示农历和阳历第几日的数字。<br /><h4 id="主屏幕"><a href="#主屏幕" class="headerlink" title="主屏幕"></a>主屏幕</h4><mark class="tag-plugin mark" color="green">更新</mark>：可以和锁屏界面联动壁纸。<br /><mark class="tag-plugin mark" color="green">更新</mark>：原来底部的一排页面小白点变成了搜索按钮。<br /><mark class="tag-plugin mark" color="green">更新</mark>：添加了一个专注模式专属的主屏幕页面，默认在第一位不启用，并且允许不放图标且占用一页（不知道是不是Bug）。<br /><mark class="tag-plugin mark" color="green">更新</mark>：聚焦搜索的搜索框从屏幕顶部移到了键盘上面。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：由于底部页面小白点变成了搜索按钮，导致翻页时只显示两个点点，如果主屏幕有很多页的话就很不方便。（如果需要原来的样式，可以前往设置-主屏幕，并关闭“显示聚焦”）<br /><mark class="tag-plugin mark" color="red">Bug</mark>：底部页面小白点偏移。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：打开聚焦搜索时明显卡顿。<br /><h4 id="相册"><a href="#相册" class="headerlink" title="相册"></a>相册</h4><mark class="tag-plugin mark" color="green">更新</mark>：支持检测重复照片（允许将两张照片合成为一张包含它们全部信息的照片）。<br /><mark class="tag-plugin mark" color="green">更新</mark>：支持将已隐藏和最近删除上锁（默认开启）。<br /><mark class="tag-plugin mark" color="green">更新</mark>：支持将有明显界线的图片进行背景分离。<br /><mark class="tag-plugin mark" color="green">更新</mark>：可以批处理图片。<br /><mark class="tag-plugin mark" color="green">更新</mark>：可以直接翻译图片中的文字。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：分离简单的背景比较好，但如果背景或者前景物体/人物的边比较复杂，就会毛边。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：重复照片检测不准确，有重复但没检测到的情况（但暂时没发现误检测的状况）。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：批处理图片只能处理滤镜类型，不能裁剪。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：图片翻译之后，不能拖动和缩放图片，否则翻译丢失，需要重新翻译（对于很多或者很长的文字不利）。<br /><h4 id="iMessage"><a href="#iMessage" class="headerlink" title="iMessage"></a>iMessage</h4><mark class="tag-plugin mark" color="green">更新</mark>：支持撤回/修改已经发送的信息（必须是iMessage，普通短信不行）。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：双方都要是iOS/iPad OS 16才可以。<br /><h4 id="其它"><a href="#其它" class="headerlink" title="其它"></a>其它</h4><mark class="tag-plugin mark" color="green">更新</mark>：在设置中可以验证Face ID后查看当前的WiFi密码（前提是你连上了）。<br /><mark class="tag-plugin mark" color="green">更新</mark>："健康"App新增按日查看的数据（例如睡眠数据）。<br /><mark class="tag-plugin mark" color="green">更新</mark>：支持原生输入法震动。<br /><mark class="tag-plugin mark" color="green">更新</mark>：选中文本后的快捷菜单更美观了，可以联动深色模式，并且滑动翻页时候有动画了。<br /><mark class="tag-plugin mark" color="green">更新</mark>：听写功能可以持续打开，允许边听边改。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：在设置-墙纸中无法修改主屏幕墙纸。（反复返回然后重新进入墙纸设置即可）<br /><mark class="tag-plugin mark" color="red">Bug</mark>：iCloud设置中的“隐藏邮件地址”消失了。<br /><h3 id="iPad-OS"><a href="#iPad-OS" class="headerlink" title="iPad OS"></a>iPad OS</h3><p>在性能、大型Bug、iMessage、相册中，iPad OS和iOS基本一致。<br /></p><mark class="tag-plugin mark" color="green">更新</mark>：只有如iOS上最基本的锁屏样式<br /><mark class="tag-plugin mark" color="green">更新</mark>：新增了为大屏幕设计的天气App<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：自定义锁定屏幕还没开放，不过可以使用快捷指令的“打开App”功能启动“PosterBoard”来体验编辑器（无法保存且有显示Bug）<br /><mark class="tag-plugin mark" color="red">Bug</mark>：在天气App，打开和关闭侧边栏时，布局不能正常回归原位。<br /><mark class="tag-plugin mark" color="green">M1 iPad 专属功能</mark>：我没有M1（大嘘）<br />]]></content>
+    <content type="html"><![CDATA[<div class="tag-plugin note" color="orange"><div class="body"><p><strong>此预览版存在极多恶性Bug，非必要尽量不升级。</strong>此处主要记录日常使用明显变化的内容，更多详细更新内容请前往Apple官网：<a href="https://www.apple.com.cn/ios/ios-16-preview/">iOS16</a>或<a href="https://www.apple.com.cn/ipados/ipados-16-preview/">iPadOS16</a></p></div></div><h3 id="iOS"><a href="#iOS" class="headerlink" title="iOS"></a>iOS</h3><h4 id="性能"><a href="#性能" class="headerlink" title="性能"></a>性能</h4><p>续航时间明显降低。发热严重，即使只是看看相册都会发热，玩游戏时候需要有散热装置持续给手机散热才能维持正常温度。掉帧，在游戏中较为频繁，如果手机太烫，会直接闪退。</p><h4 id="异常"><a href="#异常" class="headerlink" title="异常"></a>异常</h4><mark class="tag-plugin mark" color="red">Bug</mark>：部分视频应用没有声音，不能全屏。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：部分应用启动时或使用时闪退。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：部分游戏掉帧极严重。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：部分游戏和横排应用错位，导致无法正常使用。<br /><h4 id="锁屏界面"><a href="#锁屏界面" class="headerlink" title="锁屏界面"></a>锁屏界面</h4><mark class="tag-plugin mark" color="green">更新</mark>：现在可以像在Apple Watch上一样自定义锁屏界面样式。<br /><mark class="tag-plugin mark" color="green">更新</mark>：可以在固定位置添加小组件。<br /><mark class="tag-plugin mark" color="green">更新</mark>：有预设壁纸可选可调节。<br /><mark class="tag-plugin mark" color="green">更新</mark>：通知栏移到了屏幕下面。<br /><mark class="tag-plugin mark" color="green">更新</mark>：支持横屏Face ID解锁（iPhone 12以上）。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：之前的纯白数字时间现在没有了，只能使用比较花的和比较粗的字体。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：在之前版本中设置好的壁纸不能调整小组件和时间样式。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：不能在选择农历小组件的同时看到完整的阳历信息。<br /><h4 id="主屏幕"><a href="#主屏幕" class="headerlink" title="主屏幕"></a>主屏幕</h4><mark class="tag-plugin mark" color="green">更新</mark>：可以和锁屏界面联动壁纸。<br /><mark class="tag-plugin mark" color="green">更新</mark>：原来底部的一排页面小白点变成了搜索按钮。<br /><mark class="tag-plugin mark" color="green">更新</mark>：添加了一个专注模式专属的主屏幕页面，默认在第一位不启用，并且允许不放图标且占用一页。<br /><mark class="tag-plugin mark" color="green">更新</mark>：聚焦搜索的搜索框从屏幕顶部移到了键盘上面。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：由于底部页面小白点变成了搜索按钮，导致翻页时只显示两个点点，如果主屏幕有很多页的话就很不方便。（如果需要原来的样式，可以前往设置-主屏幕，并关闭“显示聚焦”）<br /><mark class="tag-plugin mark" color="red">Bug</mark>：底部页面小白点偏移。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：打开聚焦搜索时明显卡顿。<br /><h4 id="相册"><a href="#相册" class="headerlink" title="相册"></a>相册</h4><mark class="tag-plugin mark" color="green">更新</mark>：支持检测重复照片（允许将两张照片合成为一张包含它们全部信息的照片）。<br /><mark class="tag-plugin mark" color="green">更新</mark>：支持将已隐藏和最近删除上锁（默认开启）。<br /><mark class="tag-plugin mark" color="green">更新</mark>：支持将有明显界线的图片进行背景分离。<br /><mark class="tag-plugin mark" color="green">更新</mark>：可以批处理图片。<br /><mark class="tag-plugin mark" color="green">更新</mark>：可以直接翻译图片中的文字。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：分离简单的背景比较好，但如果背景或者前景物体/人物的边比较复杂，就会毛边。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：重复照片检测不准确，有重复但没检测到的情况（但暂时没发现误检测的状况）。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：批处理图片只能处理滤镜类型，不能裁剪。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：图片翻译之后，不能拖动和缩放图片，否则翻译丢失，需要重新翻译（对于很多或者很长的文字不利）。<br /><h4 id="iMessage"><a href="#iMessage" class="headerlink" title="iMessage"></a>iMessage</h4><mark class="tag-plugin mark" color="green">更新</mark>：支持撤回/修改已经发送的信息（必须是iMessage，普通短信不行）。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：双方都要是iOS/iPad OS 16才可以。<br /><h4 id="其它"><a href="#其它" class="headerlink" title="其它"></a>其它</h4><mark class="tag-plugin mark" color="green">更新</mark>：在设置中可以验证Face ID后查看当前的WiFi密码（前提是你连上了）。<br /><mark class="tag-plugin mark" color="green">更新</mark>："健康"App新增按日查看的数据（例如睡眠数据）。<br /><mark class="tag-plugin mark" color="green">更新</mark>：支持原生输入法震动。<br /><mark class="tag-plugin mark" color="green">更新</mark>：选中文本后的快捷菜单更美观了，可以联动深色模式，并且滑动翻页时候有动画了。<br /><mark class="tag-plugin mark" color="green">更新</mark>：听写功能可以持续打开，允许边听边改。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：在设置-墙纸中无法修改主屏幕墙纸。（反复返回然后重新进入墙纸设置即可）<br /><mark class="tag-plugin mark" color="red">Bug</mark>：iCloud设置中的“隐藏邮件地址”消失了。<br /><h3 id="iPad-OS"><a href="#iPad-OS" class="headerlink" title="iPad OS"></a>iPad OS</h3><p>在性能、大型Bug、iMessage、相册中，iPad OS和iOS基本一致。<br /></p><mark class="tag-plugin mark" color="green">更新</mark>：只有如iOS上最基本的锁屏样式<br /><mark class="tag-plugin mark" color="green">更新</mark>：新增了为大屏幕设计的天气App<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：自定义锁定屏幕还没开放，不过可以使用快捷指令的“打开App”功能启动“PosterBoard”来体验编辑器（无法保存且有显示Bug）<br /><mark class="tag-plugin mark" color="red">Bug</mark>：在天气App，打开和关闭侧边栏时，布局不能正常回归原位。<br /><mark class="tag-plugin mark" color="green">M1 iPad 专属功能</mark>：我没有M1（大嘘）<br />]]></content>
     
     
       
       
-    <summary type="html">&lt;div class=&quot;tag-plugin note&quot; color=&quot;orange&quot;&gt;&lt;div class=&quot;body&quot;&gt;&lt;p&gt;&lt;strong&gt;预览版存在极多恶性Bug，非必要尽量不升级。&lt;/strong&gt;此处主要记录明显变化的内容，更多详细更新内容请前往Apple官网：&lt;a </summary>
+    <summary type="html">&lt;div class=&quot;tag-plugin note&quot; color=&quot;orange&quot;&gt;&lt;div class=&quot;body&quot;&gt;&lt;p&gt;&lt;strong&gt;此预览版存在极多恶性Bug，非必要尽量不升级。&lt;/strong&gt;此处主要记录日常使用明显变化的内容，更多详细更新内容请前往Apple官</summary>
       
     
     
@@ -168,6 +194,27 @@
     
     
     <category term="梦" scheme="https://magic.vanadiry.com/tags/%E6%A2%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用Joy-Con的振动功能振出一首歌~ | 第一次的游戏程序设计</title>
+    <link href="https://magic.vanadiry.com/2022/05/07/video/012/"/>
+    <id>https://magic.vanadiry.com/2022/05/07/video/012/</id>
+    <published>2022-05-06T18:09:18.000Z</published>
+    <updated>2022-05-27T09:33:38.999Z</updated>
+    
+    <content type="html"><![CDATA[<p>又沉啦！</p><span id="more"></span><p><a href="https://www.bilibili.com/video/BV1hr4y187rz" title="发现我了！">点击跳转至Bilibili</a></p><h4 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h4><p>水水水水水水水水水水水水水水水水水水（喜）</p><p>软件：附带导航！一做就上手 第一次的的游戏程序设计</p><p>游戏ID：G 005 KKL 0HB</p><p>作者ID：P 001 DL5 TFB - Vanadiry</p><p>需要Nintendo Switch Online才能下载（悲）</p><p>其他东西在做力</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;又沉啦！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="视频发布" scheme="https://magic.vanadiry.com/categories/%E8%A7%86%E9%A2%91%E5%8F%91%E5%B8%83/"/>
+    
+    
+    <category term="Switch" scheme="https://magic.vanadiry.com/tags/Switch/"/>
     
   </entry>
   
@@ -305,11 +352,11 @@
   </entry>
   
   <entry>
-    <title>解决win10/11开太多虚拟桌面卡死的问题</title>
-    <link href="https://magic.vanadiry.com/2022/02/23/day/005/"/>
-    <id>https://magic.vanadiry.com/2022/02/23/day/005/</id>
+    <title>解决win10/11开太多虚拟桌面卡死的问题（</title>
+    <link href="https://magic.vanadiry.com/2022/02/23/day/003/"/>
+    <id>https://magic.vanadiry.com/2022/02/23/day/003/</id>
     <published>2022-02-22T16:39:44.000Z</published>
-    <updated>2022-03-22T16:42:27.293Z</updated>
+    <updated>2022-07-07T04:06:01.212Z</updated>
     
     <content type="html"><![CDATA[<p>刚刚手抽，一直点加号，开了50个虚拟桌面，发现开始变得有点卡就准备把他们关掉，结果卡死，强制关机之后就进不去虚拟桌面的界面了，只要进去就会卡死（</p><p>甚至鼠标放在虚拟桌面的按钮都会死机hhh很怪</p><p>但是快捷键还是可以正常用的，按win+ctrl+→，挪到后面的桌面，然后按win+ctrl+f4关掉当前的桌面就好（</p>]]></content>
     
@@ -568,90 +615,6 @@
     
     
     <category term="音游" scheme="https://magic.vanadiry.com/tags/%E9%9F%B3%E6%B8%B8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>不知道写什么标题</title>
-    <link href="https://magic.vanadiry.com/2022/01/07/day/004/"/>
-    <id>https://magic.vanadiry.com/2022/01/07/day/004/</id>
-    <published>2022-01-07T13:18:42.000Z</published>
-    <updated>2022-02-27T08:41:14.648Z</updated>
-    
-    <content type="html"><![CDATA[<p>不知道为什么一点也不想干活，玩游戏和看视频也不想，什么都不想干。</p><p>开了一些坑，还没准备填就直接推了，完全提不起劲。</p><p>加了一个高考倒计时的页面。而且今天的博客似乎出了点小问题</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;不知道为什么一点也不想干活，玩游戏和看视频也不想，什么都不想干。&lt;/p&gt;
-&lt;p&gt;开了一些坑，还没准备填就直接推了，完全提不起劲。&lt;/p&gt;
-&lt;p&gt;加了一个高考倒计时的页面。而且今天的博客似乎出了点小问题&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="日常" scheme="https://magic.vanadiry.com/categories/%E6%97%A5%E5%B8%B8/"/>
-    
-    
-    <category term="日常" scheme="https://magic.vanadiry.com/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>¹ö³öÎÒµÄÄÔ×Ó¡£</title>
-    <link href="https://magic.vanadiry.com/2022/01/02/unknow/001/"/>
-    <id>https://magic.vanadiry.com/2022/01/02/unknow/001/</id>
-    <published>2022-01-02T05:54:45.000Z</published>
-    <updated>2022-02-27T08:42:18.527Z</updated>
-    
-    <content type="html"><![CDATA[<p>ÔÚÎÒ·¢ÏÖ²»¶Ô¾¢Ö®Ç°¹ö³öÎÒµÄÄÔ×Ó¡£</p><p>ÔÚÎÒÉúÆøÖ®Ç°¹ö³öÎÒµÄÄÔ×Ó¡£</p><p>ÔÚÎÒÐ´ÍêÕâÊ×Ê«Ç°ÇëÄã¹ö³öÎÒµÄÄÔ×Ó¡£</p><p>µ«ÊÇÕâÊ×Ê«ÓÀÔ¶ÎÞ·¨Íê½á¡£</p><p>ËüÖ»»áÔÝÍ£¡£</p><p>³ö×ÓµÄµÄÄÔµÄÎÒ³ö×ÓÎÒÄÔÄÔ³öÄÔ×Ó¹öÄÔÎÒµÄÎÒÎÒ¹öÎÒ¹öÎÒÄÔ³öÎÒ¹ö¹ö×ÓÄÔÄÔÄÔ×Ó×Ó×Ó¹ö×ÓµÄ×ÓÄÔµÄ³öÎÒÎÒ×Ó¹ö×Ó×ÓÎÒ³ö³öÎÒµÄ¹öÄÔ¹ö³ö³öÎÒ³öÎÒµÄ³öµÄ×Ó¹ö³öÎÒÄÔ³ö¹ö¹ö¹öÄÔÎÒµÄ³öµÄÎÒµÄÄÔÄÔÎÒ¹öÄÔÎÒÄÔÄÔÄÔ×ÓÎÒ×Ó¹ö×ÓÎÒ³ö³öµÄÎÒµÄ³öÄÔÎÒÎÒ³öÄÔµÄ³öÎÒµÄµÄ³ö×ÓÄÔÄÔµÄ¹öÄÔÄÔ¹ö¹öµÄ¹öµÄÄÔµÄ³ö×Ó¹öÄÔµÄÎÒ×Ó×ÓµÄµÄ¹öÎÒµÄµÄ¹ö³öÄÔµÄ×ÓµÄµÄ×Ó¹öÄÔ¹ö¹ö¹öÄÔ¹ö¹öµÄÄÔ³öµÄ×ÓµÄ¹öÎÒÄÔ×ÓÄÔµÄ³ö¹öµÄ³öÎÒ³ö³öµÄ×Ó×Ó¹ö¹öÄÔÎÒ¹ö³öÎÒÎÒµÄ³ö×ÓÎÒµÄ×Ó³ö×Ó³ö¹öÎÒÄÔ×ÓµÄÄÔ×Ó×Ó×ÓÎÒµÄÎÒ¹ö³ö³ö³öÎÒµÄ×ÓÄÔ³öÎÒ³ö¹ö³öÎÒ×Ó¹ö³öÄÔÎÒ×ÓÄÔÄÔÎÒÎÒ×Ó³öÎÒ¹ö¹ö×Ó×Ó³ö³ö×ÓÎÒÄÔ³öÎÒ×Ó³ö×Ó¹öÎÒ×ÓÄÔ¹öÄÔÄÔ¹ö¹ö³ö×Ó×ÓµÄµÄµÄ×ÓµÄ¹ö¹ö³öÄÔ¹öµÄ³öÄÔÎÒµÄ×ÓµÄ³öÄÔ¹ö³ö×ÓµÄµÄÄÔµÄÎÒ³ö×ÓÎÒÄÔÄÔ³öÄÔ×Ó¹öÄÔÎÒµÄÎÒÎÒ¹öÎÒ¹öÎÒÄÔ³öÎÒ¹ö¹ö×ÓÄÔÄÔÄÔ×Ó×Ó×Ó¹ö×ÓµÄ×ÓÄÔµÄ³öÎÒÎÒ×Ó¹ö×Ó×ÓÎÒ³ö³öÎÒµÄ¹öÄÔ¹ö³ö³öÎÒ³öÎÒµÄ³öµÄ×Ó¹ö³öÎÒÄÔ³ö¹ö¹ö¹öÄÔÎÒµÄ³öµÄÎÒµÄÄÔÄÔÎÒ¹öÄÔÎÒÄÔÄÔÄÔ×ÓÎÒ×Ó¹ö×ÓÎÒ³ö³öµÄÎÒµÄ³öÄÔÎÒÎÒ³öÄÔµÄ³öÎÒµÄµÄ³ö×ÓÄÔÄÔµÄ¹öÄÔÄÔ¹ö¹öµÄ¹öµÄÄÔµÄ³ö×Ó¹öÄÔµÄÎÒ×Ó×ÓµÄµÄ¹öÎÒµÄµÄ¹ö³öÄÔµÄ×ÓµÄµÄ×Ó¹öÄÔ¹ö¹ö¹öÄÔ¹ö¹öµÄÄÔ³öµÄ×ÓµÄ¹öÎÒÄÔ×ÓÄÔµÄ³ö¹öµÄ³öÎÒ³ö³öµÄ×Ó×Ó¹ö¹öÄÔÎÒ¹ö³ö</p><p>ÕâÓÀÔ¶²»»á½áÊø¡£</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;ÔÚÎÒ·¢ÏÖ²»¶Ô¾¢Ö®Ç°¹ö³öÎÒµÄÄÔ×Ó¡£&lt;/p&gt;
-&lt;p&gt;ÔÚÎÒÉúÆøÖ®Ç°¹ö³öÎÒµÄÄÔ×Ó¡£&lt;/p&gt;
-&lt;p&gt;ÔÚÎÒÐ´ÍêÕâÊ×Ê«Ç°ÇëÄã¹ö³öÎÒµÄÄÔ×Ó¡£&lt;/p&gt;
-&lt;p&gt;µ«ÊÇÕâÊ×Ê«ÓÀÔ¶ÎÞ·¨Íê½</summary>
-      
-    
-    
-    
-    <category term="UnKnow" scheme="https://magic.vanadiry.com/categories/UnKnow/"/>
-    
-    
-    <category term="UnKnow" scheme="https://magic.vanadiry.com/tags/UnKnow/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>不知道为什么的负面情绪</title>
-    <link href="https://magic.vanadiry.com/2022/01/01/day/003/"/>
-    <id>https://magic.vanadiry.com/2022/01/01/day/003/</id>
-    <published>2022-01-01T12:32:15.000Z</published>
-    <updated>2022-02-27T08:40:52.614Z</updated>
-    
-    <content type="html"><![CDATA[<p>平时因为ºÜ¶à¸ºÃæµÄÊÂÇé，所以我并不怎么和别人交流，也不想交朋友，攒太多事情又憋得慌，大约博客和我的游戏就是这么来的。</p><p>好在有两位朋友认识很久了，也非常熟悉。但是今天突然的有些负面情绪。有点害怕。</p><p>我好像比同龄人见到和经历的负面东西要多，比如欺骗背叛各种乱七八糟的事情。不管是自己憋着也好还是写点东西写出来也好，总归算是过去了（什么时候我想起来了，单独拿出来几件破事讲讲）。就是因为这样我才有些害怕。</p><p>似乎之前有过一些事情，我把一些人当作朋友，他们在我面前和我关系特别好，但是背后把我当敌人（大概是，想不出很好的词语了），但我一直都不知道。平时也一块说说话，有些不想给外人说的东西也会和他们谈谈。结果某个时候突然发现，原来他们不把自己当作朋友，之前给他们讲的事情，要么被他们当作笑话，要么被他们再讲给别人，然后当作笑话。挺离谱的。</p><p>倒不是怕我的这两位朋友会怎么样，因为肯定不会的。主要是被这个突然出现的负面情绪打了一下，而且又想起来之前发生的某些事情，感觉很不好。因为如果这两位朋友被我弄丢了，我真的一个朋友都没了。</p><p>很怪的感觉，不过好在我写这篇博客时候，这感觉基本没了。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;平时因为ºÜ¶à¸ºÃæµÄÊÂÇé，所以我并不怎么和别人交流，也不想交朋友，攒太多事情又憋得慌，大约博客和我的游戏就是这么来的。&lt;/p&gt;
-&lt;p&gt;好在有两位朋友认识很久了，也非常熟悉。但是今天突然的有些负面情绪。有点害怕。&lt;/p&gt;
-&lt;p&gt;我好像比同龄人见到和经历的负面东西要</summary>
-      
-    
-    
-    
-    <category term="日常" scheme="https://magic.vanadiry.com/categories/%E6%97%A5%E5%B8%B8/"/>
-    
-    
-    <category term="负面" scheme="https://magic.vanadiry.com/tags/%E8%B4%9F%E9%9D%A2/"/>
-    
-    <category term="朋友" scheme="https://magic.vanadiry.com/tags/%E6%9C%8B%E5%8F%8B/"/>
-    
-    <category term="情绪" scheme="https://magic.vanadiry.com/tags/%E6%83%85%E7%BB%AA/"/>
     
   </entry>
   
