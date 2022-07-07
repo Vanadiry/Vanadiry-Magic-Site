@@ -50,9 +50,9 @@
     <link href="https://magic.vanadiry.com/2022/07/07/apple/003/"/>
     <id>https://magic.vanadiry.com/2022/07/07/apple/003/</id>
     <published>2022-07-07T03:36:15.000Z</published>
-    <updated>2022-07-07T07:44:23.302Z</updated>
+    <updated>2022-07-07T15:22:39.352Z</updated>
     
-    <content type="html"><![CDATA[<div class="tag-plugin note" color="orange"><div class="body"><p>此处主要记录日常使用明显变化的内容，更多详细更新内容请前往Apple官网：<a href="https://www.apple.com.cn/ios/ios-16-preview/">iOS16</a>或<a href="https://www.apple.com.cn/ipados/ipados-16-preview/">iPadOS16</a></p></div></div><h4 id="iOS-x2F-iPadOS-性能变化"><a href="#iOS-x2F-iPadOS-性能变化" class="headerlink" title="iOS&#x2F;iPadOS 性能变化"></a>iOS&#x2F;iPadOS 性能变化</h4><p>耗电未见明显改进，发热大幅降低，基本没有应用掉帧和异常闪退情况出现。</p><h4 id="新功能（较Beta-2）"><a href="#新功能（较Beta-2）" class="headerlink" title="新功能（较Beta 2）"></a>新功能（较Beta 2）</h4><mark class="tag-plugin mark" color="green">等待整合...</mark><h4 id="新问题（较Beta-2）"><a href="#新问题（较Beta-2）" class="headerlink" title="新问题（较Beta 2）"></a>新问题（较Beta 2）</h4><mark class="tag-plugin mark" color="red">等待整合...</mark><h4 id="Beta-2-Bug-修复情况"><a href="#Beta-2-Bug-修复情况" class="headerlink" title="Beta 2 Bug 修复情况"></a>Beta 2 Bug 修复情况</h4><mark class="tag-plugin mark" color="green">已修复</mark>：视频应用现在可以全屏（需要更新App到最新版本）。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：游戏和横排应用现在不会错位。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：使用天文墙纸时基本不会出现卡顿。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：系统现在可以正常识别手机摆放方向，并调整打开横屏应用时的方向 。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：一些图标/文本显示为的调试字符被替换。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：iPadOS上，“地图”App现在功能正常。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：在“健康”App中，一些数据显示正常。<br /><mark class="tag-plugin mark" color="red">未修复</mark>：底部页面小白点仍会偏移。<br />]]></content>
+    <content type="html"><![CDATA[<div class="tag-plugin note" color="orange"><div class="body"><p>此处主要记录日常使用明显变化的内容，更多详细更新内容请前往Apple官网：<a href="https://www.apple.com.cn/ios/ios-16-preview/">iOS16</a>或<a href="https://www.apple.com.cn/ipados/ipados-16-preview/">iPadOS16</a></p></div></div><h4 id="iOS-x2F-iPadOS-性能变化"><a href="#iOS-x2F-iPadOS-性能变化" class="headerlink" title="iOS&#x2F;iPadOS 性能变化"></a>iOS&#x2F;iPadOS 性能变化</h4><p>耗电未见明显改进，发热大幅降低，基本没有应用掉帧和异常闪退情况出现。</p><h4 id="新功能（小型，较Beta-2）"><a href="#新功能（小型，较Beta-2）" class="headerlink" title="新功能（小型，较Beta 2）"></a>新功能（小型，较Beta 2）</h4><mark class="tag-plugin mark" color="green">更新</mark>：新增“锁定模式”。<mark class="tag-plugin mark" color="green">更新</mark>：新增“共享图库”<mark class="tag-plugin mark" color="green">更新</mark>：修复了很多翻译<mark class="tag-plugin mark" color="green">更新</mark>：部分过渡动画更加流畅<h4 id="新功能：锁定模式"><a href="#新功能：锁定模式" class="headerlink" title="新功能：锁定模式"></a>新功能：锁定模式</h4><p>Apple对其描述的文本翻译：<br>锁定模式是一种极端的可选保护，只有当您认为自己可能成为极为复杂的网络攻击中，并成为目标时，才应启用此模式。大多数人从未成为这种攻击的目标。<br>当设备处于锁定模式时，它将不会像未启用此模式时那样工作。在安全性、软件、网站和功能上将受到严格限制，一些功能将被完全禁止。</p><p>各个App的具体限制：<br>信息：大多数附件被禁止，其它部分功能被禁止<br>FaceTime：禁止之前未通话过的人打进FaceTime<br>浏览网页：一些浏览功能被屏蔽<br>共享相册：共享相册按钮消失，同时自动阻止新的共享相册邀请<br>设备连接：在设备锁定时，禁止通过有线连接其它设备或配件<br>Apple服务：之前为邀请过的人所发出的邀请将被阻止<br>描述文件：禁止安装描述文件</p><h4 id="新问题（较Beta-2）"><a href="#新问题（较Beta-2）" class="headerlink" title="新问题（较Beta 2）"></a>新问题（较Beta 2）</h4><mark class="tag-plugin mark" color="red">Bug</mark>：在安全检查中，快速退出会闪退<h4 id="Beta-2-Bug-修复情况"><a href="#Beta-2-Bug-修复情况" class="headerlink" title="Beta 2 Bug 修复情况"></a>Beta 2 Bug 修复情况</h4><mark class="tag-plugin mark" color="green">已修复</mark>：视频应用现在可以全屏（需要更新App到最新版本）。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：游戏和横排应用现在不会错位。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：使用天文墙纸时基本不会出现卡顿。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：系统现在可以正常识别手机摆放方向，并调整打开横屏应用时的方向 。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：一些图标/文本显示为的调试字符被替换。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：iPadOS上，“地图”App现在功能正常。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：在“健康”App中，一些数据显示正常。<br /><mark class="tag-plugin mark" color="red">未修复</mark>：底部页面小白点仍会偏移。<br />]]></content>
     
     
       
@@ -573,9 +573,9 @@
     <category term="游戏" scheme="https://magic.vanadiry.com/categories/%E6%B8%B8%E6%88%8F/"/>
     
     
-    <category term="Mirror" scheme="https://magic.vanadiry.com/tags/Mirror/"/>
-    
     <category term="Steam" scheme="https://magic.vanadiry.com/tags/Steam/"/>
+    
+    <category term="Mirror" scheme="https://magic.vanadiry.com/tags/Mirror/"/>
     
   </entry>
   
@@ -1058,9 +1058,9 @@
     <category term="视频发布" scheme="https://magic.vanadiry.com/categories/%E8%A7%86%E9%A2%91%E5%8F%91%E5%B8%83/"/>
     
     
-    <category term="明日方舟" scheme="https://magic.vanadiry.com/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/"/>
-    
     <category term="音游" scheme="https://magic.vanadiry.com/tags/%E9%9F%B3%E6%B8%B8/"/>
+    
+    <category term="明日方舟" scheme="https://magic.vanadiry.com/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/"/>
     
   </entry>
   
