@@ -407,32 +407,6 @@
   </entry>
   
   <entry>
-    <title>Oculus Quest 2 录制16:9视频</title>
-    <link href="https://magic.vanadiry.com/2022/02/19/oculus/002/"/>
-    <id>https://magic.vanadiry.com/2022/02/19/oculus/002/</id>
-    <published>2022-02-19T05:29:07.000Z</published>
-    <updated>2022-02-19T15:56:23.954Z</updated>
-    
-    <content type="html"><![CDATA[<p>你需要先打开Quest 2的开发者模式，然后连接到电脑，在电脑上安装SideQuest，并连接上。</p><p>点上面的<strong>Run ADB commands</strong>然后选<strong>CUSTOM COMMAND</strong></p><p>输入下面的五行命令，一行一次，分五次输入，记得点RUN</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">adb shell setprop debug.oculus.capture.width 1280</span><br><span class="line">adb shell setprop debug.oculus.textureWidth 1280</span><br><span class="line">adb shell setprop debug.oculus.capture.height 720</span><br><span class="line">adb shell setprop debug.oculus.capture.bitrate 10000000</span><br><span class="line">adb shell setprop debug.oculus.foveation.level 0</span><br></pre></td></tr></table></figure><p>没了，录屏就完了！</p><p><strong>关机重启会导致失效，需要重复这些步骤</strong></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;你需要先打开Quest 2的开发者模式，然后连接到电脑，在电脑上安装SideQuest，并连接上。&lt;/p&gt;
-&lt;p&gt;点上面的&lt;strong&gt;Run ADB commands&lt;/strong&gt;然后选&lt;strong&gt;CUSTOM COMMAND&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;输</summary>
-      
-    
-    
-    
-    <category term="Oculus" scheme="https://magic.vanadiry.com/categories/Oculus/"/>
-    
-    
-    <category term="Quest 2" scheme="https://magic.vanadiry.com/tags/Quest-2/"/>
-    
-  </entry>
-  
-  <entry>
     <title>一个Oculus Quest 2 的60刀/30刀邀请链接</title>
     <link href="https://magic.vanadiry.com/2022/02/19/oculus/003/"/>
     <id>https://magic.vanadiry.com/2022/02/19/oculus/003/</id>
@@ -447,6 +421,32 @@
     <summary type="html">&lt;p&gt;我自己的！&lt;a href=&quot;https://www.oculus.com/referrals/link/Vanadiry&quot;&gt;https://www.oculus.com/referrals/link/Vanadiry&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;呜呜呜&lt;/p&gt;
 </summary>
+      
+    
+    
+    
+    <category term="Oculus" scheme="https://magic.vanadiry.com/categories/Oculus/"/>
+    
+    
+    <category term="Quest 2" scheme="https://magic.vanadiry.com/tags/Quest-2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Oculus Quest 2 录制16:9视频</title>
+    <link href="https://magic.vanadiry.com/2022/02/19/oculus/002/"/>
+    <id>https://magic.vanadiry.com/2022/02/19/oculus/002/</id>
+    <published>2022-02-19T05:29:07.000Z</published>
+    <updated>2022-02-19T15:56:23.954Z</updated>
+    
+    <content type="html"><![CDATA[<p>你需要先打开Quest 2的开发者模式，然后连接到电脑，在电脑上安装SideQuest，并连接上。</p><p>点上面的<strong>Run ADB commands</strong>然后选<strong>CUSTOM COMMAND</strong></p><p>输入下面的五行命令，一行一次，分五次输入，记得点RUN</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">adb shell setprop debug.oculus.capture.width 1280</span><br><span class="line">adb shell setprop debug.oculus.textureWidth 1280</span><br><span class="line">adb shell setprop debug.oculus.capture.height 720</span><br><span class="line">adb shell setprop debug.oculus.capture.bitrate 10000000</span><br><span class="line">adb shell setprop debug.oculus.foveation.level 0</span><br></pre></td></tr></table></figure><p>没了，录屏就完了！</p><p><strong>关机重启会导致失效，需要重复这些步骤</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;你需要先打开Quest 2的开发者模式，然后连接到电脑，在电脑上安装SideQuest，并连接上。&lt;/p&gt;
+&lt;p&gt;点上面的&lt;strong&gt;Run ADB commands&lt;/strong&gt;然后选&lt;strong&gt;CUSTOM COMMAND&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;输</summary>
       
     
     
@@ -573,9 +573,9 @@
     <category term="游戏" scheme="https://magic.vanadiry.com/categories/%E6%B8%B8%E6%88%8F/"/>
     
     
-    <category term="Steam" scheme="https://magic.vanadiry.com/tags/Steam/"/>
-    
     <category term="Mirror" scheme="https://magic.vanadiry.com/tags/Mirror/"/>
+    
+    <category term="Steam" scheme="https://magic.vanadiry.com/tags/Steam/"/>
     
   </entry>
   
@@ -1058,9 +1058,9 @@
     <category term="视频发布" scheme="https://magic.vanadiry.com/categories/%E8%A7%86%E9%A2%91%E5%8F%91%E5%B8%83/"/>
     
     
-    <category term="音游" scheme="https://magic.vanadiry.com/tags/%E9%9F%B3%E6%B8%B8/"/>
-    
     <category term="明日方舟" scheme="https://magic.vanadiry.com/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/"/>
+    
+    <category term="音游" scheme="https://magic.vanadiry.com/tags/%E9%9F%B3%E6%B8%B8/"/>
     
   </entry>
   
