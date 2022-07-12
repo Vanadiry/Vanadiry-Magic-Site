@@ -6,7 +6,7 @@
   <link href="https://magic.vanadiry.com/atom.xml" rel="self"/>
   
   <link href="https://magic.vanadiry.com/"/>
-  <updated>2022-07-07T08:20:27.907Z</updated>
+  <updated>2022-07-12T05:36:01.539Z</updated>
   <id>https://magic.vanadiry.com/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>iOS/iPadOS 本机存档/应用数据迁移（以Phigros存档迁移为例）</title>
+    <title>iOS/iPadOS 16 Public Beta 简评（20A5312j）</title>
+    <link href="https://magic.vanadiry.com/2022/07/12/apple/005/"/>
+    <id>https://magic.vanadiry.com/2022/07/12/apple/005/</id>
+    <published>2022-07-12T05:30:15.000Z</published>
+    <updated>2022-07-12T05:36:01.539Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="新功能"><a href="#新功能" class="headerlink" title="新功能"></a>新功能</h4><p>较 Developer Beta 3 新增了锁屏界面全屏音乐播放器。</p><p>较 iOS&#x2F;iPadOS 15 新增的功能，请前往Apple官网：<a href="https://www.apple.com.cn/ios/ios-16-preview/">iOS16</a>或<a href="https://www.apple.com.cn/ipados/ipados-16-preview/">iPadOS16</a>。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h4 id=&quot;新功能&quot;&gt;&lt;a href=&quot;#新功能&quot; class=&quot;headerlink&quot; title=&quot;新功能&quot;&gt;&lt;/a&gt;新功能&lt;/h4&gt;&lt;p&gt;较 Developer Beta 3 新增了锁屏界面全屏音乐播放器。&lt;/p&gt;
+&lt;p&gt;较 iOS&amp;#x2F;iPadOS 15 新增的</summary>
+      
+    
+    
+    
+    <category term="iOS" scheme="https://magic.vanadiry.com/categories/iOS/"/>
+    
+    
+    <category term="iOS" scheme="https://magic.vanadiry.com/tags/iOS/"/>
+    
+    <category term="iPadOS" scheme="https://magic.vanadiry.com/tags/iPadOS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>iOS/iPadOS 本机存档/应用数据迁移</title>
     <link href="https://magic.vanadiry.com/2022/07/07/apple/004/"/>
     <id>https://magic.vanadiry.com/2022/07/07/apple/004/</id>
     <published>2022-07-07T07:44:37.000Z</published>
-    <updated>2022-07-07T08:20:27.907Z</updated>
+    <updated>2022-07-12T05:26:38.128Z</updated>
     
     <content type="html"><![CDATA[<h4 id="须知"><a href="#须知" class="headerlink" title="须知"></a>须知</h4><ol><li>仅适用于iOS&#x2F;iPadOS</li><li>迁入存档的机器需要该设备的Apple ID及密码</li><li>可能有数据丢失风险，请提前备份</li><li>需要迁移数据的软件，需要安装相同版本，或者迁出数据的软件版本低于迁入数据的软件版本。否则可能数据异常。</li><li>需要一台安装有iMazing的电脑，Windows与MacOS均可。（<a href="https://imazing.com/">iMazing官网</a>）</li><li>如果你的设备不是从官方渠道购买，则可能是“越狱过锁”或者“黑解”设备，由于执行恢复步骤时，设备会进入激活界面，所以这些设备将会无法激活。</li></ol><h4 id="第一步-备份应用并提取数据"><a href="#第一步-备份应用并提取数据" class="headerlink" title="第一步 备份应用并提取数据"></a>第一步 备份应用并提取数据</h4><ol><li>连接需要迁出数据的机器到电脑。</li><li>点击“管理应用程序”。（这一步可能需要输入Apple ID密码）</li><li>找到需要备份的软件，右键选择“备份应用程序数据”。</li><li>选择提取目标文件夹，然后在提取选项中选择“备份并提取应用数据”，最后点击下一步。</li><li>等待备份和提取数据完毕。</li><li>此时在刚才选择的目标文件夹中会生成一个扩展名为imazingapp的文件，请妥善保存。</li></ol><h4 id="第二步-恢复数据到新设备"><a href="#第二步-恢复数据到新设备" class="headerlink" title="第二步 恢复数据到新设备"></a>第二步 恢复数据到新设备</h4><ol><li>连接需要迁入数据的机器到电脑。</li><li>点击“管理应用程序”。（这一步可能需要输入Apple ID密码）</li><li>找到需要恢复数据的软件，右键选择“恢复应用程序数据”。</li><li>选择刚才的imazingapp文件，然后点击完成。</li><li>如果提示设备可能重启，请点击继续。</li><li>按照屏幕提示在手机上操作，关闭设备的“查找”功能。（这一步需要输入Apple ID密码）</li><li>关闭“查找”后，恢复会继续进行，直到显示“已安装”。</li></ol><h4 id="第三步-激活设备"><a href="#第三步-激活设备" class="headerlink" title="第三步 激活设备"></a>第三步 激活设备</h4><ol><li>转到你的设备继续操作</li><li>设备会显示“恢复完成”，请点击继续</li><li>在应用和数据步骤中选择“不要转移应用和数据”</li><li>继续，直到进入桌面</li></ol><p>至此，数据迁移就完成了。</p>]]></content>
     
@@ -46,18 +73,19 @@
   </entry>
   
   <entry>
-    <title>iOS/iPadOS 16 Developer Beta 3 简评</title>
+    <title>iOS/iPadOS 16 Developer Beta 3 简评（20A5312g）</title>
     <link href="https://magic.vanadiry.com/2022/07/07/apple/003/"/>
     <id>https://magic.vanadiry.com/2022/07/07/apple/003/</id>
     <published>2022-07-07T03:36:15.000Z</published>
-    <updated>2022-07-07T15:22:39.352Z</updated>
+    <updated>2022-07-12T05:29:30.226Z</updated>
     
-    <content type="html"><![CDATA[<div class="tag-plugin note" color="orange"><div class="body"><p>此处主要记录日常使用明显变化的内容，更多详细更新内容请前往Apple官网：<a href="https://www.apple.com.cn/ios/ios-16-preview/">iOS16</a>或<a href="https://www.apple.com.cn/ipados/ipados-16-preview/">iPadOS16</a></p></div></div><h4 id="iOS-x2F-iPadOS-性能变化"><a href="#iOS-x2F-iPadOS-性能变化" class="headerlink" title="iOS&#x2F;iPadOS 性能变化"></a>iOS&#x2F;iPadOS 性能变化</h4><p>耗电未见明显改进，发热大幅降低，基本没有应用掉帧和异常闪退情况出现。</p><h4 id="新功能（小型，较Beta-2）"><a href="#新功能（小型，较Beta-2）" class="headerlink" title="新功能（小型，较Beta 2）"></a>新功能（小型，较Beta 2）</h4><mark class="tag-plugin mark" color="green">更新</mark>：新增“锁定模式”。<mark class="tag-plugin mark" color="green">更新</mark>：新增“共享图库”<mark class="tag-plugin mark" color="green">更新</mark>：修复了很多翻译<mark class="tag-plugin mark" color="green">更新</mark>：部分过渡动画更加流畅<h4 id="新功能：锁定模式"><a href="#新功能：锁定模式" class="headerlink" title="新功能：锁定模式"></a>新功能：锁定模式</h4><p>Apple对其描述的文本翻译：<br>锁定模式是一种极端的可选保护，只有当您认为自己可能成为极为复杂的网络攻击中，并成为目标时，才应启用此模式。大多数人从未成为这种攻击的目标。<br>当设备处于锁定模式时，它将不会像未启用此模式时那样工作。在安全性、软件、网站和功能上将受到严格限制，一些功能将被完全禁止。</p><p>各个App的具体限制：<br>信息：大多数附件被禁止，其它部分功能被禁止<br>FaceTime：禁止之前未通话过的人打进FaceTime<br>浏览网页：一些浏览功能被屏蔽<br>共享相册：共享相册按钮消失，同时自动阻止新的共享相册邀请<br>设备连接：在设备锁定时，禁止通过有线连接其它设备或配件<br>Apple服务：之前为邀请过的人所发出的邀请将被阻止<br>描述文件：禁止安装描述文件</p><h4 id="新问题（较Beta-2）"><a href="#新问题（较Beta-2）" class="headerlink" title="新问题（较Beta 2）"></a>新问题（较Beta 2）</h4><mark class="tag-plugin mark" color="red">Bug</mark>：在安全检查中，快速退出会闪退<h4 id="Beta-2-Bug-修复情况"><a href="#Beta-2-Bug-修复情况" class="headerlink" title="Beta 2 Bug 修复情况"></a>Beta 2 Bug 修复情况</h4><mark class="tag-plugin mark" color="green">已修复</mark>：视频应用现在可以全屏（需要更新App到最新版本）。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：游戏和横排应用现在不会错位。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：使用天文墙纸时基本不会出现卡顿。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：系统现在可以正常识别手机摆放方向，并调整打开横屏应用时的方向 。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：一些图标/文本显示为的调试字符被替换。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：iPadOS上，“地图”App现在功能正常。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：在“健康”App中，一些数据显示正常。<br /><mark class="tag-plugin mark" color="red">未修复</mark>：底部页面小白点仍会偏移。<br />]]></content>
+    <content type="html"><![CDATA[<p>此处主要记录日常使用明显变化的内容</p><h4 id="iOS-x2F-iPadOS-性能变化"><a href="#iOS-x2F-iPadOS-性能变化" class="headerlink" title="iOS&#x2F;iPadOS 性能变化"></a>iOS&#x2F;iPadOS 性能变化</h4><p>耗电未见明显改进，发热大幅降低，基本没有应用掉帧和异常闪退情况出现。</p><h4 id="新功能（小型，较Beta-2）"><a href="#新功能（小型，较Beta-2）" class="headerlink" title="新功能（小型，较Beta 2）"></a>新功能（小型，较Beta 2）</h4><mark class="tag-plugin mark" color="green">更新</mark>：新增“锁定模式”。<mark class="tag-plugin mark" color="green">更新</mark>：新增“共享图库”<mark class="tag-plugin mark" color="green">更新</mark>：修复了很多翻译<mark class="tag-plugin mark" color="green">更新</mark>：部分过渡动画更加流畅<h4 id="新功能：锁定模式"><a href="#新功能：锁定模式" class="headerlink" title="新功能：锁定模式"></a>新功能：锁定模式</h4><p>Apple对其描述的文本翻译：<br>锁定模式是一种极端的可选保护，只有当您认为自己可能成为极为复杂的网络攻击中，并成为目标时，才应启用此模式。大多数人从未成为这种攻击的目标。<br>当设备处于锁定模式时，它将不会像未启用此模式时那样工作。在安全性、软件、网站和功能上将受到严格限制，一些功能将被完全禁止。</p><p>各个App的具体限制：<br>信息：大多数附件被禁止，其它部分功能被禁止<br>FaceTime：禁止之前未通话过的人打进FaceTime<br>浏览网页：一些浏览功能被屏蔽<br>共享相册：共享相册按钮消失，同时自动阻止新的共享相册邀请<br>设备连接：在设备锁定时，禁止通过有线连接其它设备或配件<br>Apple服务：之前为邀请过的人所发出的邀请将被阻止<br>描述文件：禁止安装描述文件</p><h4 id="新问题（较Beta-2）"><a href="#新问题（较Beta-2）" class="headerlink" title="新问题（较Beta 2）"></a>新问题（较Beta 2）</h4><mark class="tag-plugin mark" color="red">Bug</mark>：在安全检查中，快速退出会闪退<h4 id="Beta-2-Bug-修复情况"><a href="#Beta-2-Bug-修复情况" class="headerlink" title="Beta 2 Bug 修复情况"></a>Beta 2 Bug 修复情况</h4><mark class="tag-plugin mark" color="green">已修复</mark>：视频应用现在可以全屏（需要更新App到最新版本）。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：游戏和横排应用现在不会错位。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：使用天文墙纸时基本不会出现卡顿。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：系统现在可以正常识别手机摆放方向，并调整打开横屏应用时的方向 。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：一些图标/文本显示为的调试字符被替换。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：iPadOS上，“地图”App现在功能正常。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：在“健康”App中，一些数据显示正常。<br /><mark class="tag-plugin mark" color="red">未修复</mark>：底部页面小白点仍会偏移。<br />]]></content>
     
     
       
       
-    <summary type="html">&lt;div class=&quot;tag-plugin note&quot; color=&quot;orange&quot;&gt;&lt;div class=&quot;body&quot;&gt;&lt;p&gt;此处主要记录日常使用明显变化的内容，更多详细更新内容请前往Apple官网：&lt;a href=&quot;https://www.apple.com.cn/ios/</summary>
+    <summary type="html">&lt;p&gt;此处主要记录日常使用明显变化的内容&lt;/p&gt;
+&lt;h4 id=&quot;iOS-x2F-iPadOS-性能变化&quot;&gt;&lt;a href=&quot;#iOS-x2F-iPadOS-性能变化&quot; class=&quot;headerlink&quot; title=&quot;iOS&amp;#x2F;iPadOS 性能变化&quot;&gt;&lt;/a&gt;iOS</summary>
       
     
     
@@ -72,18 +100,20 @@
   </entry>
   
   <entry>
-    <title>iOS/iPadOS 16 Developer Beta 2 简评</title>
+    <title>iOS/iPadOS 16 Developer Beta 2 简评（20A5303i）</title>
     <link href="https://magic.vanadiry.com/2022/06/23/apple/002/"/>
     <id>https://magic.vanadiry.com/2022/06/23/apple/002/</id>
     <published>2022-06-23T03:42:56.000Z</published>
-    <updated>2022-07-07T07:44:20.053Z</updated>
+    <updated>2022-07-12T05:28:18.634Z</updated>
     
-    <content type="html"><![CDATA[<div class="tag-plugin note" color="orange"><div class="body"><p><strong>此预览版仍存在极多Bug，非必要尽量不升级。</strong>此处主要记录日常使用明显变化的内容，更多详细更新内容请前往Apple官网：<a href="https://www.apple.com.cn/ios/ios-16-preview/">iOS16</a>或<a href="https://www.apple.com.cn/ipados/ipados-16-preview/">iPadOS16</a></p></div></div><h4 id="iOS-x2F-iPadOS-性能变化"><a href="#iOS-x2F-iPadOS-性能变化" class="headerlink" title="iOS&#x2F;iPadOS 性能变化"></a>iOS&#x2F;iPadOS 性能变化</h4><p>应用掉帧和异常闪退情况减少。耗电较Beta 1基本没有改进。发热状况依旧。</p><h4 id="新功能（较Beta-1）"><a href="#新功能（较Beta-1）" class="headerlink" title="新功能（较Beta 1）"></a>新功能（较Beta 1）</h4><mark class="tag-plugin mark" color="green">更新</mark>：自定义墙纸照片中，新增了两个滤镜。<br /><mark class="tag-plugin mark" color="green">更新</mark>：锁屏墙纸选择时，可以上划快速调出删除按钮。<br /><mark class="tag-plugin mark" color="green">更新</mark>：自定义墙纸照片时，新增了一条关于如何调整照片的提示。<br /><mark class="tag-plugin mark" color="green">更新</mark>：新建一个锁屏墙纸时，可以方便的选择”主屏幕墙纸同步显示“或者“选择其他主屏幕墙纸”。<br /><mark class="tag-plugin mark" color="green">更新</mark>：编辑天文墙纸时，预览动画更加流畅，并且会显示一个绿点表示当前位置。<br /><mark class="tag-plugin mark" color="green">更新</mark>：在“视频”或者“Safari”等使用Apple内置播放器的应用中，可以拖动屏幕来调节进度条。<br /><mark class="tag-plugin mark" color="green">更新</mark>：“健康”App中的按日查看的数据更改为横向条。<br /><mark class="tag-plugin mark" color="green">更新</mark>：打开“睡眠”专注模式、在锁屏界面并且未解锁时，屏幕会降低亮色的亮度（解锁后恢复正常）。<br /><mark class="tag-plugin mark" color="green">更新</mark>：截图保存菜单中新增了“保存到快速备忘录”选项。<br /><h4 id="新问题（较Beta-1）"><a href="#新问题（较Beta-1）" class="headerlink" title="新问题（较Beta 1）"></a>新问题（较Beta 1）</h4><mark class="tag-plugin mark" color="red">Bug</mark>：使用天文墙纸时，绿点会异常显示，并且动画卡顿严重。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：已经关闭竖排锁定，并将手机横向放置时打开横排应用，系统仍强制向右横排。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：阿里系App（支付宝、学习强国等）应用数据丢失，需要重新登陆。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：播放视频/音乐后，锁屏界面的播放器无法正常显示。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：启用计时器时，锁屏界面无法显示计时器时间。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：一些图标/文本显示为调试字符。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：iPadOS上，“地图”App可能不显示地图。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：微信、QQ等聊天软件，可会无法移动到聊天的最下方。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：在“健康”App中，一些数据只显示灰色柱状图。<br /><mark class="tag-plugin mark" color="red">???</mark>：部分在Beta 1中已经汉化完毕的文本丢失了。<br /><h4 id="Beta-1-Bug-修复情况"><a href="#Beta-1-Bug-修复情况" class="headerlink" title="Beta 1 Bug 修复情况"></a>Beta 1 Bug 修复情况</h4><mark class="tag-plugin mark" color="green">已修复</mark>：在天气App，打开和关闭侧边栏时，布局已经可以回归原位。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：现在图片翻译后，移动图片不会丢失翻译。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：隐藏邮件地址功能现在可以正常使用。<br /><mark class="tag-plugin mark" color="red">未修复</mark>：部分视频应用仍没有声音，不能全屏。<br /><mark class="tag-plugin mark" color="red">未修复</mark>：部分游戏和横排应用仍错位。<br /><mark class="tag-plugin mark" color="red">未修复</mark>：底部页面小白点仍会偏移。<br /><mark class="tag-plugin mark" color="purple">未知</mark>：暂时没有发现应用启动时闪退的现象，但不能保证完全没有。<br /><mark class="tag-plugin mark" color="purple">变化</mark>：现在不能使用快捷指令打开PosterBoard<br /><h4 id="其它"><a href="#其它" class="headerlink" title="其它"></a>其它</h4><p>App闪退、无法全屏等异常可能需要等待该App更新。</p>]]></content>
+    <content type="html"><![CDATA[<div class="tag-plugin note" color="orange"><div class="body"><p><strong>此预览版仍存在极多Bug，非必要尽量不升级。</strong>此处主要记录日常使用明显变化的内容。</p></div></div><h4 id="iOS-x2F-iPadOS-性能变化"><a href="#iOS-x2F-iPadOS-性能变化" class="headerlink" title="iOS&#x2F;iPadOS 性能变化"></a>iOS&#x2F;iPadOS 性能变化</h4><p>应用掉帧和异常闪退情况减少。耗电较Beta 1基本没有改进。发热状况依旧。</p><h4 id="新功能（较Beta-1）"><a href="#新功能（较Beta-1）" class="headerlink" title="新功能（较Beta 1）"></a>新功能（较Beta 1）</h4><mark class="tag-plugin mark" color="green">更新</mark>：自定义墙纸照片中，新增了两个滤镜。<br /><mark class="tag-plugin mark" color="green">更新</mark>：锁屏墙纸选择时，可以上划快速调出删除按钮。<br /><mark class="tag-plugin mark" color="green">更新</mark>：自定义墙纸照片时，新增了一条关于如何调整照片的提示。<br /><mark class="tag-plugin mark" color="green">更新</mark>：新建一个锁屏墙纸时，可以方便的选择”主屏幕墙纸同步显示“或者“选择其他主屏幕墙纸”。<br /><mark class="tag-plugin mark" color="green">更新</mark>：编辑天文墙纸时，预览动画更加流畅，并且会显示一个绿点表示当前位置。<br /><mark class="tag-plugin mark" color="green">更新</mark>：在“视频”或者“Safari”等使用Apple内置播放器的应用中，可以拖动屏幕来调节进度条。<br /><mark class="tag-plugin mark" color="green">更新</mark>：“健康”App中的按日查看的数据更改为横向条。<br /><mark class="tag-plugin mark" color="green">更新</mark>：打开“睡眠”专注模式、在锁屏界面并且未解锁时，屏幕会降低亮色的亮度（解锁后恢复正常）。<br /><mark class="tag-plugin mark" color="green">更新</mark>：截图保存菜单中新增了“保存到快速备忘录”选项。<br /><h4 id="新问题（较Beta-1）"><a href="#新问题（较Beta-1）" class="headerlink" title="新问题（较Beta 1）"></a>新问题（较Beta 1）</h4><mark class="tag-plugin mark" color="red">Bug</mark>：使用天文墙纸时，绿点会异常显示，并且动画卡顿严重。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：已经关闭竖排锁定，并将手机横向放置时打开横排应用，系统仍强制向右横排。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：阿里系App（支付宝、学习强国等）应用数据丢失，需要重新登陆。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：播放视频/音乐后，锁屏界面的播放器无法正常显示。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：启用计时器时，锁屏界面无法显示计时器时间。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：一些图标/文本显示为调试字符。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：iPadOS上，“地图”App可能不显示地图。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：微信、QQ等聊天软件，可会无法移动到聊天的最下方。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：在“健康”App中，一些数据只显示灰色柱状图。<br /><mark class="tag-plugin mark" color="red">???</mark>：部分在Beta 1中已经汉化完毕的文本丢失了。<br /><h4 id="Beta-1-Bug-修复情况"><a href="#Beta-1-Bug-修复情况" class="headerlink" title="Beta 1 Bug 修复情况"></a>Beta 1 Bug 修复情况</h4><mark class="tag-plugin mark" color="green">已修复</mark>：在天气App，打开和关闭侧边栏时，布局已经可以回归原位。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：现在图片翻译后，移动图片不会丢失翻译。<br /><mark class="tag-plugin mark" color="green">已修复</mark>：隐藏邮件地址功能现在可以正常使用。<br /><mark class="tag-plugin mark" color="red">未修复</mark>：部分视频应用仍没有声音，不能全屏。<br /><mark class="tag-plugin mark" color="red">未修复</mark>：部分游戏和横排应用仍错位。<br /><mark class="tag-plugin mark" color="red">未修复</mark>：底部页面小白点仍会偏移。<br /><mark class="tag-plugin mark" color="purple">未知</mark>：暂时没有发现应用启动时闪退的现象，但不能保证完全没有。<br /><mark class="tag-plugin mark" color="purple">变化</mark>：现在不能使用快捷指令打开PosterBoard<br /><h4 id="其它"><a href="#其它" class="headerlink" title="其它"></a>其它</h4><p>App闪退、无法全屏等异常可能需要等待该App更新。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;div class=&quot;tag-plugin note&quot; color=&quot;orange&quot;&gt;&lt;div class=&quot;body&quot;&gt;&lt;p&gt;&lt;strong&gt;此预览版仍存在极多Bug，非必要尽量不升级。&lt;/strong&gt;此处主要记录日常使用明显变化的内容，更多详细更新内容请前往Apple官网</summary>
+    <summary type="html">&lt;div class=&quot;tag-plugin note&quot; color=&quot;orange&quot;&gt;&lt;div class=&quot;body&quot;&gt;&lt;p&gt;&lt;strong&gt;此预览版仍存在极多Bug，非必要尽量不升级。&lt;/strong&gt;此处主要记录日常使用明显变化的内容。&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+
+</summary>
       
     
     
@@ -124,11 +154,11 @@
   </entry>
   
   <entry>
-    <title>iOS/iPadOS 16 Developer Beta 简评</title>
+    <title>iOS/iPadOS 16 Developer Beta 简评（20A5283p）</title>
     <link href="https://magic.vanadiry.com/2022/06/12/apple/001/"/>
     <id>https://magic.vanadiry.com/2022/06/12/apple/001/</id>
     <published>2022-06-12T06:54:17.000Z</published>
-    <updated>2022-07-07T07:44:17.099Z</updated>
+    <updated>2022-07-12T05:29:09.464Z</updated>
     
     <content type="html"><![CDATA[<div class="tag-plugin note" color="orange"><div class="body"><p><strong>此预览版存在极多恶性Bug，非必要尽量不升级。</strong>此处主要记录日常使用明显变化的内容，更多详细更新内容请前往Apple官网：<a href="https://www.apple.com.cn/ios/ios-16-preview/">iOS16</a>或<a href="https://www.apple.com.cn/ipados/ipados-16-preview/">iPadOS16</a></p></div></div><h3 id="iOS"><a href="#iOS" class="headerlink" title="iOS"></a>iOS</h3><h4 id="性能"><a href="#性能" class="headerlink" title="性能"></a>性能</h4><p>续航时间明显降低。发热严重，即使只是看看相册都会发热，玩游戏时候需要有散热装置持续给手机散热才能维持正常温度。掉帧，在游戏中较为频繁，如果手机太烫，会直接闪退。</p><h4 id="异常"><a href="#异常" class="headerlink" title="异常"></a>异常</h4><mark class="tag-plugin mark" color="red">Bug</mark>：部分视频应用没有声音，不能全屏。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：部分应用启动时或使用时闪退。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：部分游戏掉帧极严重。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：部分游戏和横排应用错位，导致无法正常使用。<br /><h4 id="锁屏界面"><a href="#锁屏界面" class="headerlink" title="锁屏界面"></a>锁屏界面</h4><mark class="tag-plugin mark" color="green">更新</mark>：现在可以像在Apple Watch上一样自定义锁屏界面样式。<br /><mark class="tag-plugin mark" color="green">更新</mark>：可以在固定位置添加小组件。<br /><mark class="tag-plugin mark" color="green">更新</mark>：有预设壁纸可选可调节。<br /><mark class="tag-plugin mark" color="green">更新</mark>：通知栏移到了屏幕下面。<br /><mark class="tag-plugin mark" color="green">更新</mark>：支持横屏Face ID解锁（iPhone 12以上）。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：之前的纯白数字时间现在没有了，只能使用比较花的和比较粗的字体。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：在之前版本中设置好的壁纸不能调整小组件和时间样式。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：不能在选择农历小组件的同时看到完整的阳历信息。<br /><h4 id="主屏幕"><a href="#主屏幕" class="headerlink" title="主屏幕"></a>主屏幕</h4><mark class="tag-plugin mark" color="green">更新</mark>：可以和锁屏界面联动壁纸。<br /><mark class="tag-plugin mark" color="green">更新</mark>：原来底部的一排页面小白点变成了搜索按钮。<br /><mark class="tag-plugin mark" color="green">更新</mark>：添加了一个专注模式专属的主屏幕页面，默认在第一位不启用，并且允许不放图标且占用一页。<br /><mark class="tag-plugin mark" color="green">更新</mark>：聚焦搜索的搜索框从屏幕顶部移到了键盘上面。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：由于底部页面小白点变成了搜索按钮，导致翻页时只显示两个点点，如果主屏幕有很多页的话就很不方便。（如果需要原来的样式，可以前往设置-主屏幕，并关闭“显示聚焦”）<br /><mark class="tag-plugin mark" color="red">Bug</mark>：底部页面小白点偏移。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：打开聚焦搜索时明显卡顿。<br /><h4 id="相册"><a href="#相册" class="headerlink" title="相册"></a>相册</h4><mark class="tag-plugin mark" color="green">更新</mark>：支持检测重复照片（允许将两张照片合成为一张包含它们全部信息的照片）。<br /><mark class="tag-plugin mark" color="green">更新</mark>：支持将已隐藏和最近删除上锁（默认开启）。<br /><mark class="tag-plugin mark" color="green">更新</mark>：支持将有明显界线的图片进行背景分离。<br /><mark class="tag-plugin mark" color="green">更新</mark>：可以批处理图片。<br /><mark class="tag-plugin mark" color="green">更新</mark>：可以直接翻译图片中的文字。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：分离简单的背景比较好，但如果背景或者前景物体/人物的边比较复杂，就会毛边。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：重复照片检测不准确，有重复但没检测到的情况（但暂时没发现误检测的状况）。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：批处理图片只能处理滤镜类型，不能裁剪。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：图片翻译之后，不能拖动和缩放图片，否则翻译丢失，需要重新翻译（对于很多或者很长的文字不利）。<br /><h4 id="iMessage"><a href="#iMessage" class="headerlink" title="iMessage"></a>iMessage</h4><mark class="tag-plugin mark" color="green">更新</mark>：支持撤回/修改已经发送的信息（必须是iMessage，普通短信不行）。<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：双方都要是iOS/iPad OS 16才可以。<br /><h4 id="其它"><a href="#其它" class="headerlink" title="其它"></a>其它</h4><mark class="tag-plugin mark" color="green">更新</mark>：在设置中可以验证Face ID后查看当前的WiFi密码（前提是你连上了）。<br /><mark class="tag-plugin mark" color="green">更新</mark>："健康"App新增按日查看的数据（例如睡眠数据）。<br /><mark class="tag-plugin mark" color="green">更新</mark>：支持原生输入法震动。<br /><mark class="tag-plugin mark" color="green">更新</mark>：选中文本后的快捷菜单更美观了，可以联动深色模式，并且滑动翻页时候有动画了。<br /><mark class="tag-plugin mark" color="green">更新</mark>：听写功能可以持续打开，允许边听边改。<br /><mark class="tag-plugin mark" color="red">Bug</mark>：在设置-墙纸中无法修改主屏幕墙纸。（反复返回然后重新进入墙纸设置即可）<br /><mark class="tag-plugin mark" color="red">Bug</mark>：iCloud设置中的“隐藏邮件地址”消失了。<br /><h3 id="iPad-OS"><a href="#iPad-OS" class="headerlink" title="iPad OS"></a>iPad OS</h3><p>在性能、大型Bug、iMessage、相册中，iPad OS和iOS基本一致。<br /></p><mark class="tag-plugin mark" color="green">更新</mark>：只有如iOS上最基本的锁屏样式<br /><mark class="tag-plugin mark" color="green">更新</mark>：新增了为大屏幕设计的天气App<br /><mark class="tag-plugin mark" color="purple">缺点</mark>：自定义锁定屏幕还没开放，不过可以使用快捷指令的“打开App”功能启动“PosterBoard”来体验编辑器（无法保存且有显示Bug）<br /><mark class="tag-plugin mark" color="red">Bug</mark>：在天气App，打开和关闭侧边栏时，布局不能正常回归原位。<br /><mark class="tag-plugin mark" color="green">M1 iPad 专属功能</mark>：我没有M1（大嘘）<br />]]></content>
     
