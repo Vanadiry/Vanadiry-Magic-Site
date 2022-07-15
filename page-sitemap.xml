@@ -10,6 +10,24 @@
     
     
     <url>
+        <loc>https://magic.vanadiry.com/info/update/</loc>
+        <lastmod>2022-07-15T02:50:47.782Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://magic.vanadiry.com/about/</loc>
+        <lastmod>2022-07-15T02:47:48.755Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://magic.vanadiry.com/url/acg/</loc>
         <lastmod>2022-07-07T05:50:43.893Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -91,62 +109,8 @@
     
     
     <url>
-        <loc>https://magic.vanadiry.com/info/update/</loc>
-        <lastmod>2022-07-02T15:37:28.960Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://magic.vanadiry.com/info/nmet/</loc>
         <lastmod>2022-07-02T15:23:09.764Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/about/</loc>
-        <lastmod>2022-07-02T15:20:12.905Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/vacgn/reviews_anime/</loc>
-        <lastmod>2022-06-24T10:07:53.683Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/vacgn/finish_anime/</loc>
-        <lastmod>2022-06-24T10:07:38.529Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/vacgn/archive_real/</loc>
-        <lastmod>2022-06-24T10:06:59.968Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/vacgn/archive_anime/</loc>
-        <lastmod>2022-06-24T10:05:05.714Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -190,15 +154,6 @@
     
     
     <url>
-        <loc>https://magic.vanadiry.com/vacgn/</loc>
-        <lastmod>2022-05-27T08:58:41.581Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://magic.vanadiry.com/url/</loc>
         <lastmod>2022-05-21T11:47:41.392Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -208,35 +163,8 @@
     
     
     <url>
-        <loc>https://magic.vanadiry.com/vacgn/archive_galgame/</loc>
-        <lastmod>2022-05-21T08:15:15.911Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://magic.vanadiry.com/url/about/</loc>
         <lastmod>2022-05-13T03:14:47.179Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/vacgn/archive_manga/</loc>
-        <lastmod>2022-05-05T01:53:53.201Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://magic.vanadiry.com/vacgn/archive_rpg/</loc>
-        <lastmod>2022-05-02T15:42:28.901Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
