@@ -6,7 +6,7 @@
   <link href="https://magic.vanadiry.com/atom.xml" rel="self"/>
   
   <link href="https://magic.vanadiry.com/"/>
-  <updated>2022-07-22T12:59:43.520Z</updated>
+  <updated>2022-07-12T05:36:01.539Z</updated>
   <id>https://magic.vanadiry.com/</id>
   
   <author>
@@ -15,31 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>测试</title>
-    <link href="https://magic.vanadiry.com/9999/07/18/blog/004/"/>
-    <id>https://magic.vanadiry.com/9999/07/18/blog/004/</id>
-    <published>9999-07-18T06:35:12.000Z</published>
-    <updated>2022-07-22T12:59:43.520Z</updated>
-    
-    <content type="html"><![CDATA[<p>点击下载<br><a href="https://magic.vanadiry.com/library/test.xlsx">https://magic.vanadiry.com/library/test.xlsx</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;点击下载&lt;br&gt;&lt;a href=&quot;https://magic.vanadiry.com/library/test.xlsx&quot;&gt;https://magic.vanadiry.com/library/test.xlsx&lt;/a&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="博客" scheme="https://magic.vanadiry.com/categories/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-    <category term="博客" scheme="https://magic.vanadiry.com/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-  </entry>
   
   <entry>
     <title>iOS/iPadOS 16 Public Beta 简评（20A5312j）</title>
