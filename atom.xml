@@ -6,7 +6,7 @@
   <link href="https://magic.vanadiry.com/atom.xml" rel="self"/>
   
   <link href="https://magic.vanadiry.com/"/>
-  <updated>2022-07-22T12:57:30.849Z</updated>
+  <updated>2022-07-22T12:59:43.520Z</updated>
   <id>https://magic.vanadiry.com/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="https://magic.vanadiry.com/9999/07/18/blog/004/"/>
     <id>https://magic.vanadiry.com/9999/07/18/blog/004/</id>
     <published>9999-07-18T06:35:12.000Z</published>
-    <updated>2022-07-22T12:57:30.849Z</updated>
+    <updated>2022-07-22T12:59:43.520Z</updated>
     
-    <content type="html"><![CDATA[<p>点击下载<br><a href="https://magic.vanadiry.com/library/test.xslx">https://magic.vanadiry.com/library/test.xslx</a></p>]]></content>
+    <content type="html"><![CDATA[<p>点击下载<br><a href="https://magic.vanadiry.com/library/test.xlsx">https://magic.vanadiry.com/library/test.xlsx</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;点击下载&lt;br&gt;&lt;a href=&quot;https://magic.vanadiry.com/library/test.xslx&quot;&gt;https://magic.vanadiry.com/library/test.xslx&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;点击下载&lt;br&gt;&lt;a href=&quot;https://magic.vanadiry.com/library/test.xlsx&quot;&gt;https://magic.vanadiry.com/library/test.xlsx&lt;/a&gt;&lt;/p&gt;
 </summary>
       
     
@@ -1113,9 +1113,9 @@
     <category term="视频发布" scheme="https://magic.vanadiry.com/categories/%E8%A7%86%E9%A2%91%E5%8F%91%E5%B8%83/"/>
     
     
-    <category term="音游" scheme="https://magic.vanadiry.com/tags/%E9%9F%B3%E6%B8%B8/"/>
-    
     <category term="明日方舟" scheme="https://magic.vanadiry.com/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/"/>
+    
+    <category term="音游" scheme="https://magic.vanadiry.com/tags/%E9%9F%B3%E6%B8%B8/"/>
     
   </entry>
   
