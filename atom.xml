@@ -6,7 +6,7 @@
   <link href="https://magic.vanadiry.com/atom.xml" rel="self"/>
   
   <link href="https://magic.vanadiry.com/"/>
-  <updated>2022-07-12T05:36:01.539Z</updated>
+  <updated>2022-07-27T17:08:58.852Z</updated>
   <id>https://magic.vanadiry.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>局域网内使用SMB共享文件的简单方法</title>
+    <link href="https://magic.vanadiry.com/2022/07/28/tech/001/"/>
+    <id>https://magic.vanadiry.com/2022/07/28/tech/001/</id>
+    <published>2022-07-27T16:14:39.000Z</published>
+    <updated>2022-07-27T17:08:58.852Z</updated>
+    
+    <content type="html"><![CDATA[<p>这篇文章简单讲了在Windows下使用SMB共享文件的方法。<br>因为只是方便家里的各种设备上互相共享文件，就没有在用户权限上下太多功夫。所以如果你有随时随地都共享的需求的话还是别看这个了（（（<br>我主要把这个用作手机和电脑传点文件，或者在VR或者电视上看点小电影什么的。</p><h3 id="准备…"><a href="#准备…" class="headerlink" title="准备…"></a>准备…</h3><p>一台联网的Windows PC（在局域网里就够了，比如连了个路由器什么的）</p><p>如果用iOS&#x2F;iPadOS设备上的“文件”App，需要iOS&#x2F;iPadOS13或者更高版本（或者使用其它支持SMB的软件）</p><h3 id="安全方面"><a href="#安全方面" class="headerlink" title="安全方面"></a>安全方面</h3><h4 id="关闭SMB1"><a href="#关闭SMB1" class="headerlink" title="关闭SMB1"></a>关闭SMB1</h4><p>打开“控制面板”&gt;“所有控制面板项”&gt;“程序和功能”&gt;”启用或关闭Windows功能“，取消勾选”SMB 1.0&#x2F;CIFS文件共享支持“，然后重启电脑。</p><h4 id="开启带保护的共享"><a href="#开启带保护的共享" class="headerlink" title="开启带保护的共享"></a>开启带保护的共享</h4><p>在”控制面板“&gt;”网络和Internet“&gt;”网络和共享中心“&gt;”高级共享设置“&gt;”来宾或公用“中勾选”启用文件和打印机共享“。</p><p>在”控制面板“&gt;”网络和Internet“&gt;”网络和共享中心“&gt;”高级共享设置“&gt;”所有网络“中，勾选”128位加密“和”有密码保护的共享“。</p><p>上面这步很多文章为了省事，说要调成没密码的（（（</p><h4 id="新建SMB账户（可选-x2F-建议）"><a href="#新建SMB账户（可选-x2F-建议）" class="headerlink" title="新建SMB账户（可选&#x2F;建议）"></a>新建SMB账户（可选&#x2F;建议）</h4><p>给这类共享新建一个本地账户，方便登录，因为我的电脑用了微软账户登录，在用”文件“App时候，账户密码日常抽风。家庭版Windows没有本地安全策略，所以这里就不教分配权限了（</p><p>打开”设置“&gt;”账户“&gt;”家庭和其他用户“，在”其他用户“栏里点”添加账户“。如果需要用微软账户登录，则点击”我没有这个人的登录信息“&gt;”添加一个没有 Microsoft 帐户的用户“，然后按步骤创建即可。</p><p>如果这个账户被设为了管理员，记得把它的管理员下掉。</p><h3 id="开始共享"><a href="#开始共享" class="headerlink" title="开始共享"></a>开始共享</h3><h4 id="共享文件夹"><a href="#共享文件夹" class="headerlink" title="共享文件夹"></a>共享文件夹</h4><p>选择一个需要共享的文件夹，打开它的”属性“&gt;”共享“&gt;”高级共享“，勾选”共享此文件夹“</p><p>然后点击”权限“，删除”Everyone“，然后添加刚刚新建的SMB账户，给这个账户”完全控制“的权限，或者按照需求只给读取。</p><p>最后点确定</p><h4 id="获得电脑IP"><a href="#获得电脑IP" class="headerlink" title="获得电脑IP"></a>获得电脑IP</h4><p>按Win+R，打卡cmd，然后输入ipconfig，在里面找到你的IP地址并记下来，一般是192.168.x.x（如果有公网IP并且电脑就是，那你应该知道你有公网IP罢，就不要看这个力）</p><p>如果连了路由器，也可以直接在路由器后台看一看。</p><h4 id="固定电脑IP（可选）"><a href="#固定电脑IP（可选）" class="headerlink" title="固定电脑IP（可选）"></a>固定电脑IP（可选）</h4><p>登录路由器后台，找到”IP与MAC绑定“这类的功能，把你的电脑加进去，然后记下这里显示的IP。</p><h3 id="连接共享文件夹"><a href="#连接共享文件夹" class="headerlink" title="连接共享文件夹"></a>连接共享文件夹</h3><p>在支持SMB的软件中（以iOS的”文件“App为例），点击”连接服务器“，在服务器地址中填写”smb:&#x2F;&#x2F;xxx.xxx.xxx.xxx“（xxx是你刚才拿到的电脑IP）。</p><p>选择”注册用户“，名称和密码就是新建SMB账户的用户名和密码，最后连接。</p><p>到此就完成了。</p><h3 id="其它（可选）"><a href="#其它（可选）" class="headerlink" title="其它（可选）"></a>其它（可选）</h3><p>如果你觉得连进去的地址是一串数字很难看，刚好你有你觉得好看的域名的话，可以给一个解析（（（（（<br>虽然没什么用，但确实变好看了，至少你看着顺眼（（（（<br>不过这样的话，连接的那台设备必须能能联网才行（你的内网外面的网（（（（（</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这篇文章简单讲了在Windows下使用SMB共享文件的方法。&lt;br&gt;因为只是方便家里的各种设备上互相共享文件，就没有在用户权限上下太多功夫。所以如果你有随时随地都共享的需求的话还是别看这个了（（（&lt;br&gt;我主要把这个用作手机和电脑传点文件，或者在VR或者电视上看点小电影什么</summary>
+      
+    
+    
+    
+    <category term="技术" scheme="https://magic.vanadiry.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="SMB" scheme="https://magic.vanadiry.com/tags/SMB/"/>
+    
+  </entry>
   
   <entry>
     <title>iOS/iPadOS 16 Public Beta 简评（20A5312j）</title>
@@ -437,32 +461,6 @@
   </entry>
   
   <entry>
-    <title>一个Oculus Quest 2 的60刀/30刀邀请链接</title>
-    <link href="https://magic.vanadiry.com/2022/02/19/oculus/003/"/>
-    <id>https://magic.vanadiry.com/2022/02/19/oculus/003/</id>
-    <published>2022-02-19T05:29:07.000Z</published>
-    <updated>2022-03-26T13:51:06.604Z</updated>
-    
-    <content type="html"><![CDATA[<p>我自己的！<a href="https://www.oculus.com/referrals/link/Vanadiry">https://www.oculus.com/referrals/link/Vanadiry</a></p><p>呜呜呜</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;我自己的！&lt;a href=&quot;https://www.oculus.com/referrals/link/Vanadiry&quot;&gt;https://www.oculus.com/referrals/link/Vanadiry&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;呜呜呜&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="Oculus" scheme="https://magic.vanadiry.com/categories/Oculus/"/>
-    
-    
-    <category term="Quest 2" scheme="https://magic.vanadiry.com/tags/Quest-2/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Oculus Quest 2 录制16:9视频</title>
     <link href="https://magic.vanadiry.com/2022/02/19/oculus/002/"/>
     <id>https://magic.vanadiry.com/2022/02/19/oculus/002/</id>
@@ -477,6 +475,32 @@
     <summary type="html">&lt;p&gt;你需要先打开Quest 2的开发者模式，然后连接到电脑，在电脑上安装SideQuest，并连接上。&lt;/p&gt;
 &lt;p&gt;点上面的&lt;strong&gt;Run ADB commands&lt;/strong&gt;然后选&lt;strong&gt;CUSTOM COMMAND&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;输</summary>
+      
+    
+    
+    
+    <category term="Oculus" scheme="https://magic.vanadiry.com/categories/Oculus/"/>
+    
+    
+    <category term="Quest 2" scheme="https://magic.vanadiry.com/tags/Quest-2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一个Oculus Quest 2 的60刀/30刀邀请链接</title>
+    <link href="https://magic.vanadiry.com/2022/02/19/oculus/003/"/>
+    <id>https://magic.vanadiry.com/2022/02/19/oculus/003/</id>
+    <published>2022-02-19T05:29:07.000Z</published>
+    <updated>2022-03-26T13:51:06.604Z</updated>
+    
+    <content type="html"><![CDATA[<p>我自己的！<a href="https://www.oculus.com/referrals/link/Vanadiry">https://www.oculus.com/referrals/link/Vanadiry</a></p><p>呜呜呜</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;我自己的！&lt;a href=&quot;https://www.oculus.com/referrals/link/Vanadiry&quot;&gt;https://www.oculus.com/referrals/link/Vanadiry&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;呜呜呜&lt;/p&gt;
+</summary>
       
     
     
@@ -1088,9 +1112,9 @@
     <category term="视频发布" scheme="https://magic.vanadiry.com/categories/%E8%A7%86%E9%A2%91%E5%8F%91%E5%B8%83/"/>
     
     
-    <category term="音游" scheme="https://magic.vanadiry.com/tags/%E9%9F%B3%E6%B8%B8/"/>
-    
     <category term="明日方舟" scheme="https://magic.vanadiry.com/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/"/>
+    
+    <category term="音游" scheme="https://magic.vanadiry.com/tags/%E9%9F%B3%E6%B8%B8/"/>
     
   </entry>
   
