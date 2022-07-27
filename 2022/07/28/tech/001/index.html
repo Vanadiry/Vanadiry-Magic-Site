@@ -28,7 +28,7 @@
 <meta property="og:description" content="这篇文章简单讲了在Windows下使用SMB共享文件的方法。因为只是方便家里的各种设备上互相共享文件，就没有在用户权限上下太多功夫。所以如果你有随时随地都共享的需求的话还是别看这个了（（（我主要把这个用作手机和电脑传点文件，或者在VR或者电视上看点小电影什么的。 准备…一台联网的Windows PC（在局域网里就够了，比如连了个路由器什么的） 如果用iOS&#x2F;iPadOS设备上的“文件”A">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2022-07-27T16:14:39.000Z">
-<meta property="article:modified_time" content="2022-07-27T17:08:58.852Z">
+<meta property="article:modified_time" content="2022-07-27T17:18:19.009Z">
 <meta property="article:author" content="Vanadiry">
 <meta property="article:tag" content="SMB">
 <meta name="twitter:card" content="summary">
@@ -105,21 +105,21 @@
 <p>这篇文章简单讲了在Windows下使用SMB共享文件的方法。<br>因为只是方便家里的各种设备上互相共享文件，就没有在用户权限上下太多功夫。所以如果你有随时随地都共享的需求的话还是别看这个了（（（<br>我主要把这个用作手机和电脑传点文件，或者在VR或者电视上看点小电影什么的。</p>
 <h3 id="准备…"><a href="#准备…" class="headerlink" title="准备…"></a>准备…</h3><p>一台联网的Windows PC（在局域网里就够了，比如连了个路由器什么的）</p>
 <p>如果用iOS&#x2F;iPadOS设备上的“文件”App，需要iOS&#x2F;iPadOS13或者更高版本（或者使用其它支持SMB的软件）</p>
-<h3 id="安全方面"><a href="#安全方面" class="headerlink" title="安全方面"></a>安全方面</h3><h4 id="关闭SMB1"><a href="#关闭SMB1" class="headerlink" title="关闭SMB1"></a>关闭SMB1</h4><p>打开“控制面板”&gt;“所有控制面板项”&gt;“程序和功能”&gt;”启用或关闭Windows功能“，取消勾选”SMB 1.0&#x2F;CIFS文件共享支持“，然后重启电脑。</p>
-<h4 id="开启带保护的共享"><a href="#开启带保护的共享" class="headerlink" title="开启带保护的共享"></a>开启带保护的共享</h4><p>在”控制面板“&gt;”网络和Internet“&gt;”网络和共享中心“&gt;”高级共享设置“&gt;”来宾或公用“中勾选”启用文件和打印机共享“。</p>
-<p>在”控制面板“&gt;”网络和Internet“&gt;”网络和共享中心“&gt;”高级共享设置“&gt;”所有网络“中，勾选”128位加密“和”有密码保护的共享“。</p>
+<h3 id="安全方面"><a href="#安全方面" class="headerlink" title="安全方面"></a>安全方面</h3><h4 id="关闭SMB1"><a href="#关闭SMB1" class="headerlink" title="关闭SMB1"></a>关闭SMB1</h4><p>打开“控制面板”&gt;“所有控制面板项”&gt;“程序和功能”&gt;“启用或关闭Windows功能”，取消勾选“SMB 1.0&#x2F;CIFS文件共享支持”，然后重启电脑。</p>
+<h4 id="开启带保护的共享"><a href="#开启带保护的共享" class="headerlink" title="开启带保护的共享"></a>开启带保护的共享</h4><p>在“控制面板”&gt;“网络和Internet”&gt;“网络和共享中心”&gt;“高级共享设置”&gt;“来宾或公用”中勾选“启用文件和打印机共享”。</p>
+<p>在“控制面板”&gt;“网络和Internet”&gt;“网络和共享中心”&gt;“高级共享设置”&gt;“所有网络”中，勾选“128位加密”和“有密码保护的共享”。</p>
 <p>上面这步很多文章为了省事，说要调成没密码的（（（</p>
 <h4 id="新建SMB账户（可选-x2F-建议）"><a href="#新建SMB账户（可选-x2F-建议）" class="headerlink" title="新建SMB账户（可选&#x2F;建议）"></a>新建SMB账户（可选&#x2F;建议）</h4><p>给这类共享新建一个本地账户，方便登录，因为我的电脑用了微软账户登录，在用”文件“App时候，账户密码日常抽风。家庭版Windows没有本地安全策略，所以这里就不教分配权限了（</p>
-<p>打开”设置“&gt;”账户“&gt;”家庭和其他用户“，在”其他用户“栏里点”添加账户“。如果需要用微软账户登录，则点击”我没有这个人的登录信息“&gt;”添加一个没有 Microsoft 帐户的用户“，然后按步骤创建即可。</p>
+<p>打开“设置”&gt;“账户”&gt;“家庭和其他用户”，在“其他用户”栏里点“添加账户”。如果需要用微软账户登录，则点击“我没有这个人的登录信息”&gt;“添加一个没有 Microsoft 帐户的用户”，然后按步骤创建即可。</p>
 <p>如果这个账户被设为了管理员，记得把它的管理员下掉。</p>
-<h3 id="开始共享"><a href="#开始共享" class="headerlink" title="开始共享"></a>开始共享</h3><h4 id="共享文件夹"><a href="#共享文件夹" class="headerlink" title="共享文件夹"></a>共享文件夹</h4><p>选择一个需要共享的文件夹，打开它的”属性“&gt;”共享“&gt;”高级共享“，勾选”共享此文件夹“</p>
-<p>然后点击”权限“，删除”Everyone“，然后添加刚刚新建的SMB账户，给这个账户”完全控制“的权限，或者按照需求只给读取。</p>
+<h3 id="开始共享"><a href="#开始共享" class="headerlink" title="开始共享"></a>开始共享</h3><h4 id="共享文件夹"><a href="#共享文件夹" class="headerlink" title="共享文件夹"></a>共享文件夹</h4><p>选择一个需要共享的文件夹，打开它的“属性”&gt;“共享”&gt;“高级共享”，勾选“共享此文件夹”</p>
+<p>然后点击“权限”，删除“Everyone”，然后添加刚刚新建的SMB账户，给这个账户“完全控制”的权限，或者按照需求只给读取。</p>
 <p>最后点确定</p>
 <h4 id="获得电脑IP"><a href="#获得电脑IP" class="headerlink" title="获得电脑IP"></a>获得电脑IP</h4><p>按Win+R，打卡cmd，然后输入ipconfig，在里面找到你的IP地址并记下来，一般是192.168.x.x（如果有公网IP并且电脑就是，那你应该知道你有公网IP罢，就不要看这个力）</p>
 <p>如果连了路由器，也可以直接在路由器后台看一看。</p>
-<h4 id="固定电脑IP（可选）"><a href="#固定电脑IP（可选）" class="headerlink" title="固定电脑IP（可选）"></a>固定电脑IP（可选）</h4><p>登录路由器后台，找到”IP与MAC绑定“这类的功能，把你的电脑加进去，然后记下这里显示的IP。</p>
-<h3 id="连接共享文件夹"><a href="#连接共享文件夹" class="headerlink" title="连接共享文件夹"></a>连接共享文件夹</h3><p>在支持SMB的软件中（以iOS的”文件“App为例），点击”连接服务器“，在服务器地址中填写”smb:&#x2F;&#x2F;xxx.xxx.xxx.xxx“（xxx是你刚才拿到的电脑IP）。</p>
-<p>选择”注册用户“，名称和密码就是新建SMB账户的用户名和密码，最后连接。</p>
+<h4 id="固定电脑IP（可选）"><a href="#固定电脑IP（可选）" class="headerlink" title="固定电脑IP（可选）"></a>固定电脑IP（可选）</h4><p>登录路由器后台，找到“IP与MAC绑定”这类的功能，把你的电脑加进去，然后记下这里显示的IP。</p>
+<h3 id="连接共享文件夹"><a href="#连接共享文件夹" class="headerlink" title="连接共享文件夹"></a>连接共享文件夹</h3><p>在支持SMB的软件中（以iOS的“文件”App为例），点击“连接服务器”，在服务器地址中填写“smb:&#x2F;&#x2F;xxx.xxx.xxx.xx”（xxx是你刚才拿到的电脑IP）。</p>
+<p>选择“注册用户”，名称和密码就是新建SMB账户的用户名和密码，最后连接。</p>
 <p>到此就完成了。</p>
 <h3 id="其它（可选）"><a href="#其它（可选）" class="headerlink" title="其它（可选）"></a>其它（可选）</h3><p>如果你觉得连进去的地址是一串数字很难看，刚好你有你觉得好看的域名的话，可以给一个解析（（（（（<br>虽然没什么用，但确实变好看了，至少你看着顺眼（（（（<br>不过这样的话，连接的那台设备必须能能联网才行（你的内网外面的网（（（（（</p>
 
