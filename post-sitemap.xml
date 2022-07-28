@@ -9,16 +9,24 @@
 
 
     <url>
-        <loc>https://magic.vanadiry.com/2022/07/28/tech/001/</loc>
-        <lastmod>2022-07-27T17:18:19.009Z</lastmod>
+        <loc>https://magic.vanadiry.com/2022/07/29/blog/003/</loc>
+        <lastmod>2022-07-28T17:09:47.137Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://magic.vanadiry.com/2022/07/12/apple/005/</loc>
-        <lastmod>2022-07-12T05:36:01.539Z</lastmod>
+        <loc>https://magic.vanadiry.com/2022/07/29/blog/002/</loc>
+        <lastmod>2022-07-28T15:12:49.523Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://magic.vanadiry.com/2022/07/28/apple/005/</loc>
+        <lastmod>2022-07-28T15:08:07.776Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -26,7 +34,7 @@
 
     <url>
         <loc>https://magic.vanadiry.com/2022/07/07/apple/003/</loc>
-        <lastmod>2022-07-12T05:29:30.226Z</lastmod>
+        <lastmod>2022-07-28T15:07:59.365Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -34,7 +42,7 @@
 
     <url>
         <loc>https://magic.vanadiry.com/2022/06/12/apple/001/</loc>
-        <lastmod>2022-07-12T05:29:09.464Z</lastmod>
+        <lastmod>2022-07-28T14:59:27.646Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -42,7 +50,15 @@
 
     <url>
         <loc>https://magic.vanadiry.com/2022/06/23/apple/002/</loc>
-        <lastmod>2022-07-12T05:28:18.634Z</lastmod>
+        <lastmod>2022-07-28T14:58:38.258Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://magic.vanadiry.com/2022/07/28/tech/001/</loc>
+        <lastmod>2022-07-27T17:18:19.009Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
